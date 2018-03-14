@@ -1,0 +1,15 @@
+name: material_design_icons_flutter
+description: The Material Design Icons from the community for Flutter
+author: Daniel Li <i@ziofat.me>
+homepage: https://github.com/ziofat/material_design_icons_flutter
+version: 1.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: Material Design Icons
+      fonts:
+        - asset: lib/fonts/materialdesignicons-webfont.eot
