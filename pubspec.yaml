@@ -12,4 +12,4 @@ flutter:
   fonts:
     - family: Material Design Icons
       fonts:
-        - asset: lib/fonts/materialdesignicons-webfont.eot
+        - asset: lib/fonts/materialdesignicons-webfont.ttf
