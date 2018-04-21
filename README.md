@@ -2,14 +2,16 @@
 
 The [Material Design Icons](https://materialdesignicons.com/) Icon pack available as set of Flutter Icons.
 
-Based on Material Design Icons 2.1.19. Includes more than 2000 icons.
+Based on Material Design Icons 2.3.50. Includes 2350 icons.
+
+This package will respect Material Design Icons' version since it might introduce breaking changes between **minor** versions.
 
 ## Installation
 
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-  material_design_icons_flutter: 1.0.0
+  material_design_icons_flutter: 2.3.50
 ```
 
 ## Usage
