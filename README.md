@@ -35,3 +35,4 @@ Some icons' name is reversed keyword in Dart (and most other languages), so the 
 - `null` -> `nullIcon`
 - `switch` -> `switchIcon`
 - `sync` -> `syncIcon`
+- `factory` -> `factoryIcon`
