@@ -1,7 +1,7 @@
 library material_design_icons_flutter;
 
 import 'package:flutter/widgets.dart';
-import 'package:material_design_icons_flutter/iconMap.dart';
+import 'package:material_design_icons_flutter/icon_map.dart';
 
 class MdiIcons {
   static const IconData accessPoint = const _MdiIconData(0xf002);
