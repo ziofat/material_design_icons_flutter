@@ -1,6 +1,7 @@
 library material_design_icons_flutter;
 
 import 'package:flutter/widgets.dart';
+import 'package:material_design_icons_flutter/iconMap.dart';
 
 class MdiIcons {
   static const IconData accessPoint = const _MdiIconData(0xf002);
@@ -3496,6 +3497,11 @@ class MdiIcons {
   static const IconData zodiacScorpio = const _MdiIconData(0xfa85);
   static const IconData zodiacTaurus = const _MdiIconData(0xfa86);
   static const IconData zodiacVirgo = const _MdiIconData(0xfa87);
+
+  IconData operator [] (String key) {
+    int codePoint = iconMap[key];
+    return _MdiIconData(codePoint);
+  }
 }
 
 class _MdiIconData extends IconData {
