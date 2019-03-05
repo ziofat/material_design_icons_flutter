@@ -3498,6 +3498,11 @@ class MdiIcons {
   static const IconData zodiacTaurus = const _MdiIconData(0xfa86);
   static const IconData zodiacVirgo = const _MdiIconData(0xfa87);
 
+  static IconData fromString(String key) {
+    int codePoint = iconMap[key];
+    return _MdiIconData(codePoint);
+  }
+
   IconData operator [] (String key) {
     int codePoint = iconMap[key];
     return _MdiIconData(codePoint);
