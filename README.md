@@ -9,7 +9,7 @@ Based on Material Design Icons 3.4.93.
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-  material_design_icons_flutter: 3.1.3493
+  material_design_icons_flutter: 3.2.3595
 ```
 
 ## Usage
@@ -33,13 +33,11 @@ Or, if you want to access the icon by a string name, instantiation a library of 
 ```dart
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
-MdiIcons iconLib = new MdiIcons();
-
 class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return new IconButton(
       // Use the string name to access icons.
-      icon: new Icon(iconLib['sword']), 
+      icon: new Icon(MdiIcons.fromString('sword')), 
       onPressed: () { print('Using the sword'); }
      );
   }
