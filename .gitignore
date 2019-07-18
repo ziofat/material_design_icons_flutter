@@ -13,3 +13,7 @@ doc/api/
 
 # Files in MacOS
 .DS_Store
+
+# Temp files
+tools/_variables.scss
+tools/materialdesignicons-webfont.ttf

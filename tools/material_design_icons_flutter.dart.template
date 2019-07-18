@@ -1,0 +1,27 @@
+library material_design_icons_flutter;
+
+import 'package:flutter/widgets.dart';
+import 'package:material_design_icons_flutter/icon_map.dart';
+
+class MdiIcons {
+<%  static const IconData __ICON_NAME__ = const _MdiIconData(__CODE_POINT__);%>
+
+  static IconData fromString(String key) {
+    int codePoint = iconMap[key];
+    return _MdiIconData(codePoint);
+  }
+
+  IconData operator [] (String key) {
+    int codePoint = iconMap[key];
+    return _MdiIconData(codePoint);
+  }
+}
+
+class _MdiIconData extends IconData {
+  const _MdiIconData(int codePoint)
+      : super(
+    codePoint,
+    fontFamily: 'Material Design Icons',
+    fontPackage: 'material_design_icons_flutter',
+  );
+}

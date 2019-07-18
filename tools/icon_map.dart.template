@@ -1,0 +1,3 @@
+Map<String, int> iconMap = {
+<%  '__ICON_NAME__': __CODE_POINT__,%>
+};
