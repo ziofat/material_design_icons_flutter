@@ -2,14 +2,14 @@
 
 The [Material Design Icons](https://materialdesignicons.com/) Icon pack available as set of Flutter Icons.
 
-Based on Material Design Icons 3.6.95.
+Based on Material Design Icons 3.8.95.
 
 ## Installation
 
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-  material_design_icons_flutter: 3.2.3695
+  material_design_icons_flutter: 3.2.3895
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return new IconButton(
       // Use the MdiIcons class for the IconData
-      icon: new Icon(MdiIcons.sword), 
+      icon: new Icon(MdiIcons.sword),
       onPressed: () { print('Using the sword'); }
      );
   }
@@ -39,7 +39,7 @@ class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return new IconButton(
       // Use the string name to access icons.
-      icon: new Icon(MdiIcons.fromString('sword')), 
+      icon: new Icon(MdiIcons.fromString('sword')),
       onPressed: () { print('Using the sword'); }
      );
   }
