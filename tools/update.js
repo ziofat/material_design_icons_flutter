@@ -110,7 +110,7 @@ async function sleep(miliseconds) {
     generateCodeFromTemplate('./material_design_icons_flutter.dart.template', '../lib/material_design_icons_flutter.dart', info);
     generateCodeFromTemplate('./icon_map.dart.template', '../lib/icon_map.dart', info);
     generateCodeFromTemplate('./main.dart.template', '../example/lib/main.dart', info);
-    // moveFile('./materialdesignicons-webfont.ttf', '../lib/fonts/materialdesignicons-webfont.ttf');
-    // moveFile('./_variables.scss');
+    moveFile('./materialdesignicons-webfont.ttf', '../lib/fonts/materialdesignicons-webfont.ttf');
+    moveFile('./_variables.scss');
     console.log('done, latest version:', info.version);
 })();
