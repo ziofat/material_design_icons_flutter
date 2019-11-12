@@ -4602,11 +4602,13 @@ class MdiIcons {
 
   static IconData fromString(String key) {
     int codePoint = iconMap[key];
+    if (codePoint == null) return null;
     return _MdiIconData(codePoint);
   }
 
   IconData operator [] (String key) {
     int codePoint = iconMap[key];
+    if (codePoint == null) return null;
     return _MdiIconData(codePoint);
   }
 }
