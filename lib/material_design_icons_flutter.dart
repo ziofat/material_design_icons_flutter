@@ -4600,14 +4600,25 @@ class MdiIcons {
   static const IconData zodiacTaurus = const _MdiIconData(0xfa86);
   static const IconData zodiacVirgo = const _MdiIconData(0xfa87);
 
+  static toCamelCase(String str) {
+    RegExp exp = new RegExp(r"[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+");
+    Iterable<Match> matches = exp.allMatches(str);
+    String res = '';
+    for (Match m in matches) {
+      String match = m.group(0);
+      res += match.substring(0, 1).toUpperCase() + match.substring(1).toLowerCase();
+    }
+    return res.substring(0,1).toLowerCase() + res.substring(1);
+  }
+
   static IconData fromString(String key) {
-    int codePoint = iconMap[key];
+    int codePoint = iconMap[MdiIcons.toCamelCase(key)];
     if (codePoint == null) return null;
     return _MdiIconData(codePoint);
   }
 
   IconData operator [] (String key) {
-    int codePoint = iconMap[key];
+    int codePoint = iconMap[MdiIcons.toCamelCase(key)];
     if (codePoint == null) return null;
     return _MdiIconData(codePoint);
   }
