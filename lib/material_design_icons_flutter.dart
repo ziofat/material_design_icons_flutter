@@ -4622,6 +4622,10 @@ class MdiIcons {
     if (codePoint == null) return null;
     return _MdiIconData(codePoint);
   }
+
+  static List<String> getIconsName() {
+    return iconMap.keys.toList();
+  }
 }
 
 class _MdiIconData extends IconData {
