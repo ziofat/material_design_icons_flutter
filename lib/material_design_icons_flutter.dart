@@ -4603,6 +4603,7 @@ class MdiIcons {
   static toCamelCase(String str) {
     RegExp exp = new RegExp(r"[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+");
     Iterable<Match> matches = exp.allMatches(str);
+    if (matches.isEmpty) return '';
     String res = '';
     for (Match m in matches) {
       String match = m.group(0);
