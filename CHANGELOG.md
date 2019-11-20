@@ -1,3 +1,11 @@
+## 3.4.4595
+
+Added a `getIconsName` static method.
+
+## 3.3.4595
+
+Added ability to recognise dash style icon name.
+
 ## 3.2.3895
 
 Added auto-update script which is wriiten in JavaScript.

@@ -9,7 +9,7 @@ Based on Material Design Icons 4.5.95
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-  material_design_icons_flutter: 3.3.4595
+  material_design_icons_flutter: 3.4.4595
 ```
 
 ## Usage
