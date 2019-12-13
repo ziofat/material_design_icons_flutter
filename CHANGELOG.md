@@ -1,3 +1,7 @@
+## 3.4.4795
+
+Update icons.
+
 ## 3.4.4595
 
 Added a `getIconsName` static method.
