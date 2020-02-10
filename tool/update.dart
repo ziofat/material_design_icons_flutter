@@ -118,6 +118,10 @@ main() async {
     );
     File('./tool/materialdesignicons-webfont.ttf').renameSync('./lib/fonts/materialdesignicons-webfont.ttf');
     File('./tool/_variables.scss').deleteSync();
-    print('done, latest version: ${info.version}');
+    var spec = File('./pubspec.yaml').readAsStringSync();
+    var match = RegExp(r'version:\s(\d+)\.(\d+)\.(\d+)').firstMatch(spec);
+    var currentVersion = match[3];
+    var latestVersion = info.version.replaceAll('.', '');
+    print('done, latest version: ${info.version}, need publish: ${currentVersion != latestVersion}');
     exit(0);
 }
