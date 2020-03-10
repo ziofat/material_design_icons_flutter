@@ -1,12 +1,4 @@
-## 3.4.4995
-
-Update icons.
-
-## 3.4.4895
-
-Update icons.
-
-## 3.4.4795
+## 3.4.5045
 
 Update icons.
 
