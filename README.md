@@ -14,7 +14,7 @@ In the `dependencies:` section of your `pubspec.yaml`, add the following line:
   material_design_icons_flutter: 3.4.5045
 ```
 
-**WARNING**: MDI's version is based on their icons quantity, which does not strictly respect semver guide. They do try their best to keep icons in same name between minor releases but name changing may still appear. To not break your application, using a fix version in your `pubspec.yaml` is highly recommanded.
+**WARNING**: MDI's version is based on their icons quantity, which does not strictly respect semver guide. They do try their best to keep icons in same name between minor releases but name changing may still appear. To not break your application, using a fix version in your `pubspec.yaml` is highly recommended.
 
 ## Usage
 
