@@ -1,3 +1,11 @@
+## 4.0.5045
+
+Update icons to 5.0.45 of mdi. Some icons are removed or renamed.
+
+## 3.4.5045+1
+
+Restore deprecated icons and make alias available to avoid breaking change.
+
 ## 3.4.5045
 
 Update icons.
