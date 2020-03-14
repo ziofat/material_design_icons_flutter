@@ -2,7 +2,7 @@
 
 The [Material Design Icons](https://materialdesignicons.com/) Icon pack available as set of Flutter Icons.
 
-Based on Material Design Icons 4.9.95.
+Based on Material Design Icons 5.0.45, with removed and renamed icons from 4.9.95.
 
 👍 Like us on [pub.dev](https://pub.dev/packages/material_design_icons_flutter)!
 
@@ -11,8 +11,10 @@ Based on Material Design Icons 4.9.95.
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-  material_design_icons_flutter: 3.4.4995
+  material_design_icons_flutter: 3.4.5045+1
 ```
+
+**WARNING**: MDI's version is based on their icons quantity, which does not strictly respect semver guide. They do try their best to keep icons in same name between minor releases but name changing may still appear. To not break your application, using a fix version in your `pubspec.yaml` is highly recommended.
 
 ## Usage
 

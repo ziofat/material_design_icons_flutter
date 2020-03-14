@@ -1,12 +1,8 @@
-## 3.4.4995
+## 3.4.5045+1
 
-Update icons.
+Restore deprecated icons and make alias available to avoid breaking change.
 
-## 3.4.4895
-
-Update icons.
-
-## 3.4.4795
+## 3.4.5045
 
 Update icons.
 
