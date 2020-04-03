@@ -52,7 +52,7 @@ class MyWidget extends StatelessWidget {
 
 ## Name Conversion
 
-Some icons' name is reversed keyword in Dart (and most other languages), so the names have been changed.
+Some icons' names are reserved keywords in Dart (and most other languages), so they have been changed.
 
 - `null` -> `nullIcon`
 - `switch` -> `switchIcon`
