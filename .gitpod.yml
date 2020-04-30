@@ -1,0 +1,5 @@
+vscode:
+  extensions:
+    - Dart-Code.dart-code@3.9.1:jTAh+eEdGYiGfXpp+cNFlg==
+    - Dart-Code.flutter@3.9.1:Vg9YBnZuZPBIetUV1bObAQ==
+image: gitpod/workspace-flutter
