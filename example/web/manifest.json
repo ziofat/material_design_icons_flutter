@@ -1,6 +1,6 @@
 {
-    "name": "example2",
-    "short_name": "example2",
+    "name": "MaterialDesignIcons",
+    "short_name": "mdi",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",

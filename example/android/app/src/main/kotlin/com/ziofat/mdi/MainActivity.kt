@@ -1,4 +1,4 @@
-package com.example.example2
+package com.ziofat.mdi
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
