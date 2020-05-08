@@ -111,11 +111,6 @@ main() async {
         dest: './lib/icon_map.dart',
         info: info,
     );
-    await generateCode(
-        template: './tool/main.dart.template',
-        dest: './example/lib/main.dart',
-        info: info,
-    );
     File('./tool/materialdesignicons-webfont.ttf').renameSync('./lib/fonts/materialdesignicons-webfont.ttf');
     File('./tool/_variables.scss').deleteSync();
     var spec = File('./pubspec.yaml').readAsStringSync();
