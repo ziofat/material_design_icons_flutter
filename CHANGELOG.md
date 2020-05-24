@@ -1,3 +1,7 @@
+## 4.0.5345
+
+Update icons to 5.3.45 of mdi.
+
 ## 4.0.5245
 
 Update icons to 5.2.45 of mdi.
