@@ -36,7 +36,6 @@ class MyWidget extends StatelessWidget {
 
 Or, if you want to access the icon by a string name, you can use `fromString` method to create one.
 
-This is not recomended because to make `fromString` work we need a map for all icon names. Using this method will not get the benifits of tree-shaking.
 
 ```dart
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
@@ -51,6 +50,10 @@ class MyWidget extends StatelessWidget {
   }
 }
 ```
+
+__Note__: This is not recomended because to make `fromString` work we need a map for all icon names. Using this method will not get the benifits of tree-shaking.
+
+On flutter 1.22 and above, using `fromString` method will also cause a compile error `This application cannot tree shake icons fonts`, which can be bypass by building with `--no-tree-shake-icons`. 
 
 ## Name Conversion
 
