@@ -1,7 +1,7 @@
 name: material_design_icons_flutter
 description: The Material Design Icons designed by the community for Flutter
 homepage: https://github.com/ziofat/material_design_icons_flutter
-version: 4.0.5655
+version: 4.0.5755
 
 dependencies:
   flutter:

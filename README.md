@@ -4,7 +4,7 @@
 
 The [Material Design Icons](https://materialdesignicons.com/) Icon pack available as set of Flutter Icons.
 
-Based on Material Design Icons 5.6.55.
+Based on Material Design Icons 5.7.55.
 
 👍 Like us on [pub.dev](https://pub.dev/packages/material_design_icons_flutter)!
 
@@ -13,7 +13,7 @@ Based on Material Design Icons 5.6.55.
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-  material_design_icons_flutter: 4.0.5655
+  material_design_icons_flutter: 4.0.5755
 ```
 
 **WARNING**: MDI's version is based on their icons quantity, which does not strictly respect semver guide. They do try their best to keep icons in same name between minor releases but name changing may still appear. To not break your application, using a fix version in your `pubspec.yaml` is highly recommended.
@@ -53,7 +53,7 @@ class MyWidget extends StatelessWidget {
 
 __Note__: This is not recomended because to make `fromString` work we need a map for all icon names. Using this method will not get the benifits of tree-shaking.
 
-On flutter 1.22 and above, using `fromString` method will also cause a compile error `This application cannot tree shake icons fonts`, which can be bypass by building with `--no-tree-shake-icons`. 
+On flutter 1.22 and above, using `fromString` method will also cause a compile error `This application cannot tree shake icons fonts`, which can be bypass by building with `--no-tree-shake-icons`.
 
 ## Name Conversion
 
