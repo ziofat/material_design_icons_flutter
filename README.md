@@ -4,7 +4,7 @@
 
 The [Material Design Icons](https://materialdesignicons.com/) Icon pack available as set of Flutter Icons.
 
-Based on Material Design Icons 5.8.55.
+Based on Material Design Icons 5.8.55. See a [web demo](https://ziofat.github.io/material_design_icons_flutter/) build with this package.
 
 👍 Like us on [pub.dev](https://pub.dev/packages/material_design_icons_flutter)!
 
