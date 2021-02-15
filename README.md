@@ -51,7 +51,7 @@ class MyWidget extends StatelessWidget {
 }
 ```
 
-__Note__: This is not recomended because to make `fromString` work we need a map for all icon names. Using this method will not get the benifits of tree-shaking.
+__Note__: This is not recomended because to make `fromString` work we need a map for all icon names. Using this method will not get the benefits of tree-shaking.
 
 On flutter 1.22 and above, using `fromString` method will also cause a compile error `This application cannot tree shake icons fonts`, which can be bypass by building with `--no-tree-shake-icons`.
 

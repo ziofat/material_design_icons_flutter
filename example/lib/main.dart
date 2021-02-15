@@ -15,7 +15,7 @@ class MdiGalleryApp extends StatelessWidget {
         iconTheme: new IconThemeData(size: 36.0, color: Colors.black87),
         primarySwatch: Colors.blue,
         textTheme: new TextTheme(
-          body1: new TextStyle(fontSize: 16.0, color: Colors.black87),
+          bodyText2: new TextStyle(fontSize: 16.0, color: Colors.black87),
         ),
       ),
       home: new MdiGalleryHome(),
@@ -100,7 +100,7 @@ class MdiGalleryHomeState extends State<MdiGalleryHome> {
         new IconButton(
             icon: new Icon(MdiIcons.magnify),
             onPressed: () {
-              ModalRoute.of(context).addLocalHistoryEntry(
+              ModalRoute.of(context)!.addLocalHistoryEntry(
                 new LocalHistoryEntry(
                   onRemove: () {
                     setState(() {
@@ -144,9 +144,8 @@ class MdiGalleryHomeState extends State<MdiGalleryHome> {
 }
 
 class IconDefinition implements Comparable {
-  IconData iconData;
-  String title;
-
+  IconData? iconData;
+  late String title;
   IconDefinition(String key) {
     this.iconData = iconLib[key];
     this.title = this.toKebabCase(key);
@@ -154,13 +153,13 @@ class IconDefinition implements Comparable {
 
   String toKebabCase(String str) {
     return str
-      .replaceAllMapped(
-        RegExp(
-          r'[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+'),
-        (Match m) => "${m[0].toLowerCase()}_")
-      .split(RegExp(r'(_|\s)+'))
-      .takeWhile((value) => value != '')
-      .join('-');
+        .replaceAllMapped(
+            RegExp(
+                r'[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+'),
+            (Match m) => "${m[0]!.toLowerCase()}_")
+        .split(RegExp(r'(_|\s)+'))
+        .takeWhile((value) => value != '')
+        .join('-');
   }
 
   @override
