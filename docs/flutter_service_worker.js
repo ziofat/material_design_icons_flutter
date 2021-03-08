@@ -6,14 +6,14 @@ const RESOURCES = {
   "version.json": "2f5a81b4bc7b9b81f6bf1fc4bcf375b5",
 "index.html": "3aa6de61ae933667e66bfd1bdc55bfba",
 "/": "3aa6de61ae933667e66bfd1bdc55bfba",
-"main.dart.js": "43281b758aeb62bd31c70ed8e0e3f988",
+"main.dart.js": "223988b6df2c0615987a3cb6573b714c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "602b3c19692cf5ef53cd95df8aeb91f7",
 "assets/AssetManifest.json": "0ae7fc18201ca69c4417732763656d07",
-"assets/NOTICES": "da4a5e6f7470d94df91c78a07d042c82",
+"assets/NOTICES": "4afadf6bd68f291a55a175e079dc7396",
 "assets/FontManifest.json": "cf3c681641169319e61b61bd0277378f",
-"assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "3e722fd57a6db80ee119f0e2c230ccff",
+"assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "174c02fc4609e8fc4389f5d21f16a296",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac"
 };
 
@@ -158,7 +158,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }

@@ -1,3 +1,11 @@
+## 5.0.5955-rc.1
+
+Add null safety support, which require dart 2.12 or above.
+
+## 4.0.5955
+
+Update icons to 5.9.55 of mdi.
+
 ## 4.0.5855
 
 Update icons to 5.8.55 of mdi.
