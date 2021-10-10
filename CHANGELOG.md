@@ -1,3 +1,7 @@
+## 5.0.6295
+
+Update icons to 6.2.95 of mdi, which introduce breaking changes.
+
 ## 5.0.5955-rc.1
 
 Add null safety support, which require dart 2.12 or above.
