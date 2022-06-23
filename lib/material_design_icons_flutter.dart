@@ -63,6 +63,7 @@ class MdiIcons {
   static const IconData accountGroup = const _MdiIconData(0xf0849);
   static const IconData accountGroupOutline = const _MdiIconData(0xf0b58);
   static const IconData accountHardHat = const _MdiIconData(0xf05b5);
+  static const IconData accountHardHatOutline = const _MdiIconData(0xf1a1f);
   static const IconData accountHeart = const _MdiIconData(0xf0899);
   static const IconData accountHeartOutline = const _MdiIconData(0xf0be3);
   static const IconData accountInjury = const _MdiIconData(0xf1815);
@@ -100,6 +101,8 @@ class MdiIcons {
   static const IconData accountReactivateOutline = const _MdiIconData(0xf152c);
   static const IconData accountRemove = const _MdiIconData(0xf0015);
   static const IconData accountRemoveOutline = const _MdiIconData(0xf0aed);
+  static const IconData accountSchool = const _MdiIconData(0xf1a20);
+  static const IconData accountSchoolOutline = const _MdiIconData(0xf1a21);
   static const IconData accountSearch = const _MdiIconData(0xf0016);
   static const IconData accountSearchOutline = const _MdiIconData(0xf0935);
   static const IconData accountSettings = const _MdiIconData(0xf0630);
@@ -624,12 +627,14 @@ class MdiIcons {
   static const IconData aspectRatio = const _MdiIconData(0xf0a24);
   static const IconData assistant = const _MdiIconData(0xf0064);
   static const IconData asterisk = const _MdiIconData(0xf06c4);
+  static const IconData asteriskCircleOutline = const _MdiIconData(0xf1a27);
   static const IconData at = const _MdiIconData(0xf0065);
   static const IconData atlassian = const _MdiIconData(0xf0804);
   static const IconData atm = const _MdiIconData(0xf0d47);
   static const IconData atom = const _MdiIconData(0xf0768);
   static const IconData atomVariant = const _MdiIconData(0xf0e7b);
   static const IconData attachment = const _MdiIconData(0xf0066);
+  static const IconData attachmentLock = const _MdiIconData(0xf19c4);
   static const IconData audioInputRca = const _MdiIconData(0xf186b);
   static const IconData audioInputStereoMinijack = const _MdiIconData(0xf186c);
   static const IconData audioInputXlr = const _MdiIconData(0xf186d);
@@ -640,6 +645,7 @@ class MdiIcons {
   static const IconData autoFix = const _MdiIconData(0xf0068);
   static const IconData autoUpload = const _MdiIconData(0xf0069);
   static const IconData autorenew = const _MdiIconData(0xf006a);
+  static const IconData autorenewOff = const _MdiIconData(0xf19e7);
   static const IconData avTimer = const _MdiIconData(0xf006b);
   static const IconData aws = const _MdiIconData(0xf0e0f);
   static const IconData axe = const _MdiIconData(0xf08c8);
@@ -724,6 +730,7 @@ class MdiIcons {
   static const IconData barleyOff = const _MdiIconData(0xf0b5d);
   static const IconData barn = const _MdiIconData(0xf0b5e);
   static const IconData barrel = const _MdiIconData(0xf0074);
+  static const IconData barrelOutline = const _MdiIconData(0xf1a28);
   static const IconData baseball = const _MdiIconData(0xf0852);
   static const IconData baseballBat = const _MdiIconData(0xf0853);
   static const IconData baseballDiamond = const _MdiIconData(0xf15ec);
@@ -807,6 +814,8 @@ class MdiIcons {
   static const IconData batteryChargingWirelessOutline = const _MdiIconData(0xf0812);
   static const IconData batteryCheck = const _MdiIconData(0xf17e2);
   static const IconData batteryCheckOutline = const _MdiIconData(0xf17e3);
+  static const IconData batteryClock = const _MdiIconData(0xf19e5);
+  static const IconData batteryClockOutline = const _MdiIconData(0xf19e6);
   static const IconData batteryHeart = const _MdiIconData(0xf120f);
   static const IconData batteryHeartOutline = const _MdiIconData(0xf1210);
   static const IconData batteryHeartVariant = const _MdiIconData(0xf1211);
@@ -876,6 +885,8 @@ class MdiIcons {
   static const IconData bellCheckOutline = const _MdiIconData(0xf11e6);
   static const IconData bellCircle = const _MdiIconData(0xf0d5a);
   static const IconData bellCircleOutline = const _MdiIconData(0xf0d5b);
+  static const IconData bellCog = const _MdiIconData(0xf1a29);
+  static const IconData bellCogOutline = const _MdiIconData(0xf1a2a);
   static const IconData bellMinus = const _MdiIconData(0xf13e9);
   static const IconData bellMinusOutline = const _MdiIconData(0xf13ea);
   static const IconData bellOff = const _MdiIconData(0xf009b);
@@ -913,7 +924,11 @@ class MdiIcons {
   static const IconData blenderOutline = const _MdiIconData(0xf181a);
   static const IconData blenderSoftware = const _MdiIconData(0xf00ab);
   static const IconData blinds = const _MdiIconData(0xf00ac);
+  static const IconData blindsHorizontal = const _MdiIconData(0xf1a2b);
+  static const IconData blindsHorizontalClosed = const _MdiIconData(0xf1a2c);
   static const IconData blindsOpen = const _MdiIconData(0xf1011);
+  static const IconData blindsVertical = const _MdiIconData(0xf1a2d);
+  static const IconData blindsVerticalClosed = const _MdiIconData(0xf1a2e);
   static const IconData blockHelper = const _MdiIconData(0xf00ad);
   static const IconData bloodBag = const _MdiIconData(0xf0cec);
   static const IconData bluetooth = const _MdiIconData(0xf00af);
@@ -930,6 +945,7 @@ class MdiIcons {
   static const IconData bomb = const _MdiIconData(0xf0691);
   static const IconData bombOff = const _MdiIconData(0xf06c5);
   static const IconData bone = const _MdiIconData(0xf00b9);
+  static const IconData boneOff = const _MdiIconData(0xf19e0);
   static const IconData book = const _MdiIconData(0xf00ba);
   static const IconData bookAccount = const _MdiIconData(0xf13ad);
   static const IconData bookAccountOutline = const _MdiIconData(0xf13ae);
@@ -957,6 +973,8 @@ class MdiIcons {
   static const IconData bookEditOutline = const _MdiIconData(0xf168d);
   static const IconData bookEducation = const _MdiIconData(0xf16c9);
   static const IconData bookEducationOutline = const _MdiIconData(0xf16ca);
+  static const IconData bookHeart = const _MdiIconData(0xf1a1d);
+  static const IconData bookHeartOutline = const _MdiIconData(0xf1a1e);
   static const IconData bookInformationVariant = const _MdiIconData(0xf106f);
   static const IconData bookLock = const _MdiIconData(0xf079a);
   static const IconData bookLockOpen = const _MdiIconData(0xf079b);
@@ -1124,6 +1142,7 @@ class MdiIcons {
   static const IconData broom = const _MdiIconData(0xf00e2);
   static const IconData brush = const _MdiIconData(0xf00e3);
   static const IconData brushOff = const _MdiIconData(0xf1771);
+  static const IconData brushOutline = const _MdiIconData(0xf1a0d);
   static const IconData brushVariant = const _MdiIconData(0xf1813);
   static const IconData bucket = const _MdiIconData(0xf1415);
   static const IconData bucketOutline = const _MdiIconData(0xf1416);
@@ -1133,6 +1152,7 @@ class MdiIcons {
   static const IconData bugCheckOutline = const _MdiIconData(0xf0a2f);
   static const IconData bugOutline = const _MdiIconData(0xf0a30);
   static const IconData bugle = const _MdiIconData(0xf0db4);
+  static const IconData bulkheadLight = const _MdiIconData(0xf1a2f);
   static const IconData bulldozer = const _MdiIconData(0xf0b22);
   static const IconData bullet = const _MdiIconData(0xf0cf3);
   static const IconData bulletinBoard = const _MdiIconData(0xf00e5);
@@ -1191,6 +1211,8 @@ class MdiIcons {
   static const IconData calendarEnd = const _MdiIconData(0xf166c);
   static const IconData calendarExpandHorizontal = const _MdiIconData(0xf189e);
   static const IconData calendarExport = const _MdiIconData(0xf0b24);
+  static const IconData calendarFilter = const _MdiIconData(0xf1a32);
+  static const IconData calendarFilterOutline = const _MdiIconData(0xf1a33);
   static const IconData calendarHeart = const _MdiIconData(0xf09d2);
   static const IconData calendarImport = const _MdiIconData(0xf0b25);
   static const IconData calendarLock = const _MdiIconData(0xf1641);
@@ -1218,8 +1240,11 @@ class MdiIcons {
   static const IconData calendarText = const _MdiIconData(0xf00f5);
   static const IconData calendarTextOutline = const _MdiIconData(0xf0c46);
   static const IconData calendarToday = const _MdiIconData(0xf00f6);
+  static const IconData calendarTodayOutline = const _MdiIconData(0xf1a30);
   static const IconData calendarWeek = const _MdiIconData(0xf0a33);
   static const IconData calendarWeekBegin = const _MdiIconData(0xf0a34);
+  static const IconData calendarWeekBeginOutline = const _MdiIconData(0xf1a31);
+  static const IconData calendarWeekOutline = const _MdiIconData(0xf1a34);
   static const IconData calendarWeekend = const _MdiIconData(0xf0ed9);
   static const IconData calendarWeekendOutline = const _MdiIconData(0xf0eda);
   static const IconData callMade = const _MdiIconData(0xf00f7);
@@ -1244,6 +1269,8 @@ class MdiIcons {
   static const IconData cameraGopro = const _MdiIconData(0xf07a1);
   static const IconData cameraImage = const _MdiIconData(0xf08cc);
   static const IconData cameraIris = const _MdiIconData(0xf0104);
+  static const IconData cameraLock = const _MdiIconData(0xf1a14);
+  static const IconData cameraLockOutline = const _MdiIconData(0xf1a15);
   static const IconData cameraMarker = const _MdiIconData(0xf19a7);
   static const IconData cameraMarkerOutline = const _MdiIconData(0xf19a8);
   static const IconData cameraMeteringCenter = const _MdiIconData(0xf07a2);
@@ -1450,6 +1477,7 @@ class MdiIcons {
   static const IconData ceilingLightOutline = const _MdiIconData(0xf17c7);
   static const IconData cellphone = const _MdiIconData(0xf011c);
   static const IconData cellphoneArrowDown = const _MdiIconData(0xf09d5);
+  static const IconData cellphoneArrowDownVariant = const _MdiIconData(0xf19c5);
   static const IconData cellphoneBasic = const _MdiIconData(0xf011e);
   static const IconData cellphoneCharging = const _MdiIconData(0xf1397);
   static const IconData cellphoneCheck = const _MdiIconData(0xf17fd);
@@ -1780,6 +1808,8 @@ class MdiIcons {
   static const IconData cloudLockOutline = const _MdiIconData(0xf11f2);
   static const IconData cloudOffOutline = const _MdiIconData(0xf0164);
   static const IconData cloudOutline = const _MdiIconData(0xf0163);
+  static const IconData cloudPercent = const _MdiIconData(0xf1a35);
+  static const IconData cloudPercentOutline = const _MdiIconData(0xf1a36);
   static const IconData cloudPrint = const _MdiIconData(0xf0165);
   static const IconData cloudPrintOutline = const _MdiIconData(0xf0166);
   static const IconData cloudQuestion = const _MdiIconData(0xf0a39);
@@ -1793,6 +1823,7 @@ class MdiIcons {
   static const IconData cloudUploadOutline = const _MdiIconData(0xf0b7e);
   static const IconData clover = const _MdiIconData(0xf0816);
   static const IconData coachLamp = const _MdiIconData(0xf1020);
+  static const IconData coachLampVariant = const _MdiIconData(0xf1a37);
   static const IconData coatRack = const _MdiIconData(0xf109e);
   static const IconData codeArray = const _MdiIconData(0xf0168);
   static const IconData codeBraces = const _MdiIconData(0xf0169);
@@ -1903,6 +1934,7 @@ class MdiIcons {
   static const IconData compassOffOutline = const _MdiIconData(0xf0b81);
   static const IconData compassOutline = const _MdiIconData(0xf018c);
   static const IconData compassRose = const _MdiIconData(0xf1382);
+  static const IconData compost = const _MdiIconData(0xf1a38);
   static const IconData cone = const _MdiIconData(0xf194c);
   static const IconData coneOff = const _MdiIconData(0xf194d);
   static const IconData connection = const _MdiIconData(0xf1616);
@@ -2078,6 +2110,7 @@ class MdiIcons {
   static const IconData currencyEth = const _MdiIconData(0xf07bb);
   static const IconData currencyEur = const _MdiIconData(0xf01ad);
   static const IconData currencyEurOff = const _MdiIconData(0xf1315);
+  static const IconData currencyFra = const _MdiIconData(0xf1a39);
   static const IconData currencyGbp = const _MdiIconData(0xf01ae);
   static const IconData currencyIls = const _MdiIconData(0xf0c61);
   static const IconData currencyInr = const _MdiIconData(0xf01af);
@@ -2569,6 +2602,7 @@ class MdiIcons {
   static const IconData fanAuto = const _MdiIconData(0xf171d);
   static const IconData fanChevronDown = const _MdiIconData(0xf146d);
   static const IconData fanChevronUp = const _MdiIconData(0xf146e);
+  static const IconData fanClock = const _MdiIconData(0xf1a3a);
   static const IconData fanMinus = const _MdiIconData(0xf1470);
   static const IconData fanOff = const _MdiIconData(0xf081d);
   static const IconData fanPlus = const _MdiIconData(0xf146f);
@@ -2606,6 +2640,8 @@ class MdiIcons {
   static const IconData fileCertificate = const _MdiIconData(0xf1186);
   static const IconData fileCertificateOutline = const _MdiIconData(0xf1187);
   static const IconData fileChart = const _MdiIconData(0xf0215);
+  static const IconData fileChartCheck = const _MdiIconData(0xf19c6);
+  static const IconData fileChartCheckOutline = const _MdiIconData(0xf19c7);
   static const IconData fileChartOutline = const _MdiIconData(0xf1029);
   static const IconData fileCheck = const _MdiIconData(0xf0216);
   static const IconData fileCheckOutline = const _MdiIconData(0xf0e29);
@@ -2660,6 +2696,8 @@ class MdiIcons {
   static const IconData fileLink = const _MdiIconData(0xf1177);
   static const IconData fileLinkOutline = const _MdiIconData(0xf1178);
   static const IconData fileLock = const _MdiIconData(0xf0221);
+  static const IconData fileLockOpen = const _MdiIconData(0xf19c8);
+  static const IconData fileLockOpenOutline = const _MdiIconData(0xf19c9);
   static const IconData fileLockOutline = const _MdiIconData(0xf1030);
   static const IconData fileMarker = const _MdiIconData(0xf1774);
   static const IconData fileMarkerOutline = const _MdiIconData(0xf1775);
@@ -2693,6 +2731,10 @@ class MdiIcons {
   static const IconData fileReplaceOutline = const _MdiIconData(0xf0b33);
   static const IconData fileRestore = const _MdiIconData(0xf0670);
   static const IconData fileRestoreOutline = const _MdiIconData(0xf1038);
+  static const IconData fileRotateLeft = const _MdiIconData(0xf1a3b);
+  static const IconData fileRotateLeftOutline = const _MdiIconData(0xf1a3c);
+  static const IconData fileRotateRight = const _MdiIconData(0xf1a3d);
+  static const IconData fileRotateRightOutline = const _MdiIconData(0xf1a3e);
   static const IconData fileSearch = const _MdiIconData(0xf0c7c);
   static const IconData fileSearchOutline = const _MdiIconData(0xf0c7d);
   static const IconData fileSend = const _MdiIconData(0xf022a);
@@ -2736,6 +2778,8 @@ class MdiIcons {
   static const IconData filterMenuOutline = const _MdiIconData(0xf10e6);
   static const IconData filterMinus = const _MdiIconData(0xf0eee);
   static const IconData filterMinusOutline = const _MdiIconData(0xf0eef);
+  static const IconData filterMultiple = const _MdiIconData(0xf1a3f);
+  static const IconData filterMultipleOutline = const _MdiIconData(0xf1a40);
   static const IconData filterOff = const _MdiIconData(0xf14ef);
   static const IconData filterOffOutline = const _MdiIconData(0xf14f0);
   static const IconData filterOutline = const _MdiIconData(0xf0233);
@@ -2855,6 +2899,20 @@ class MdiIcons {
   static const IconData folderAccountOutline = const _MdiIconData(0xf0b9c);
   static const IconData folderAlert = const _MdiIconData(0xf0dcc);
   static const IconData folderAlertOutline = const _MdiIconData(0xf0dcd);
+  static const IconData folderArrowDown = const _MdiIconData(0xf19e8);
+  static const IconData folderArrowDownOutline = const _MdiIconData(0xf19e9);
+  static const IconData folderArrowLeft = const _MdiIconData(0xf19ea);
+  static const IconData folderArrowLeftOutline = const _MdiIconData(0xf19eb);
+  static const IconData folderArrowLeftRight = const _MdiIconData(0xf19ec);
+  static const IconData folderArrowLeftRightOutline = const _MdiIconData(0xf19ed);
+  static const IconData folderArrowRight = const _MdiIconData(0xf19ee);
+  static const IconData folderArrowRightOutline = const _MdiIconData(0xf19ef);
+  static const IconData folderArrowUp = const _MdiIconData(0xf19f0);
+  static const IconData folderArrowUpDown = const _MdiIconData(0xf19f1);
+  static const IconData folderArrowUpDownOutline = const _MdiIconData(0xf19f2);
+  static const IconData folderArrowUpOutline = const _MdiIconData(0xf19f3);
+  static const IconData folderCancel = const _MdiIconData(0xf19f4);
+  static const IconData folderCancelOutline = const _MdiIconData(0xf19f5);
   static const IconData folderCheck = const _MdiIconData(0xf197e);
   static const IconData folderCheckOutline = const _MdiIconData(0xf197f);
   static const IconData folderClock = const _MdiIconData(0xf0aba);
@@ -2867,6 +2925,8 @@ class MdiIcons {
   static const IconData folderEditOutline = const _MdiIconData(0xf0dce);
   static const IconData folderEye = const _MdiIconData(0xf178a);
   static const IconData folderEyeOutline = const _MdiIconData(0xf178b);
+  static const IconData folderFile = const _MdiIconData(0xf19f6);
+  static const IconData folderFileOutline = const _MdiIconData(0xf19f7);
   static const IconData folderGoogleDrive = const _MdiIconData(0xf024e);
   static const IconData folderHeart = const _MdiIconData(0xf10ea);
   static const IconData folderHeartOutline = const _MdiIconData(0xf10eb);
@@ -2895,13 +2955,19 @@ class MdiIcons {
   static const IconData folderMusicOutline = const _MdiIconData(0xf135a);
   static const IconData folderNetwork = const _MdiIconData(0xf0870);
   static const IconData folderNetworkOutline = const _MdiIconData(0xf0c81);
+  static const IconData folderOff = const _MdiIconData(0xf19f8);
+  static const IconData folderOffOutline = const _MdiIconData(0xf19f9);
   static const IconData folderOpen = const _MdiIconData(0xf0770);
   static const IconData folderOpenOutline = const _MdiIconData(0xf0dcf);
   static const IconData folderOutline = const _MdiIconData(0xf0256);
+  static const IconData folderPlay = const _MdiIconData(0xf19fa);
+  static const IconData folderPlayOutline = const _MdiIconData(0xf19fb);
   static const IconData folderPlus = const _MdiIconData(0xf0257);
   static const IconData folderPlusOutline = const _MdiIconData(0xf0b9d);
   static const IconData folderPound = const _MdiIconData(0xf0d09);
   static const IconData folderPoundOutline = const _MdiIconData(0xf0d0a);
+  static const IconData folderQuestion = const _MdiIconData(0xf19ca);
+  static const IconData folderQuestionOutline = const _MdiIconData(0xf19cb);
   static const IconData folderRefresh = const _MdiIconData(0xf0749);
   static const IconData folderRefreshOutline = const _MdiIconData(0xf0542);
   static const IconData folderRemove = const _MdiIconData(0xf0258);
@@ -2924,6 +2990,8 @@ class MdiIcons {
   static const IconData folderTextOutline = const _MdiIconData(0xf0c83);
   static const IconData folderUpload = const _MdiIconData(0xf0259);
   static const IconData folderUploadOutline = const _MdiIconData(0xf10ed);
+  static const IconData folderWrench = const _MdiIconData(0xf19fc);
+  static const IconData folderWrenchOutline = const _MdiIconData(0xf19fd);
   static const IconData folderZip = const _MdiIconData(0xf06eb);
   static const IconData folderZipOutline = const _MdiIconData(0xf07b9);
   static const IconData fontAwesome = const _MdiIconData(0xf003a);
@@ -3100,6 +3168,7 @@ class MdiIcons {
   static const IconData fruitCitrusOff = const _MdiIconData(0xf13f9);
   static const IconData fruitGrapes = const _MdiIconData(0xf1044);
   static const IconData fruitGrapesOutline = const _MdiIconData(0xf1045);
+  static const IconData fruitPear = const _MdiIconData(0xf1a0e);
   static const IconData fruitPineapple = const _MdiIconData(0xf1046);
   static const IconData fruitWatermelon = const _MdiIconData(0xf1047);
   static const IconData fuel = const _MdiIconData(0xf07ca);
@@ -3146,6 +3215,7 @@ class MdiIcons {
   static const IconData garageOpenVariant = const _MdiIconData(0xf12d4);
   static const IconData garageVariant = const _MdiIconData(0xf12d3);
   static const IconData garageVariantLock = const _MdiIconData(0xf17fc);
+  static const IconData gasBurner = const _MdiIconData(0xf1a1b);
   static const IconData gasCylinder = const _MdiIconData(0xf0647);
   static const IconData gasStation = const _MdiIconData(0xf0298);
   static const IconData gasStationOff = const _MdiIconData(0xf1409);
@@ -3287,6 +3357,7 @@ class MdiIcons {
   static const IconData guitarPick = const _MdiIconData(0xf02c5);
   static const IconData guitarPickOutline = const _MdiIconData(0xf02c6);
   static const IconData guyFawkesMask = const _MdiIconData(0xf0825);
+  static const IconData gymnastics = const _MdiIconData(0xf1a41);
   static const IconData hail = const _MdiIconData(0xf0ac1);
   static const IconData hairDryer = const _MdiIconData(0xf10ef);
   static const IconData hairDryerOutline = const _MdiIconData(0xf10f0);
@@ -3310,6 +3381,7 @@ class MdiIcons {
   static const IconData handBackRightOffOutline = const _MdiIconData(0xf1833);
   static const IconData handBackRightOutline = const _MdiIconData(0xf182d);
   static const IconData handClap = const _MdiIconData(0xf194b);
+  static const IconData handClapOff = const _MdiIconData(0xf1a42);
   static const IconData handCoin = const _MdiIconData(0xf188f);
   static const IconData handCoinOutline = const _MdiIconData(0xf1890);
   static const IconData handExtended = const _MdiIconData(0xf18b6);
@@ -3410,6 +3482,9 @@ class MdiIcons {
   static const IconData heartRemoveOutline = const _MdiIconData(0xf1433);
   static const IconData heartSettings = const _MdiIconData(0xf1665);
   static const IconData heartSettingsOutline = const _MdiIconData(0xf1666);
+  static const IconData heatPump = const _MdiIconData(0xf1a43);
+  static const IconData heatPumpOutline = const _MdiIconData(0xf1a44);
+  static const IconData heatWave = const _MdiIconData(0xf1a45);
   static const IconData helicopter = const _MdiIconData(0xf0ac2);
   static const IconData help = const _MdiIconData(0xf02d6);
   static const IconData helpBox = const _MdiIconData(0xf078b);
@@ -3453,6 +3528,8 @@ class MdiIcons {
   static const IconData homeCircleOutline = const _MdiIconData(0xf104d);
   static const IconData homeCity = const _MdiIconData(0xf0d15);
   static const IconData homeCityOutline = const _MdiIconData(0xf0d16);
+  static const IconData homeClock = const _MdiIconData(0xf1a12);
+  static const IconData homeClockOutline = const _MdiIconData(0xf1a13);
   static const IconData homeEdit = const _MdiIconData(0xf1159);
   static const IconData homeEditOutline = const _MdiIconData(0xf115a);
   static const IconData homeExportOutline = const _MdiIconData(0xf0f9b);
@@ -3482,6 +3559,8 @@ class MdiIcons {
   static const IconData homeMinus = const _MdiIconData(0xf0974);
   static const IconData homeMinusOutline = const _MdiIconData(0xf13d5);
   static const IconData homeModern = const _MdiIconData(0xf02dd);
+  static const IconData homeOff = const _MdiIconData(0xf1a46);
+  static const IconData homeOffOutline = const _MdiIconData(0xf1a47);
   static const IconData homeOutline = const _MdiIconData(0xf06a1);
   static const IconData homePlus = const _MdiIconData(0xf0975);
   static const IconData homePlusOutline = const _MdiIconData(0xf13d6);
@@ -3596,12 +3675,16 @@ class MdiIcons {
   static const IconData imageOffOutline = const _MdiIconData(0xf11d1);
   static const IconData imageOutline = const _MdiIconData(0xf0976);
   static const IconData imagePlus = const _MdiIconData(0xf087c);
+  static const IconData imageRefresh = const _MdiIconData(0xf19fe);
+  static const IconData imageRefreshOutline = const _MdiIconData(0xf19ff);
   static const IconData imageRemove = const _MdiIconData(0xf1418);
   static const IconData imageSearch = const _MdiIconData(0xf0977);
   static const IconData imageSearchOutline = const _MdiIconData(0xf0978);
   static const IconData imageSizeSelectActual = const _MdiIconData(0xf0c8d);
   static const IconData imageSizeSelectLarge = const _MdiIconData(0xf0c8e);
   static const IconData imageSizeSelectSmall = const _MdiIconData(0xf0c8f);
+  static const IconData imageSync = const _MdiIconData(0xf1a00);
+  static const IconData imageSyncOutline = const _MdiIconData(0xf1a01);
   static const IconData imageText = const _MdiIconData(0xf160d);
   static const IconData import = const _MdiIconData(0xf02fa);
   static const IconData inbox = const _MdiIconData(0xf0687);
@@ -3741,6 +3824,8 @@ class MdiIcons {
   static const IconData lanConnect = const _MdiIconData(0xf0318);
   static const IconData lanDisconnect = const _MdiIconData(0xf0319);
   static const IconData lanPending = const _MdiIconData(0xf031a);
+  static const IconData landslide = const _MdiIconData(0xf1a48);
+  static const IconData landslideOutline = const _MdiIconData(0xf1a49);
   static const IconData languageC = const _MdiIconData(0xf0671);
   static const IconData languageCpp = const _MdiIconData(0xf0672);
   static const IconData languageCsharp = const _MdiIconData(0xf031b);
@@ -3765,6 +3850,7 @@ class MdiIcons {
   static const IconData languageTypescript = const _MdiIconData(0xf06e6);
   static const IconData languageXaml = const _MdiIconData(0xf0673);
   static const IconData laptop = const _MdiIconData(0xf0322);
+  static const IconData laptopAccount = const _MdiIconData(0xf1a4a);
   static const IconData laptopOff = const _MdiIconData(0xf06e7);
   static const IconData laravel = const _MdiIconData(0xf0ad0);
   static const IconData laserPointer = const _MdiIconData(0xf1484);
@@ -3794,11 +3880,13 @@ class MdiIcons {
   static const IconData leafOff = const _MdiIconData(0xf12d9);
   static const IconData leak = const _MdiIconData(0xf0dd7);
   static const IconData leakOff = const _MdiIconData(0xf0dd8);
+  static const IconData lecturn = const _MdiIconData(0xf1af0);
   static const IconData ledOff = const _MdiIconData(0xf032b);
   static const IconData ledOn = const _MdiIconData(0xf032c);
   static const IconData ledOutline = const _MdiIconData(0xf032d);
   static const IconData ledStrip = const _MdiIconData(0xf07d6);
   static const IconData ledStripVariant = const _MdiIconData(0xf1051);
+  static const IconData ledStripVariantOff = const _MdiIconData(0xf1a4b);
   static const IconData ledVariantOff = const _MdiIconData(0xf032e);
   static const IconData ledVariantOn = const _MdiIconData(0xf032f);
   static const IconData ledVariantOutline = const _MdiIconData(0xf0330);
@@ -3806,6 +3894,7 @@ class MdiIcons {
   static const IconData lessThan = const _MdiIconData(0xf097c);
   static const IconData lessThanOrEqual = const _MdiIconData(0xf097d);
   static const IconData library = const _MdiIconData(0xf0331);
+  static const IconData libraryOutline = const _MdiIconData(0xf1a22);
   static const IconData libraryShelves = const _MdiIconData(0xf0ba9);
   static const IconData license = const _MdiIconData(0xf0fc3);
   static const IconData lifebuoy = const _MdiIconData(0xf087e);
@@ -3813,7 +3902,10 @@ class MdiIcons {
   static const IconData lightFloodUp = const _MdiIconData(0xf1988);
   static const IconData lightRecessed = const _MdiIconData(0xf179b);
   static const IconData lightSwitch = const _MdiIconData(0xf097e);
+  static const IconData lightSwitchOff = const _MdiIconData(0xf1a24);
   static const IconData lightbulb = const _MdiIconData(0xf0335);
+  static const IconData lightbulbAlert = const _MdiIconData(0xf19e1);
+  static const IconData lightbulbAlertOutline = const _MdiIconData(0xf19e2);
   static const IconData lightbulbAuto = const _MdiIconData(0xf1800);
   static const IconData lightbulbAutoOutline = const _MdiIconData(0xf1801);
   static const IconData lightbulbCfl = const _MdiIconData(0xf1208);
@@ -3830,11 +3922,24 @@ class MdiIcons {
   static const IconData lightbulbMultipleOff = const _MdiIconData(0xf12cf);
   static const IconData lightbulbMultipleOffOutline = const _MdiIconData(0xf12d0);
   static const IconData lightbulbMultipleOutline = const _MdiIconData(0xf1256);
+  static const IconData lightbulbNight = const _MdiIconData(0xf1a4c);
+  static const IconData lightbulbNightOutline = const _MdiIconData(0xf1a4d);
   static const IconData lightbulbOff = const _MdiIconData(0xf0e4f);
   static const IconData lightbulbOffOutline = const _MdiIconData(0xf0e50);
   static const IconData lightbulbOn = const _MdiIconData(0xf06e8);
+  static const IconData lightbulbOn10 = const _MdiIconData(0xf1a4e);
+  static const IconData lightbulbOn20 = const _MdiIconData(0xf1a4f);
+  static const IconData lightbulbOn30 = const _MdiIconData(0xf1a50);
+  static const IconData lightbulbOn40 = const _MdiIconData(0xf1a51);
+  static const IconData lightbulbOn50 = const _MdiIconData(0xf1a52);
+  static const IconData lightbulbOn60 = const _MdiIconData(0xf1a53);
+  static const IconData lightbulbOn70 = const _MdiIconData(0xf1a54);
+  static const IconData lightbulbOn80 = const _MdiIconData(0xf1a55);
+  static const IconData lightbulbOn90 = const _MdiIconData(0xf1a56);
   static const IconData lightbulbOnOutline = const _MdiIconData(0xf06e9);
   static const IconData lightbulbOutline = const _MdiIconData(0xf0336);
+  static const IconData lightbulbQuestion = const _MdiIconData(0xf19e3);
+  static const IconData lightbulbQuestionOutline = const _MdiIconData(0xf19e4);
   static const IconData lightbulbSpot = const _MdiIconData(0xf17f4);
   static const IconData lightbulbSpotOff = const _MdiIconData(0xf17f5);
   static const IconData lightbulbVariant = const _MdiIconData(0xf1802);
@@ -4045,6 +4150,8 @@ class MdiIcons {
   static const IconData messageCog = const _MdiIconData(0xf06f1);
   static const IconData messageCogOutline = const _MdiIconData(0xf1172);
   static const IconData messageDraw = const _MdiIconData(0xf0363);
+  static const IconData messageFast = const _MdiIconData(0xf19cc);
+  static const IconData messageFastOutline = const _MdiIconData(0xf19cd);
   static const IconData messageFlash = const _MdiIconData(0xf15a9);
   static const IconData messageFlashOutline = const _MdiIconData(0xf15aa);
   static const IconData messageImage = const _MdiIconData(0xf0364);
@@ -4073,11 +4180,17 @@ class MdiIcons {
   static const IconData messageText = const _MdiIconData(0xf0369);
   static const IconData messageTextClock = const _MdiIconData(0xf1173);
   static const IconData messageTextClockOutline = const _MdiIconData(0xf1174);
+  static const IconData messageTextFast = const _MdiIconData(0xf19ce);
+  static const IconData messageTextFastOutline = const _MdiIconData(0xf19cf);
   static const IconData messageTextLock = const _MdiIconData(0xf0fcd);
   static const IconData messageTextLockOutline = const _MdiIconData(0xf1175);
   static const IconData messageTextOutline = const _MdiIconData(0xf036a);
   static const IconData messageVideo = const _MdiIconData(0xf036b);
   static const IconData meteor = const _MdiIconData(0xf0629);
+  static const IconData meterElectric = const _MdiIconData(0xf1a57);
+  static const IconData meterElectricOutline = const _MdiIconData(0xf1a58);
+  static const IconData meterGas = const _MdiIconData(0xf1a59);
+  static const IconData meterGasOutline = const _MdiIconData(0xf1a5a);
   static const IconData metronome = const _MdiIconData(0xf07da);
   static const IconData metronomeTick = const _MdiIconData(0xf07db);
   static const IconData microSd = const _MdiIconData(0xf07dc);
@@ -4158,6 +4271,9 @@ class MdiIcons {
   static const IconData moleculeCo = const _MdiIconData(0xf12fe);
   static const IconData moleculeCo2 = const _MdiIconData(0xf07e4);
   static const IconData monitor = const _MdiIconData(0xf0379);
+  static const IconData monitorAccount = const _MdiIconData(0xf1a5b);
+  static const IconData monitorArrowDown = const _MdiIconData(0xf19d0);
+  static const IconData monitorArrowDownVariant = const _MdiIconData(0xf19d1);
   static const IconData monitorCellphone = const _MdiIconData(0xf0989);
   static const IconData monitorCellphoneStar = const _MdiIconData(0xf098a);
   static const IconData monitorDashboard = const _MdiIconData(0xf0a07);
@@ -4321,6 +4437,7 @@ class MdiIcons {
   static const IconData nearMe = const _MdiIconData(0xf05cd);
   static const IconData necklace = const _MdiIconData(0xf0f0b);
   static const IconData needle = const _MdiIconData(0xf0391);
+  static const IconData needleOff = const _MdiIconData(0xf19d2);
   static const IconData netflix = const _MdiIconData(0xf0746);
   static const IconData network = const _MdiIconData(0xf06f3);
   static const IconData networkOff = const _MdiIconData(0xf0c9b);
@@ -4390,6 +4507,8 @@ class MdiIcons {
   static const IconData notebookCheckOutline = const _MdiIconData(0xf14f6);
   static const IconData notebookEdit = const _MdiIconData(0xf14e7);
   static const IconData notebookEditOutline = const _MdiIconData(0xf14e9);
+  static const IconData notebookHeart = const _MdiIconData(0xf1a0b);
+  static const IconData notebookHeartOutline = const _MdiIconData(0xf1a0c);
   static const IconData notebookMinus = const _MdiIconData(0xf1610);
   static const IconData notebookMinusOutline = const _MdiIconData(0xf1611);
   static const IconData notebookMultiple = const _MdiIconData(0xf0e55);
@@ -4488,6 +4607,7 @@ class MdiIcons {
   static const IconData numeric9PlusCircle = const _MdiIconData(0xf0cb2);
   static const IconData numeric9PlusCircleOutline = const _MdiIconData(0xf0cb3);
   static const IconData numericNegative1 = const _MdiIconData(0xf1052);
+  static const IconData numericOff = const _MdiIconData(0xf19d3);
   static const IconData numericPositive1 = const _MdiIconData(0xf15cb);
   static const IconData nut = const _MdiIconData(0xf06f8);
   static const IconData nutrition = const _MdiIconData(0xf03c2);
@@ -4546,6 +4666,12 @@ class MdiIcons {
   static const IconData packageUp = const _MdiIconData(0xf03d5);
   static const IconData packageVariant = const _MdiIconData(0xf03d6);
   static const IconData packageVariantClosed = const _MdiIconData(0xf03d7);
+  static const IconData packageVariantClosedMinus = const _MdiIconData(0xf19d4);
+  static const IconData packageVariantClosedPlus = const _MdiIconData(0xf19d5);
+  static const IconData packageVariantClosedRemove = const _MdiIconData(0xf19d6);
+  static const IconData packageVariantMinus = const _MdiIconData(0xf19d7);
+  static const IconData packageVariantPlus = const _MdiIconData(0xf19d8);
+  static const IconData packageVariantRemove = const _MdiIconData(0xf19d9);
   static const IconData pageFirst = const _MdiIconData(0xf0600);
   static const IconData pageLast = const _MdiIconData(0xf0601);
   static const IconData pageLayoutBody = const _MdiIconData(0xf06fa);
@@ -4605,6 +4731,7 @@ class MdiIcons {
   static const IconData paperRoll = const _MdiIconData(0xf1157);
   static const IconData paperRollOutline = const _MdiIconData(0xf1158);
   static const IconData paperclip = const _MdiIconData(0xf03e2);
+  static const IconData paperclipLock = const _MdiIconData(0xf19da);
   static const IconData parachute = const _MdiIconData(0xf0cb4);
   static const IconData parachuteOutline = const _MdiIconData(0xf0cb5);
   static const IconData paragliding = const _MdiIconData(0xf1745);
@@ -4659,6 +4786,10 @@ class MdiIcons {
   static const IconData pentagonOutline = const _MdiIconData(0xf0700);
   static const IconData pentagram = const _MdiIconData(0xf1667);
   static const IconData percent = const _MdiIconData(0xf03f0);
+  static const IconData percentBox = const _MdiIconData(0xf1a02);
+  static const IconData percentBoxOutline = const _MdiIconData(0xf1a03);
+  static const IconData percentCircle = const _MdiIconData(0xf1a04);
+  static const IconData percentCircleOutline = const _MdiIconData(0xf1a05);
   static const IconData percentOutline = const _MdiIconData(0xf1278);
   static const IconData periodicTable = const _MdiIconData(0xf08b6);
   static const IconData perspectiveLess = const _MdiIconData(0xf0d23);
@@ -4675,6 +4806,7 @@ class MdiIcons {
   static const IconData phoneCheckOutline = const _MdiIconData(0xf11aa);
   static const IconData phoneClassic = const _MdiIconData(0xf0602);
   static const IconData phoneClassicOff = const _MdiIconData(0xf1279);
+  static const IconData phoneClock = const _MdiIconData(0xf19db);
   static const IconData phoneDial = const _MdiIconData(0xf1559);
   static const IconData phoneDialOutline = const _MdiIconData(0xf155a);
   static const IconData phoneForward = const _MdiIconData(0xf03f4);
@@ -4737,6 +4869,7 @@ class MdiIcons {
   static const IconData piggyBank = const _MdiIconData(0xf1007);
   static const IconData piggyBankOutline = const _MdiIconData(0xf1679);
   static const IconData pill = const _MdiIconData(0xf0402);
+  static const IconData pillOff = const _MdiIconData(0xf1a5c);
   static const IconData pillar = const _MdiIconData(0xf0702);
   static const IconData pin = const _MdiIconData(0xf0403);
   static const IconData pinOff = const _MdiIconData(0xf0404);
@@ -4760,6 +4893,10 @@ class MdiIcons {
   static const IconData pizza = const _MdiIconData(0xf0409);
   static const IconData play = const _MdiIconData(0xf040a);
   static const IconData playBox = const _MdiIconData(0xf127a);
+  static const IconData playBoxLock = const _MdiIconData(0xf1a16);
+  static const IconData playBoxLockOpen = const _MdiIconData(0xf1a17);
+  static const IconData playBoxLockOpenOutline = const _MdiIconData(0xf1a18);
+  static const IconData playBoxLockOutline = const _MdiIconData(0xf1a19);
   static const IconData playBoxMultiple = const _MdiIconData(0xf0d19);
   static const IconData playBoxMultipleOutline = const _MdiIconData(0xf13e6);
   static const IconData playBoxOutline = const _MdiIconData(0xf040b);
@@ -4791,6 +4928,8 @@ class MdiIcons {
   static const IconData plusCircleMultiple = const _MdiIconData(0xf034c);
   static const IconData plusCircleMultipleOutline = const _MdiIconData(0xf0418);
   static const IconData plusCircleOutline = const _MdiIconData(0xf0419);
+  static const IconData plusLock = const _MdiIconData(0xf1a5d);
+  static const IconData plusLockOpen = const _MdiIconData(0xf1a5e);
   static const IconData plusMinus = const _MdiIconData(0xf0992);
   static const IconData plusMinusBox = const _MdiIconData(0xf0993);
   static const IconData plusMinusVariant = const _MdiIconData(0xf14c9);
@@ -4815,8 +4954,10 @@ class MdiIcons {
   static const IconData polo = const _MdiIconData(0xf14c3);
   static const IconData polymer = const _MdiIconData(0xf0421);
   static const IconData pool = const _MdiIconData(0xf0606);
+  static const IconData poolThermometer = const _MdiIconData(0xf1a5f);
   static const IconData popcorn = const _MdiIconData(0xf0422);
   static const IconData post = const _MdiIconData(0xf1008);
+  static const IconData postLamp = const _MdiIconData(0xf1a60);
   static const IconData postOutline = const _MdiIconData(0xf1009);
   static const IconData postageStamp = const _MdiIconData(0xf0cbb);
   static const IconData pot = const _MdiIconData(0xf02e5);
@@ -4886,6 +5027,7 @@ class MdiIcons {
   static const IconData progressUpload = const _MdiIconData(0xf0998);
   static const IconData progressWrench = const _MdiIconData(0xf0cbd);
   static const IconData projector = const _MdiIconData(0xf042e);
+  static const IconData projectorOff = const _MdiIconData(0xf1a23);
   static const IconData projectorScreen = const _MdiIconData(0xf042f);
   static const IconData projectorScreenOff = const _MdiIconData(0xf180d);
   static const IconData projectorScreenOffOutline = const _MdiIconData(0xf180e);
@@ -4936,6 +5078,8 @@ class MdiIcons {
   static const IconData qualityMedium = const _MdiIconData(0xf0a0d);
   static const IconData quora = const _MdiIconData(0xf0d29);
   static const IconData rabbit = const _MdiIconData(0xf0907);
+  static const IconData rabbitVariant = const _MdiIconData(0xf1a61);
+  static const IconData rabbitVariantOutline = const _MdiIconData(0xf1a62);
   static const IconData racingHelmet = const _MdiIconData(0xf0d93);
   static const IconData racquetball = const _MdiIconData(0xf0d94);
   static const IconData radar = const _MdiIconData(0xf0437);
@@ -4961,6 +5105,8 @@ class MdiIcons {
   static const IconData railroadLight = const _MdiIconData(0xf0f1e);
   static const IconData rake = const _MdiIconData(0xf1544);
   static const IconData raspberryPi = const _MdiIconData(0xf043f);
+  static const IconData raw = const _MdiIconData(0xf1a0f);
+  static const IconData rawOff = const _MdiIconData(0xf1a10);
   static const IconData rayEnd = const _MdiIconData(0xf0440);
   static const IconData rayEndArrow = const _MdiIconData(0xf0441);
   static const IconData rayStart = const _MdiIconData(0xf0442);
@@ -4973,6 +5119,15 @@ class MdiIcons {
   static const IconData react = const _MdiIconData(0xf0708);
   static const IconData read = const _MdiIconData(0xf0447);
   static const IconData receipt = const _MdiIconData(0xf0449);
+  static const IconData receiptOutline = const _MdiIconData(0xf19dc);
+  static const IconData receiptTextCheck = const _MdiIconData(0xf1a63);
+  static const IconData receiptTextCheckOutline = const _MdiIconData(0xf1a64);
+  static const IconData receiptTextMinus = const _MdiIconData(0xf1a65);
+  static const IconData receiptTextMinusOutline = const _MdiIconData(0xf1a66);
+  static const IconData receiptTextPlus = const _MdiIconData(0xf1a67);
+  static const IconData receiptTextPlusOutline = const _MdiIconData(0xf1a68);
+  static const IconData receiptTextRemove = const _MdiIconData(0xf1a69);
+  static const IconData receiptTextRemoveOutline = const _MdiIconData(0xf1a6a);
   static const IconData record = const _MdiIconData(0xf044a);
   static const IconData recordCircle = const _MdiIconData(0xf0ec2);
   static const IconData recordCircleOutline = const _MdiIconData(0xf0ec3);
@@ -5097,6 +5252,7 @@ class MdiIcons {
   static const IconData robotHappy = const _MdiIconData(0xf1719);
   static const IconData robotHappyOutline = const _MdiIconData(0xf171a);
   static const IconData robotIndustrial = const _MdiIconData(0xf0b46);
+  static const IconData robotIndustrialOutline = const _MdiIconData(0xf1a1a);
   static const IconData robotLove = const _MdiIconData(0xf16a5);
   static const IconData robotLoveOutline = const _MdiIconData(0xf16a6);
   static const IconData robotMower = const _MdiIconData(0xf11f7);
@@ -5111,6 +5267,8 @@ class MdiIcons {
   static const IconData rocketLaunchOutline = const _MdiIconData(0xf14df);
   static const IconData rocketOutline = const _MdiIconData(0xf13af);
   static const IconData rodent = const _MdiIconData(0xf1327);
+  static const IconData rollerShade = const _MdiIconData(0xf1a6b);
+  static const IconData rollerShadeClosed = const _MdiIconData(0xf1a6c);
   static const IconData rollerSkate = const _MdiIconData(0xf0d2b);
   static const IconData rollerSkateOff = const _MdiIconData(0xf0145);
   static const IconData rollerblade = const _MdiIconData(0xf0d2c);
@@ -5164,6 +5322,7 @@ class MdiIcons {
   static const IconData safetyGoggles = const _MdiIconData(0xf0d30);
   static const IconData sailBoat = const _MdiIconData(0xf0ec8);
   static const IconData sale = const _MdiIconData(0xf046f);
+  static const IconData saleOutline = const _MdiIconData(0xf1a06);
   static const IconData salesforce = const _MdiIconData(0xf088e);
   static const IconData sass = const _MdiIconData(0xf07ec);
   static const IconData satellite = const _MdiIconData(0xf0470);
@@ -5231,6 +5390,8 @@ class MdiIcons {
   static const IconData seedOff = const _MdiIconData(0xf13fd);
   static const IconData seedOffOutline = const _MdiIconData(0xf13fe);
   static const IconData seedOutline = const _MdiIconData(0xf0e63);
+  static const IconData seedPlus = const _MdiIconData(0xf1a6d);
+  static const IconData seedPlusOutline = const _MdiIconData(0xf1a6e);
   static const IconData seesaw = const _MdiIconData(0xf15a4);
   static const IconData segment = const _MdiIconData(0xf0ecb);
   static const IconData select = const _MdiIconData(0xf0485);
@@ -5381,6 +5542,7 @@ class MdiIcons {
   static const IconData shoppingMusic = const _MdiIconData(0xf049b);
   static const IconData shoppingOutline = const _MdiIconData(0xf11d5);
   static const IconData shoppingSearch = const _MdiIconData(0xf0f84);
+  static const IconData shoppingSearchOutline = const _MdiIconData(0xf1a6f);
   static const IconData shore = const _MdiIconData(0xf14f9);
   static const IconData shovel = const _MdiIconData(0xf0710);
   static const IconData shovelOff = const _MdiIconData(0xf0711);
@@ -5513,11 +5675,14 @@ class MdiIcons {
   static const IconData snowboard = const _MdiIconData(0xf1307);
   static const IconData snowflake = const _MdiIconData(0xf0717);
   static const IconData snowflakeAlert = const _MdiIconData(0xf0f29);
+  static const IconData snowflakeCheck = const _MdiIconData(0xf1a70);
   static const IconData snowflakeMelt = const _MdiIconData(0xf12cb);
   static const IconData snowflakeOff = const _MdiIconData(0xf14e3);
+  static const IconData snowflakeThermometer = const _MdiIconData(0xf1a71);
   static const IconData snowflakeVariant = const _MdiIconData(0xf0f2a);
   static const IconData snowman = const _MdiIconData(0xf04b7);
   static const IconData snowmobile = const _MdiIconData(0xf06dd);
+  static const IconData snowshoeing = const _MdiIconData(0xf1a72);
   static const IconData soccer = const _MdiIconData(0xf04b8);
   static const IconData soccerField = const _MdiIconData(0xf0834);
   static const IconData socialDistance2Meters = const _MdiIconData(0xf1579);
@@ -5529,6 +5694,8 @@ class MdiIcons {
   static const IconData solarPanel = const _MdiIconData(0xf0d9b);
   static const IconData solarPanelLarge = const _MdiIconData(0xf0d9c);
   static const IconData solarPower = const _MdiIconData(0xf0a72);
+  static const IconData solarPowerVariant = const _MdiIconData(0xf1a73);
+  static const IconData solarPowerVariantOutline = const _MdiIconData(0xf1a74);
   static const IconData solderingIron = const _MdiIconData(0xf1092);
   static const IconData solid = const _MdiIconData(0xf068d);
   static const IconData sonyPlaystation = const _MdiIconData(0xf0414);
@@ -5627,6 +5794,8 @@ class MdiIcons {
   static const IconData squareRoot = const _MdiIconData(0xf0784);
   static const IconData squareRootBox = const _MdiIconData(0xf09a3);
   static const IconData squareRounded = const _MdiIconData(0xf14fb);
+  static const IconData squareRoundedBadge = const _MdiIconData(0xf1a07);
+  static const IconData squareRoundedBadgeOutline = const _MdiIconData(0xf1a08);
   static const IconData squareRoundedOutline = const _MdiIconData(0xf14fc);
   static const IconData squareSmall = const _MdiIconData(0xf0a15);
   static const IconData squareWave = const _MdiIconData(0xf147b);
@@ -5708,6 +5877,8 @@ class MdiIcons {
   static const IconData stop = const _MdiIconData(0xf04db);
   static const IconData stopCircle = const _MdiIconData(0xf0666);
   static const IconData stopCircleOutline = const _MdiIconData(0xf0667);
+  static const IconData storageTank = const _MdiIconData(0xf1a75);
+  static const IconData storageTankOutline = const _MdiIconData(0xf1a76);
   static const IconData store = const _MdiIconData(0xf04dc);
   static const IconData store24Hour = const _MdiIconData(0xf04dd);
   static const IconData storeAlert = const _MdiIconData(0xf18c1);
@@ -5752,8 +5923,11 @@ class MdiIcons {
   static const IconData subwayAlertVariant = const _MdiIconData(0xf0d9d);
   static const IconData subwayVariant = const _MdiIconData(0xf04df);
   static const IconData summit = const _MdiIconData(0xf0786);
+  static const IconData sunClock = const _MdiIconData(0xf1a77);
+  static const IconData sunClockOutline = const _MdiIconData(0xf1a78);
   static const IconData sunCompass = const _MdiIconData(0xf19a5);
   static const IconData sunSnowflake = const _MdiIconData(0xf1796);
+  static const IconData sunSnowflakeVariant = const _MdiIconData(0xf1a79);
   static const IconData sunThermometer = const _MdiIconData(0xf18d6);
   static const IconData sunThermometerOutline = const _MdiIconData(0xf18d7);
   static const IconData sunWireless = const _MdiIconData(0xf17fe);
@@ -5864,6 +6038,8 @@ class MdiIcons {
   static const IconData tagArrowRightOutline = const _MdiIconData(0xf1730);
   static const IconData tagArrowUp = const _MdiIconData(0xf1731);
   static const IconData tagArrowUpOutline = const _MdiIconData(0xf1732);
+  static const IconData tagCheck = const _MdiIconData(0xf1a7a);
+  static const IconData tagCheckOutline = const _MdiIconData(0xf1a7b);
   static const IconData tagFaces = const _MdiIconData(0xf04fa);
   static const IconData tagHeart = const _MdiIconData(0xf068b);
   static const IconData tagHeartOutline = const _MdiIconData(0xf0bcf);
@@ -5924,6 +6100,8 @@ class MdiIcons {
   static const IconData textBox = const _MdiIconData(0xf021a);
   static const IconData textBoxCheck = const _MdiIconData(0xf0ea6);
   static const IconData textBoxCheckOutline = const _MdiIconData(0xf0ea7);
+  static const IconData textBoxEdit = const _MdiIconData(0xf1a7c);
+  static const IconData textBoxEditOutline = const _MdiIconData(0xf1a7d);
   static const IconData textBoxMinus = const _MdiIconData(0xf0ea8);
   static const IconData textBoxMinusOutline = const _MdiIconData(0xf0ea9);
   static const IconData textBoxMultiple = const _MdiIconData(0xf0ab7);
@@ -5938,6 +6116,7 @@ class MdiIcons {
   static const IconData textLong = const _MdiIconData(0xf09aa);
   static const IconData textRecognition = const _MdiIconData(0xf113d);
   static const IconData textSearch = const _MdiIconData(0xf13b8);
+  static const IconData textSearchVariant = const _MdiIconData(0xf1a7e);
   static const IconData textShadow = const _MdiIconData(0xf0669);
   static const IconData textShort = const _MdiIconData(0xf09a9);
   static const IconData textToSpeech = const _MdiIconData(0xf050a);
@@ -5949,6 +6128,7 @@ class MdiIcons {
   static const IconData thermometer = const _MdiIconData(0xf050f);
   static const IconData thermometerAlert = const _MdiIconData(0xf0e01);
   static const IconData thermometerBluetooth = const _MdiIconData(0xf1895);
+  static const IconData thermometerCheck = const _MdiIconData(0xf1a7f);
   static const IconData thermometerChevronDown = const _MdiIconData(0xf0e02);
   static const IconData thermometerChevronUp = const _MdiIconData(0xf0e03);
   static const IconData thermometerHigh = const _MdiIconData(0xf10c2);
@@ -5957,6 +6137,7 @@ class MdiIcons {
   static const IconData thermometerMinus = const _MdiIconData(0xf0e04);
   static const IconData thermometerOff = const _MdiIconData(0xf1531);
   static const IconData thermometerPlus = const _MdiIconData(0xf0e05);
+  static const IconData thermometerWater = const _MdiIconData(0xf1a80);
   static const IconData thermostat = const _MdiIconData(0xf0393);
   static const IconData thermostatBox = const _MdiIconData(0xf0891);
   static const IconData thoughtBubble = const _MdiIconData(0xf07f6);
@@ -6020,6 +6201,8 @@ class MdiIcons {
   static const IconData toggleSwitchOff = const _MdiIconData(0xf0522);
   static const IconData toggleSwitchOffOutline = const _MdiIconData(0xf0a19);
   static const IconData toggleSwitchOutline = const _MdiIconData(0xf0a1a);
+  static const IconData toggleSwitchVariant = const _MdiIconData(0xf1a25);
+  static const IconData toggleSwitchVariantOff = const _MdiIconData(0xf1a26);
   static const IconData toilet = const _MdiIconData(0xf09ab);
   static const IconData toolbox = const _MdiIconData(0xf09ac);
   static const IconData toolboxOutline = const _MdiIconData(0xf09ad);
@@ -6105,6 +6288,7 @@ class MdiIcons {
   static const IconData transmissionTower = const _MdiIconData(0xf0d3e);
   static const IconData transmissionTowerExport = const _MdiIconData(0xf192c);
   static const IconData transmissionTowerImport = const _MdiIconData(0xf192d);
+  static const IconData transmissionTowerOff = const _MdiIconData(0xf19dd);
   static const IconData trashCan = const _MdiIconData(0xf0a79);
   static const IconData trashCanOutline = const _MdiIconData(0xf0a7a);
   static const IconData tray = const _MdiIconData(0xf1294);
@@ -6124,6 +6308,8 @@ class MdiIcons {
   static const IconData trendingUp = const _MdiIconData(0xf0535);
   static const IconData triangle = const _MdiIconData(0xf0536);
   static const IconData triangleOutline = const _MdiIconData(0xf0537);
+  static const IconData triangleSmallDown = const _MdiIconData(0xf1a09);
+  static const IconData triangleSmallUp = const _MdiIconData(0xf1a0a);
   static const IconData triangleWave = const _MdiIconData(0xf147c);
   static const IconData triforce = const _MdiIconData(0xf0bd9);
   static const IconData trophy = const _MdiIconData(0xf0538);
@@ -6133,6 +6319,8 @@ class MdiIcons {
   static const IconData trophyVariant = const _MdiIconData(0xf053b);
   static const IconData trophyVariantOutline = const _MdiIconData(0xf053c);
   static const IconData truck = const _MdiIconData(0xf053d);
+  static const IconData truckAlert = const _MdiIconData(0xf19de);
+  static const IconData truckAlertOutline = const _MdiIconData(0xf19df);
   static const IconData truckCargoContainer = const _MdiIconData(0xf18d8);
   static const IconData truckCheck = const _MdiIconData(0xf0cd4);
   static const IconData truckCheckOutline = const _MdiIconData(0xf129a);
@@ -6155,6 +6343,7 @@ class MdiIcons {
   static const IconData tshirtCrewOutline = const _MdiIconData(0xf053f);
   static const IconData tshirtV = const _MdiIconData(0xf0a7c);
   static const IconData tshirtVOutline = const _MdiIconData(0xf0540);
+  static const IconData tsunami = const _MdiIconData(0xf1a81);
   static const IconData tumbleDryer = const _MdiIconData(0xf0917);
   static const IconData tumbleDryerAlert = const _MdiIconData(0xf11ba);
   static const IconData tumbleDryerOff = const _MdiIconData(0xf11bb);
@@ -6164,6 +6353,7 @@ class MdiIcons {
   static const IconData tuneVerticalVariant = const _MdiIconData(0xf1543);
   static const IconData tunnel = const _MdiIconData(0xf183d);
   static const IconData tunnelOutline = const _MdiIconData(0xf183e);
+  static const IconData turbine = const _MdiIconData(0xf1a82);
   static const IconData turkey = const _MdiIconData(0xf171b);
   static const IconData turnstile = const _MdiIconData(0xf0cd5);
   static const IconData turnstileOutline = const _MdiIconData(0xf0cd6);
@@ -6262,6 +6452,7 @@ class MdiIcons {
   static const IconData vibrate = const _MdiIconData(0xf0566);
   static const IconData vibrateOff = const _MdiIconData(0xf0cd9);
   static const IconData video = const _MdiIconData(0xf0567);
+  static const IconData video2D = const _MdiIconData(0xf1a1c);
   static const IconData video3D = const _MdiIconData(0xf07fd);
   static const IconData video3DOff = const _MdiIconData(0xf13d9);
   static const IconData video3DVariant = const _MdiIconData(0xf0ed1);
@@ -6345,6 +6536,8 @@ class MdiIcons {
   static const IconData virusOutline = const _MdiIconData(0xf13b7);
   static const IconData vlc = const _MdiIconData(0xf057c);
   static const IconData voicemail = const _MdiIconData(0xf057d);
+  static const IconData volcano = const _MdiIconData(0xf1a83);
+  static const IconData volcanoOutline = const _MdiIconData(0xf1a84);
   static const IconData volleyball = const _MdiIconData(0xf09b4);
   static const IconData volumeHigh = const _MdiIconData(0xf057e);
   static const IconData volumeLow = const _MdiIconData(0xf057f);
@@ -6363,6 +6556,7 @@ class MdiIcons {
   static const IconData vuetify = const _MdiIconData(0xf0e6d);
   static const IconData walk = const _MdiIconData(0xf0583);
   static const IconData wall = const _MdiIconData(0xf07fe);
+  static const IconData wallFire = const _MdiIconData(0xf1a11);
   static const IconData wallSconce = const _MdiIconData(0xf091c);
   static const IconData wallSconceFlat = const _MdiIconData(0xf091d);
   static const IconData wallSconceFlatOutline = const _MdiIconData(0xf17c9);
@@ -6421,6 +6615,8 @@ class MdiIcons {
   static const IconData waterRemove = const _MdiIconData(0xf150c);
   static const IconData waterRemoveOutline = const _MdiIconData(0xf150d);
   static const IconData waterSync = const _MdiIconData(0xf17c6);
+  static const IconData waterThermometer = const _MdiIconData(0xf1a85);
+  static const IconData waterThermometerOutline = const _MdiIconData(0xf1a86);
   static const IconData waterWell = const _MdiIconData(0xf106b);
   static const IconData waterWellOutline = const _MdiIconData(0xf106c);
   static const IconData waterfall = const _MdiIconData(0xf1849);
@@ -6489,6 +6685,7 @@ class MdiIcons {
   static const IconData weightPound = const _MdiIconData(0xf09b5);
   static const IconData whatsapp = const _MdiIconData(0xf05a3);
   static const IconData wheelBarrow = const _MdiIconData(0xf14f2);
+  static const IconData wheelchair = const _MdiIconData(0xf1a87);
   static const IconData wheelchairAccessibility = const _MdiIconData(0xf05a4);
   static const IconData whistle = const _MdiIconData(0xf09b6);
   static const IconData whistleOutline = const _MdiIconData(0xf12bc);
@@ -6543,6 +6740,8 @@ class MdiIcons {
   static const IconData wifiStrengthOutline = const _MdiIconData(0xf092f);
   static const IconData wifiSync = const _MdiIconData(0xf16c7);
   static const IconData wikipedia = const _MdiIconData(0xf05ac);
+  static const IconData windPower = const _MdiIconData(0xf1a88);
+  static const IconData windPowerOutline = const _MdiIconData(0xf1a89);
   static const IconData windTurbine = const _MdiIconData(0xf0da5);
   static const IconData windTurbineAlert = const _MdiIconData(0xf19ab);
   static const IconData windTurbineCheck = const _MdiIconData(0xf19ac);
@@ -6556,7 +6755,9 @@ class MdiIcons {
   static const IconData windowRestore = const _MdiIconData(0xf05b2);
   static const IconData windowShutter = const _MdiIconData(0xf111c);
   static const IconData windowShutterAlert = const _MdiIconData(0xf111d);
+  static const IconData windowShutterCog = const _MdiIconData(0xf1a8a);
   static const IconData windowShutterOpen = const _MdiIconData(0xf111e);
+  static const IconData windowShutterSettings = const _MdiIconData(0xf1a8b);
   static const IconData windsock = const _MdiIconData(0xf15fa);
   static const IconData wiper = const _MdiIconData(0xf0ae9);
   static const IconData wiperWash = const _MdiIconData(0xf0da6);
