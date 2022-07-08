@@ -1,3 +1,7 @@
+## 5.0.6996
+
+Update icons to 6.9.96 of mdi.
+
 ## 5.0.6796
 
 Update icons to 6.7.96 of mdi.
