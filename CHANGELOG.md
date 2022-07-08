@@ -1,6 +1,10 @@
 ## 5.0.6595
 
-Update icons to 6.5.95 of mdi, which introduce breaking changes.
+Update icons to 6.7.96 of mdi.
+
+## 5.0.6595
+
+Update icons to 6.5.95 of mdi.
 
 ## 5.0.6295
 
