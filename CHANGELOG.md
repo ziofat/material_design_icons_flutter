@@ -1,6 +1,6 @@
-## 5.0.7096
+## 6.0.7096
 
-Update icons to 7.0.96 of mdi.
+Update icons to 7.0.96 of mdi that introduce breaking changes. Some icons are renamed or removed. For more information https://github.com/Templarian/MaterialDesign/issues/6504.
 
 ## 5.0.6996
 
