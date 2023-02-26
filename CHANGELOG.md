@@ -1,3 +1,7 @@
+## 6.0.7196
+
+Update icons to 7.1.96 of mdi. Icons that have been added can be found at https://pictogrammers.com/library/mdi/version/7.1.96.
+
 ## 6.0.7096
 
 Update icons to 7.0.96 of mdi that introduce breaking changes. Some icons are renamed or removed. For more information https://github.com/Templarian/MaterialDesign/issues/6504.
