@@ -1,10 +1,13 @@
 library material_design_icons_flutter;
 
 import 'package:flutter/widgets.dart';
-import 'package:material_design_icons_flutter/icon_map.dart';
+
+import 'icon_map.dart';
 
 class MdiIcons {
-<%  static const IconData __ICON_NAME__ = const _MdiIconData(__CODE_POINT__);%>
+  const MdiIcons();
+
+<%  static IconData get __ICON_NAME__ => iconMap['__ICON_NAME__']!;%>
 
   static toCamelCase(String str) {
     RegExp exp = new RegExp(
@@ -24,27 +27,22 @@ class MdiIcons {
   }
 
   static IconData? fromString(String key) {
-    int? codePoint = iconMap[MdiIcons.toCamelCase(key)];
-    if (codePoint == null) return null;
-    return _MdiIconData(codePoint);
+    final iconName = MdiIcons.toCamelCase(key);
+    return iconMap[iconName];
   }
 
   IconData? operator [](String key) {
-    int? codePoint = iconMap[MdiIcons.toCamelCase(key)];
-    if (codePoint == null) return null;
-    return _MdiIconData(codePoint);
+    final iconName = MdiIcons.toCamelCase(key);
+    return iconMap[iconName];
   }
 
-  static List<String> getIconsName() {
+  /// Returns list of all icons names.
+  static List<String> getNames() {
     return iconMap.keys.toList();
   }
-}
 
-class _MdiIconData extends IconData {
-  const _MdiIconData(int codePoint)
-      : super(
-    codePoint,
-    fontFamily: 'Material Design Icons',
-    fontPackage: 'material_design_icons_flutter',
-  );
+  /// Returns list of all icons.
+  static List<IconData> getIcons() {
+    return iconMap.values.toList();
+  }
 }
