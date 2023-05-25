@@ -34,13 +34,35 @@ class MyWidget extends StatelessWidget {
 }
 ```
 
-Or, if you want to access the icon by a string name, you can use `fromString` method to create one.
+If you want to access the icon by a string name, you can copy/paste the following extension methods to create one. This method was removed from the package since it conflicted with tree shaking, which is enabled by default for web apps in Flutter 3.10.
 
 
+```dart
+extension MdiIconUtils on MdiIcons {
+  static IconData? fromString(String key) {
+    int? codePoint = iconMap[MdiIcons.toCamelCase(key)];
+    if (codePoint == null) return null;
+    return IconData(codePoint,
+      fontFamily: 'Material Design Icons',
+      fontPackage: 'material_design_icons_flutter',);
+  }
+
+  IconData? operator [](String key) {
+    int? codePoint = iconMap[MdiIcons.toCamelCase(key)];
+    if (codePoint == null) return null;
+    return IconData(codePoint,
+      fontFamily: 'Material Design Icons',
+      fontPackage: 'material_design_icons_flutter',);
+  }
+}
+```
+
+Usage:
 ```dart
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 class MyWidget extends StatelessWidget {
+  
   Widget build(BuildContext context) {
     return new IconButton(
       // Use the string name to access icons.

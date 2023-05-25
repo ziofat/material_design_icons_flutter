@@ -147,7 +147,7 @@ class IconDefinition implements Comparable {
   IconData? iconData;
   late String title;
   IconDefinition(String key) {
-    this.iconData = iconLib[key];
+    this.iconData = MdiIconUtils.fromString(key);
     this.title = this.toKebabCase(key);
   }
 
@@ -183,3 +183,21 @@ class IconDefinition implements Comparable {
 MdiIcons iconLib = new MdiIcons();
 
 var icons = iconMap.keys.map((key) => IconDefinition(key));
+
+extension MdiIconUtils on MdiIcons {
+  static IconData? fromString(String key) {
+    int? codePoint = iconMap[MdiIcons.toCamelCase(key)];
+    if (codePoint == null) return null;
+    return IconData(codePoint,
+      fontFamily: 'Material Design Icons',
+      fontPackage: 'material_design_icons_flutter',);
+  }
+
+  IconData? operator [](String key) {
+    int? codePoint = iconMap[MdiIcons.toCamelCase(key)];
+    if (codePoint == null) return null;
+    return IconData(codePoint,
+      fontFamily: 'Material Design Icons',
+      fontPackage: 'material_design_icons_flutter',);
+  }
+}

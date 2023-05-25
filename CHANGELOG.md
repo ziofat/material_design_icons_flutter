@@ -1,3 +1,8 @@
+## 7.0.7196
+
+* **Breaking Change**: Remove `fromString` method and `MdiIcon[key]` operator to support tree shaking, which is enabled by default for Flutter 3.10 web release builds.
+* Support for Dart 3.0
+
 ## 6.0.7196
 
 Update icons to 7.1.96 of mdi. Icons that have been added can be found at https://pictogrammers.com/library/mdi/version/7.1.96.
