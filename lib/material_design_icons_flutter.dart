@@ -7218,18 +7218,6 @@ class MdiIcons {
     return res.substring(0, 1).toLowerCase() + res.substring(1);
   }
 
-  static IconData? fromString(String key) {
-    int? codePoint = iconMap[MdiIcons.toCamelCase(key)];
-    if (codePoint == null) return null;
-    return _MdiIconData(codePoint);
-  }
-
-  IconData? operator [](String key) {
-    int? codePoint = iconMap[MdiIcons.toCamelCase(key)];
-    if (codePoint == null) return null;
-    return _MdiIconData(codePoint);
-  }
-
   static List<String> getIconsName() {
     return iconMap.keys.toList();
   }
