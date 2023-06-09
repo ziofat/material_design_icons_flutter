@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:material_design_icons_flutter/icon_map.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 void main() {
@@ -15,7 +14,7 @@ class MdiGalleryApp extends StatelessWidget {
         iconTheme: new IconThemeData(size: 36.0, color: Colors.black87),
         primarySwatch: Colors.blue,
         textTheme: new TextTheme(
-          bodyText2: new TextStyle(fontSize: 16.0, color: Colors.black87),
+          bodyMedium: new TextStyle(fontSize: 16.0, color: Colors.black87),
         ),
       ),
       home: new MdiGalleryHome(),
@@ -180,6 +179,6 @@ class IconDefinition implements Comparable {
   int compareTo(other) => title.compareTo(other.title);
 }
 
-MdiIcons iconLib = new MdiIcons();
+MdiIcons iconLib = const MdiIcons();
 
-var icons = iconMap.keys.map((key) => IconDefinition(key));
+var icons = MdiIcons.getNames().map((key) => IconDefinition(key));
