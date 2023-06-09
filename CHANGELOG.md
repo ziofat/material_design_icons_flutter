@@ -1,3 +1,8 @@
+## 7.0.7296
+
+* **Breaking Change**: MdiIcons.* variables are no longer const, to avoid breaking tree-shaking. See [issue #54](https://github.com/ziofat/material_design_icons_flutter/issues/54)
+* Support for Dart 3.0
+
 ## 6.0.7296
 
 Update icons to 7.2.96 of mdi. Icons that have been added can be found at https://pictogrammers.com/library/mdi/version/7.2.96.

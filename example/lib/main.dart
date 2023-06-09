@@ -2,29 +2,33 @@ import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 void main() {
-  runApp(new MdiGalleryApp());
+  runApp(const MdiGalleryApp());
 }
 
 class MdiGalleryApp extends StatelessWidget {
+  const MdiGalleryApp({super.key});
+
   @override
   Widget build(BuildContext context) {
-    return new MaterialApp(
+    return MaterialApp(
       title: 'Material Design Icons Flutter Gallery',
-      theme: new ThemeData(
-        iconTheme: new IconThemeData(size: 36.0, color: Colors.black87),
+      theme: ThemeData(
+        iconTheme: const IconThemeData(size: 36.0, color: Colors.black87),
         primarySwatch: Colors.blue,
-        textTheme: new TextTheme(
-          bodyMedium: new TextStyle(fontSize: 16.0, color: Colors.black87),
+        textTheme: const TextTheme(
+          bodyMedium: TextStyle(fontSize: 16.0, color: Colors.black87),
         ),
       ),
-      home: new MdiGalleryHome(),
+      home: const MdiGalleryHome(),
     );
   }
 }
 
 class MdiGalleryHome extends StatefulWidget {
+  const MdiGalleryHome({super.key});
+
   @override
-  State<StatefulWidget> createState() => new MdiGalleryHomeState();
+  State<StatefulWidget> createState() => MdiGalleryHomeState();
 }
 
 class MdiGalleryHomeState extends State<MdiGalleryHome> {
@@ -40,32 +44,32 @@ class MdiGalleryHomeState extends State<MdiGalleryHome> {
         .toList();
     final orientation = MediaQuery.of(context).orientation;
 
-    return new Scaffold(
+    return Scaffold(
       appBar: _isSearching ? _searchBar(context) : _titleBar(),
-      body: new GridView.builder(
+      body: GridView.builder(
           itemCount: filteredIcons.length,
-          gridDelegate: new SliverGridDelegateWithFixedCrossAxisCount(
+          gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: orientation == Orientation.portrait ? 2 : 3,
           ),
           itemBuilder: (context, index) {
             final icon = filteredIcons[index];
 
-            return new InkWell(
+            return InkWell(
               onTap: () {
                 Navigator.push(
                   context,
-                  new MaterialPageRoute<Null>(
+                  MaterialPageRoute<void>(
                     builder: (BuildContext context) {
-                      return new GestureDetector(
+                      return GestureDetector(
                         onTap: () {
                           Navigator.of(context).pop();
                         },
-                        child: new Container(
+                        child: Container(
                           color: Colors.white,
-                          child: new SizedBox.expand(
-                            child: new Hero(
+                          child: SizedBox.expand(
+                            child: Hero(
                               tag: icon,
-                              child: new Icon(
+                              child: Icon(
                                 icon.iconData,
                                 size: 100.0,
                               ),
@@ -77,13 +81,13 @@ class MdiGalleryHomeState extends State<MdiGalleryHome> {
                   ),
                 );
               },
-              child: new Column(
+              child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
-                  new Hero(tag: icon, child: new Icon(icon.iconData)),
-                  new Container(
-                    padding: new EdgeInsets.only(top: 16.0),
-                    child: new Text(icon.title),
+                  Hero(tag: icon, child: Icon(icon.iconData)),
+                  Container(
+                    padding: const EdgeInsets.only(top: 16.0),
+                    child: Text(icon.title),
                   )
                 ],
               ),
@@ -93,14 +97,14 @@ class MdiGalleryHomeState extends State<MdiGalleryHome> {
   }
 
   AppBar _titleBar() {
-    return new AppBar(
-      title: new Text("Material Design Icons Gallery"),
+    return AppBar(
+      title: const Text("Material Design Icons Gallery"),
       actions: [
-        new IconButton(
-            icon: new Icon(MdiIcons.magnify),
+        IconButton(
+            icon: Icon(MdiIcons.magnify),
             onPressed: () {
               ModalRoute.of(context)!.addLocalHistoryEntry(
-                new LocalHistoryEntry(
+                LocalHistoryEntry(
                   onRemove: () {
                     setState(() {
                       _searchTerm = "";
@@ -119,9 +123,9 @@ class MdiGalleryHomeState extends State<MdiGalleryHome> {
   }
 
   AppBar _searchBar(BuildContext context) {
-    return new AppBar(
-      leading: new IconButton(
-        icon: new Icon(MdiIcons.magnify),
+    return AppBar(
+      leading: IconButton(
+        icon: Icon(MdiIcons.magnify),
         onPressed: () {
           setState(
             () {
@@ -132,11 +136,11 @@ class MdiGalleryHomeState extends State<MdiGalleryHome> {
           );
         },
       ),
-      title: new TextField(
+      title: TextField(
         onChanged: (text) => setState(() => _searchTerm = text),
         autofocus: true,
-        style: new TextStyle(fontSize: 18.0),
-        decoration: new InputDecoration(),
+        style: const TextStyle(fontSize: 18.0),
+        decoration: const InputDecoration(),
       ),
     );
   }
@@ -146,8 +150,8 @@ class IconDefinition implements Comparable {
   IconData? iconData;
   late String title;
   IconDefinition(String key) {
-    this.iconData = iconLib[key];
-    this.title = this.toKebabCase(key);
+    iconData = iconLib[key];
+    title = toKebabCase(key);
   }
 
   String toKebabCase(String str) {
