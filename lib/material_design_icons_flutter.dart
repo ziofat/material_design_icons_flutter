@@ -17,7 +17,8 @@ class MdiIcons {
   static IconData get accessPointCheck => iconMap['accessPointCheck']!;
   static IconData get accessPointMinus => iconMap['accessPointMinus']!;
   static IconData get accessPointNetwork => iconMap['accessPointNetwork']!;
-  static IconData get accessPointNetworkOff => iconMap['accessPointNetworkOff']!;
+  static IconData get accessPointNetworkOff =>
+      iconMap['accessPointNetworkOff']!;
   static IconData get accessPointOff => iconMap['accessPointOff']!;
   static IconData get accessPointPlus => iconMap['accessPointPlus']!;
   static IconData get accessPointRemove => iconMap['accessPointRemove']!;
@@ -25,18 +26,23 @@ class MdiIcons {
   static IconData get accountAlert => iconMap['accountAlert']!;
   static IconData get accountAlertOutline => iconMap['accountAlertOutline']!;
   static IconData get accountArrowDown => iconMap['accountArrowDown']!;
-  static IconData get accountArrowDownOutline => iconMap['accountArrowDownOutline']!;
+  static IconData get accountArrowDownOutline =>
+      iconMap['accountArrowDownOutline']!;
   static IconData get accountArrowLeft => iconMap['accountArrowLeft']!;
-  static IconData get accountArrowLeftOutline => iconMap['accountArrowLeftOutline']!;
+  static IconData get accountArrowLeftOutline =>
+      iconMap['accountArrowLeftOutline']!;
   static IconData get accountArrowRight => iconMap['accountArrowRight']!;
-  static IconData get accountArrowRightOutline => iconMap['accountArrowRightOutline']!;
+  static IconData get accountArrowRightOutline =>
+      iconMap['accountArrowRightOutline']!;
   static IconData get accountArrowUp => iconMap['accountArrowUp']!;
-  static IconData get accountArrowUpOutline => iconMap['accountArrowUpOutline']!;
+  static IconData get accountArrowUpOutline =>
+      iconMap['accountArrowUpOutline']!;
   static IconData get accountBadge => iconMap['accountBadge']!;
   static IconData get accountBadgeOutline => iconMap['accountBadgeOutline']!;
   static IconData get accountBox => iconMap['accountBox']!;
   static IconData get accountBoxMultiple => iconMap['accountBoxMultiple']!;
-  static IconData get accountBoxMultipleOutline => iconMap['accountBoxMultipleOutline']!;
+  static IconData get accountBoxMultipleOutline =>
+      iconMap['accountBoxMultipleOutline']!;
   static IconData get accountBoxOutline => iconMap['accountBoxOutline']!;
   static IconData get accountCancel => iconMap['accountCancel']!;
   static IconData get accountCancelOutline => iconMap['accountCancelOutline']!;
@@ -56,13 +62,17 @@ class MdiIcons {
   static IconData get accountCog => iconMap['accountCog']!;
   static IconData get accountCogOutline => iconMap['accountCogOutline']!;
   static IconData get accountConvert => iconMap['accountConvert']!;
-  static IconData get accountConvertOutline => iconMap['accountConvertOutline']!;
+  static IconData get accountConvertOutline =>
+      iconMap['accountConvertOutline']!;
   static IconData get accountCowboyHat => iconMap['accountCowboyHat']!;
-  static IconData get accountCowboyHatOutline => iconMap['accountCowboyHatOutline']!;
+  static IconData get accountCowboyHatOutline =>
+      iconMap['accountCowboyHatOutline']!;
   static IconData get accountCreditCard => iconMap['accountCreditCard']!;
-  static IconData get accountCreditCardOutline => iconMap['accountCreditCardOutline']!;
+  static IconData get accountCreditCardOutline =>
+      iconMap['accountCreditCardOutline']!;
   static IconData get accountDetails => iconMap['accountDetails']!;
-  static IconData get accountDetailsOutline => iconMap['accountDetailsOutline']!;
+  static IconData get accountDetailsOutline =>
+      iconMap['accountDetailsOutline']!;
   static IconData get accountEdit => iconMap['accountEdit']!;
   static IconData get accountEditOutline => iconMap['accountEditOutline']!;
   static IconData get accountEye => iconMap['accountEye']!;
@@ -72,7 +82,8 @@ class MdiIcons {
   static IconData get accountGroup => iconMap['accountGroup']!;
   static IconData get accountGroupOutline => iconMap['accountGroupOutline']!;
   static IconData get accountHardHat => iconMap['accountHardHat']!;
-  static IconData get accountHardHatOutline => iconMap['accountHardHatOutline']!;
+  static IconData get accountHardHatOutline =>
+      iconMap['accountHardHatOutline']!;
   static IconData get accountHeart => iconMap['accountHeart']!;
   static IconData get accountHeartOutline => iconMap['accountHeartOutline']!;
   static IconData get accountInjury => iconMap['accountInjury']!;
@@ -81,35 +92,46 @@ class MdiIcons {
   static IconData get accountKeyOutline => iconMap['accountKeyOutline']!;
   static IconData get accountLock => iconMap['accountLock']!;
   static IconData get accountLockOpen => iconMap['accountLockOpen']!;
-  static IconData get accountLockOpenOutline => iconMap['accountLockOpenOutline']!;
+  static IconData get accountLockOpenOutline =>
+      iconMap['accountLockOpenOutline']!;
   static IconData get accountLockOutline => iconMap['accountLockOutline']!;
   static IconData get accountMinus => iconMap['accountMinus']!;
   static IconData get accountMinusOutline => iconMap['accountMinusOutline']!;
   static IconData get accountMultiple => iconMap['accountMultiple']!;
   static IconData get accountMultipleCheck => iconMap['accountMultipleCheck']!;
-  static IconData get accountMultipleCheckOutline => iconMap['accountMultipleCheckOutline']!;
+  static IconData get accountMultipleCheckOutline =>
+      iconMap['accountMultipleCheckOutline']!;
   static IconData get accountMultipleMinus => iconMap['accountMultipleMinus']!;
-  static IconData get accountMultipleMinusOutline => iconMap['accountMultipleMinusOutline']!;
-  static IconData get accountMultipleOutline => iconMap['accountMultipleOutline']!;
+  static IconData get accountMultipleMinusOutline =>
+      iconMap['accountMultipleMinusOutline']!;
+  static IconData get accountMultipleOutline =>
+      iconMap['accountMultipleOutline']!;
   static IconData get accountMultiplePlus => iconMap['accountMultiplePlus']!;
-  static IconData get accountMultiplePlusOutline => iconMap['accountMultiplePlusOutline']!;
-  static IconData get accountMultipleRemove => iconMap['accountMultipleRemove']!;
-  static IconData get accountMultipleRemoveOutline => iconMap['accountMultipleRemoveOutline']!;
+  static IconData get accountMultiplePlusOutline =>
+      iconMap['accountMultiplePlusOutline']!;
+  static IconData get accountMultipleRemove =>
+      iconMap['accountMultipleRemove']!;
+  static IconData get accountMultipleRemoveOutline =>
+      iconMap['accountMultipleRemoveOutline']!;
   static IconData get accountMusic => iconMap['accountMusic']!;
   static IconData get accountMusicOutline => iconMap['accountMusicOutline']!;
   static IconData get accountNetwork => iconMap['accountNetwork']!;
   static IconData get accountNetworkOff => iconMap['accountNetworkOff']!;
-  static IconData get accountNetworkOffOutline => iconMap['accountNetworkOffOutline']!;
-  static IconData get accountNetworkOutline => iconMap['accountNetworkOutline']!;
+  static IconData get accountNetworkOffOutline =>
+      iconMap['accountNetworkOffOutline']!;
+  static IconData get accountNetworkOutline =>
+      iconMap['accountNetworkOutline']!;
   static IconData get accountOff => iconMap['accountOff']!;
   static IconData get accountOffOutline => iconMap['accountOffOutline']!;
   static IconData get accountOutline => iconMap['accountOutline']!;
   static IconData get accountPlus => iconMap['accountPlus']!;
   static IconData get accountPlusOutline => iconMap['accountPlusOutline']!;
   static IconData get accountQuestion => iconMap['accountQuestion']!;
-  static IconData get accountQuestionOutline => iconMap['accountQuestionOutline']!;
+  static IconData get accountQuestionOutline =>
+      iconMap['accountQuestionOutline']!;
   static IconData get accountReactivate => iconMap['accountReactivate']!;
-  static IconData get accountReactivateOutline => iconMap['accountReactivateOutline']!;
+  static IconData get accountReactivateOutline =>
+      iconMap['accountReactivateOutline']!;
   static IconData get accountRemove => iconMap['accountRemove']!;
   static IconData get accountRemoveOutline => iconMap['accountRemoveOutline']!;
   static IconData get accountSchool => iconMap['accountSchool']!;
@@ -117,13 +139,17 @@ class MdiIcons {
   static IconData get accountSearch => iconMap['accountSearch']!;
   static IconData get accountSearchOutline => iconMap['accountSearchOutline']!;
   static IconData get accountSettings => iconMap['accountSettings']!;
-  static IconData get accountSettingsOutline => iconMap['accountSettingsOutline']!;
+  static IconData get accountSettingsOutline =>
+      iconMap['accountSettingsOutline']!;
   static IconData get accountStar => iconMap['accountStar']!;
   static IconData get accountStarOutline => iconMap['accountStarOutline']!;
   static IconData get accountSupervisor => iconMap['accountSupervisor']!;
-  static IconData get accountSupervisorCircle => iconMap['accountSupervisorCircle']!;
-  static IconData get accountSupervisorCircleOutline => iconMap['accountSupervisorCircleOutline']!;
-  static IconData get accountSupervisorOutline => iconMap['accountSupervisorOutline']!;
+  static IconData get accountSupervisorCircle =>
+      iconMap['accountSupervisorCircle']!;
+  static IconData get accountSupervisorCircleOutline =>
+      iconMap['accountSupervisorCircleOutline']!;
+  static IconData get accountSupervisorOutline =>
+      iconMap['accountSupervisorOutline']!;
   static IconData get accountSwitch => iconMap['accountSwitch']!;
   static IconData get accountSwitchOutline => iconMap['accountSwitchOutline']!;
   static IconData get accountSync => iconMap['accountSync']!;
@@ -136,8 +162,10 @@ class MdiIcons {
   static IconData get accountTieOutline => iconMap['accountTieOutline']!;
   static IconData get accountTieVoice => iconMap['accountTieVoice']!;
   static IconData get accountTieVoiceOff => iconMap['accountTieVoiceOff']!;
-  static IconData get accountTieVoiceOffOutline => iconMap['accountTieVoiceOffOutline']!;
-  static IconData get accountTieVoiceOutline => iconMap['accountTieVoiceOutline']!;
+  static IconData get accountTieVoiceOffOutline =>
+      iconMap['accountTieVoiceOffOutline']!;
+  static IconData get accountTieVoiceOutline =>
+      iconMap['accountTieVoiceOutline']!;
   static IconData get accountTieWoman => iconMap['accountTieWoman']!;
   static IconData get accountVoice => iconMap['accountVoice']!;
   static IconData get accountVoiceOff => iconMap['accountVoiceOff']!;
@@ -193,7 +221,8 @@ class MdiIcons {
   static IconData get alertBoxOutline => iconMap['alertBoxOutline']!;
   static IconData get alertCircle => iconMap['alertCircle']!;
   static IconData get alertCircleCheck => iconMap['alertCircleCheck']!;
-  static IconData get alertCircleCheckOutline => iconMap['alertCircleCheckOutline']!;
+  static IconData get alertCircleCheckOutline =>
+      iconMap['alertCircleCheckOutline']!;
   static IconData get alertCircleOutline => iconMap['alertCircleOutline']!;
   static IconData get alertDecagram => iconMap['alertDecagram']!;
   static IconData get alertDecagramOutline => iconMap['alertDecagramOutline']!;
@@ -212,17 +241,21 @@ class MdiIcons {
   static IconData get alertRhombusOutline => iconMap['alertRhombusOutline']!;
   static IconData get alien => iconMap['alien']!;
   static IconData get alienOutline => iconMap['alienOutline']!;
-  static IconData get alignHorizontalCenter => iconMap['alignHorizontalCenter']!;
-  static IconData get alignHorizontalDistribute => iconMap['alignHorizontalDistribute']!;
+  static IconData get alignHorizontalCenter =>
+      iconMap['alignHorizontalCenter']!;
+  static IconData get alignHorizontalDistribute =>
+      iconMap['alignHorizontalDistribute']!;
   static IconData get alignHorizontalLeft => iconMap['alignHorizontalLeft']!;
   static IconData get alignHorizontalRight => iconMap['alignHorizontalRight']!;
   static IconData get alignVerticalBottom => iconMap['alignVerticalBottom']!;
   static IconData get alignVerticalCenter => iconMap['alignVerticalCenter']!;
-  static IconData get alignVerticalDistribute => iconMap['alignVerticalDistribute']!;
+  static IconData get alignVerticalDistribute =>
+      iconMap['alignVerticalDistribute']!;
   static IconData get alignVerticalTop => iconMap['alignVerticalTop']!;
   static IconData get allInclusive => iconMap['allInclusive']!;
   static IconData get allInclusiveBox => iconMap['allInclusiveBox']!;
-  static IconData get allInclusiveBoxOutline => iconMap['allInclusiveBoxOutline']!;
+  static IconData get allInclusiveBoxOutline =>
+      iconMap['allInclusiveBoxOutline']!;
   static IconData get allergy => iconMap['allergy']!;
   static IconData get alpha => iconMap['alpha']!;
   static IconData get alphaA => iconMap['alphaA']!;
@@ -364,7 +397,8 @@ class MdiIcons {
   static IconData get alphabetical => iconMap['alphabetical']!;
   static IconData get alphabeticalOff => iconMap['alphabeticalOff']!;
   static IconData get alphabeticalVariant => iconMap['alphabeticalVariant']!;
-  static IconData get alphabeticalVariantOff => iconMap['alphabeticalVariantOff']!;
+  static IconData get alphabeticalVariantOff =>
+      iconMap['alphabeticalVariantOff']!;
   static IconData get altimeter => iconMap['altimeter']!;
   static IconData get ambulance => iconMap['ambulance']!;
   static IconData get ammunition => iconMap['ammunition']!;
@@ -401,26 +435,36 @@ class MdiIcons {
   static IconData get appleSafari => iconMap['appleSafari']!;
   static IconData get application => iconMap['application']!;
   static IconData get applicationArray => iconMap['applicationArray']!;
-  static IconData get applicationArrayOutline => iconMap['applicationArrayOutline']!;
+  static IconData get applicationArrayOutline =>
+      iconMap['applicationArrayOutline']!;
   static IconData get applicationBraces => iconMap['applicationBraces']!;
-  static IconData get applicationBracesOutline => iconMap['applicationBracesOutline']!;
+  static IconData get applicationBracesOutline =>
+      iconMap['applicationBracesOutline']!;
   static IconData get applicationBrackets => iconMap['applicationBrackets']!;
-  static IconData get applicationBracketsOutline => iconMap['applicationBracketsOutline']!;
+  static IconData get applicationBracketsOutline =>
+      iconMap['applicationBracketsOutline']!;
   static IconData get applicationCog => iconMap['applicationCog']!;
-  static IconData get applicationCogOutline => iconMap['applicationCogOutline']!;
+  static IconData get applicationCogOutline =>
+      iconMap['applicationCogOutline']!;
   static IconData get applicationEdit => iconMap['applicationEdit']!;
-  static IconData get applicationEditOutline => iconMap['applicationEditOutline']!;
+  static IconData get applicationEditOutline =>
+      iconMap['applicationEditOutline']!;
   static IconData get applicationExport => iconMap['applicationExport']!;
   static IconData get applicationImport => iconMap['applicationImport']!;
   static IconData get applicationOutline => iconMap['applicationOutline']!;
-  static IconData get applicationParentheses => iconMap['applicationParentheses']!;
-  static IconData get applicationParenthesesOutline => iconMap['applicationParenthesesOutline']!;
+  static IconData get applicationParentheses =>
+      iconMap['applicationParentheses']!;
+  static IconData get applicationParenthesesOutline =>
+      iconMap['applicationParenthesesOutline']!;
   static IconData get applicationSettings => iconMap['applicationSettings']!;
-  static IconData get applicationSettingsOutline => iconMap['applicationSettingsOutline']!;
+  static IconData get applicationSettingsOutline =>
+      iconMap['applicationSettingsOutline']!;
   static IconData get applicationVariable => iconMap['applicationVariable']!;
-  static IconData get applicationVariableOutline => iconMap['applicationVariableOutline']!;
+  static IconData get applicationVariableOutline =>
+      iconMap['applicationVariableOutline']!;
   static IconData get approximatelyEqual => iconMap['approximatelyEqual']!;
-  static IconData get approximatelyEqualBox => iconMap['approximatelyEqualBox']!;
+  static IconData get approximatelyEqualBox =>
+      iconMap['approximatelyEqualBox']!;
   static IconData get apps => iconMap['apps']!;
   static IconData get appsBox => iconMap['appsBox']!;
   static IconData get arch => iconMap['arch']!;
@@ -428,9 +472,11 @@ class MdiIcons {
   static IconData get archiveAlert => iconMap['archiveAlert']!;
   static IconData get archiveAlertOutline => iconMap['archiveAlertOutline']!;
   static IconData get archiveArrowDown => iconMap['archiveArrowDown']!;
-  static IconData get archiveArrowDownOutline => iconMap['archiveArrowDownOutline']!;
+  static IconData get archiveArrowDownOutline =>
+      iconMap['archiveArrowDownOutline']!;
   static IconData get archiveArrowUp => iconMap['archiveArrowUp']!;
-  static IconData get archiveArrowUpOutline => iconMap['archiveArrowUpOutline']!;
+  static IconData get archiveArrowUpOutline =>
+      iconMap['archiveArrowUpOutline']!;
   static IconData get archiveCancel => iconMap['archiveCancel']!;
   static IconData get archiveCancelOutline => iconMap['archiveCancelOutline']!;
   static IconData get archiveCheck => iconMap['archiveCheck']!;
@@ -445,7 +491,8 @@ class MdiIcons {
   static IconData get archiveEyeOutline => iconMap['archiveEyeOutline']!;
   static IconData get archiveLock => iconMap['archiveLock']!;
   static IconData get archiveLockOpen => iconMap['archiveLockOpen']!;
-  static IconData get archiveLockOpenOutline => iconMap['archiveLockOpenOutline']!;
+  static IconData get archiveLockOpenOutline =>
+      iconMap['archiveLockOpenOutline']!;
   static IconData get archiveLockOutline => iconMap['archiveLockOutline']!;
   static IconData get archiveMarker => iconMap['archiveMarker']!;
   static IconData get archiveMarkerOutline => iconMap['archiveMarkerOutline']!;
@@ -459,13 +506,15 @@ class MdiIcons {
   static IconData get archivePlus => iconMap['archivePlus']!;
   static IconData get archivePlusOutline => iconMap['archivePlusOutline']!;
   static IconData get archiveRefresh => iconMap['archiveRefresh']!;
-  static IconData get archiveRefreshOutline => iconMap['archiveRefreshOutline']!;
+  static IconData get archiveRefreshOutline =>
+      iconMap['archiveRefreshOutline']!;
   static IconData get archiveRemove => iconMap['archiveRemove']!;
   static IconData get archiveRemoveOutline => iconMap['archiveRemoveOutline']!;
   static IconData get archiveSearch => iconMap['archiveSearch']!;
   static IconData get archiveSearchOutline => iconMap['archiveSearchOutline']!;
   static IconData get archiveSettings => iconMap['archiveSettings']!;
-  static IconData get archiveSettingsOutline => iconMap['archiveSettingsOutline']!;
+  static IconData get archiveSettingsOutline =>
+      iconMap['archiveSettingsOutline']!;
   static IconData get archiveStar => iconMap['archiveStar']!;
   static IconData get archiveStarOutline => iconMap['archiveStarOutline']!;
   static IconData get archiveSync => iconMap['archiveSync']!;
@@ -478,55 +527,74 @@ class MdiIcons {
   static IconData get arrangeSendToBack => iconMap['arrangeSendToBack']!;
   static IconData get arrowAll => iconMap['arrowAll']!;
   static IconData get arrowBottomLeft => iconMap['arrowBottomLeft']!;
-  static IconData get arrowBottomLeftBoldBox => iconMap['arrowBottomLeftBoldBox']!;
-  static IconData get arrowBottomLeftBoldBoxOutline => iconMap['arrowBottomLeftBoldBoxOutline']!;
-  static IconData get arrowBottomLeftBoldOutline => iconMap['arrowBottomLeftBoldOutline']!;
+  static IconData get arrowBottomLeftBoldBox =>
+      iconMap['arrowBottomLeftBoldBox']!;
+  static IconData get arrowBottomLeftBoldBoxOutline =>
+      iconMap['arrowBottomLeftBoldBoxOutline']!;
+  static IconData get arrowBottomLeftBoldOutline =>
+      iconMap['arrowBottomLeftBoldOutline']!;
   static IconData get arrowBottomLeftThick => iconMap['arrowBottomLeftThick']!;
   static IconData get arrowBottomLeftThin => iconMap['arrowBottomLeftThin']!;
-  static IconData get arrowBottomLeftThinCircleOutline => iconMap['arrowBottomLeftThinCircleOutline']!;
+  static IconData get arrowBottomLeftThinCircleOutline =>
+      iconMap['arrowBottomLeftThinCircleOutline']!;
   static IconData get arrowBottomRight => iconMap['arrowBottomRight']!;
-  static IconData get arrowBottomRightBoldBox => iconMap['arrowBottomRightBoldBox']!;
-  static IconData get arrowBottomRightBoldBoxOutline => iconMap['arrowBottomRightBoldBoxOutline']!;
-  static IconData get arrowBottomRightBoldOutline => iconMap['arrowBottomRightBoldOutline']!;
-  static IconData get arrowBottomRightThick => iconMap['arrowBottomRightThick']!;
+  static IconData get arrowBottomRightBoldBox =>
+      iconMap['arrowBottomRightBoldBox']!;
+  static IconData get arrowBottomRightBoldBoxOutline =>
+      iconMap['arrowBottomRightBoldBoxOutline']!;
+  static IconData get arrowBottomRightBoldOutline =>
+      iconMap['arrowBottomRightBoldOutline']!;
+  static IconData get arrowBottomRightThick =>
+      iconMap['arrowBottomRightThick']!;
   static IconData get arrowBottomRightThin => iconMap['arrowBottomRightThin']!;
-  static IconData get arrowBottomRightThinCircleOutline => iconMap['arrowBottomRightThinCircleOutline']!;
+  static IconData get arrowBottomRightThinCircleOutline =>
+      iconMap['arrowBottomRightThinCircleOutline']!;
   static IconData get arrowCollapse => iconMap['arrowCollapse']!;
   static IconData get arrowCollapseAll => iconMap['arrowCollapseAll']!;
   static IconData get arrowCollapseDown => iconMap['arrowCollapseDown']!;
-  static IconData get arrowCollapseHorizontal => iconMap['arrowCollapseHorizontal']!;
+  static IconData get arrowCollapseHorizontal =>
+      iconMap['arrowCollapseHorizontal']!;
   static IconData get arrowCollapseLeft => iconMap['arrowCollapseLeft']!;
   static IconData get arrowCollapseRight => iconMap['arrowCollapseRight']!;
   static IconData get arrowCollapseUp => iconMap['arrowCollapseUp']!;
-  static IconData get arrowCollapseVertical => iconMap['arrowCollapseVertical']!;
+  static IconData get arrowCollapseVertical =>
+      iconMap['arrowCollapseVertical']!;
   static IconData get arrowDecision => iconMap['arrowDecision']!;
   static IconData get arrowDecisionAuto => iconMap['arrowDecisionAuto']!;
-  static IconData get arrowDecisionAutoOutline => iconMap['arrowDecisionAutoOutline']!;
+  static IconData get arrowDecisionAutoOutline =>
+      iconMap['arrowDecisionAutoOutline']!;
   static IconData get arrowDecisionOutline => iconMap['arrowDecisionOutline']!;
   static IconData get arrowDown => iconMap['arrowDown']!;
   static IconData get arrowDownBold => iconMap['arrowDownBold']!;
   static IconData get arrowDownBoldBox => iconMap['arrowDownBoldBox']!;
-  static IconData get arrowDownBoldBoxOutline => iconMap['arrowDownBoldBoxOutline']!;
+  static IconData get arrowDownBoldBoxOutline =>
+      iconMap['arrowDownBoldBoxOutline']!;
   static IconData get arrowDownBoldCircle => iconMap['arrowDownBoldCircle']!;
-  static IconData get arrowDownBoldCircleOutline => iconMap['arrowDownBoldCircleOutline']!;
-  static IconData get arrowDownBoldHexagonOutline => iconMap['arrowDownBoldHexagonOutline']!;
+  static IconData get arrowDownBoldCircleOutline =>
+      iconMap['arrowDownBoldCircleOutline']!;
+  static IconData get arrowDownBoldHexagonOutline =>
+      iconMap['arrowDownBoldHexagonOutline']!;
   static IconData get arrowDownBoldOutline => iconMap['arrowDownBoldOutline']!;
   static IconData get arrowDownBox => iconMap['arrowDownBox']!;
   static IconData get arrowDownCircle => iconMap['arrowDownCircle']!;
-  static IconData get arrowDownCircleOutline => iconMap['arrowDownCircleOutline']!;
+  static IconData get arrowDownCircleOutline =>
+      iconMap['arrowDownCircleOutline']!;
   static IconData get arrowDownDropCircle => iconMap['arrowDownDropCircle']!;
-  static IconData get arrowDownDropCircleOutline => iconMap['arrowDownDropCircleOutline']!;
+  static IconData get arrowDownDropCircleOutline =>
+      iconMap['arrowDownDropCircleOutline']!;
   static IconData get arrowDownLeft => iconMap['arrowDownLeft']!;
   static IconData get arrowDownLeftBold => iconMap['arrowDownLeftBold']!;
   static IconData get arrowDownRight => iconMap['arrowDownRight']!;
   static IconData get arrowDownRightBold => iconMap['arrowDownRightBold']!;
   static IconData get arrowDownThick => iconMap['arrowDownThick']!;
   static IconData get arrowDownThin => iconMap['arrowDownThin']!;
-  static IconData get arrowDownThinCircleOutline => iconMap['arrowDownThinCircleOutline']!;
+  static IconData get arrowDownThinCircleOutline =>
+      iconMap['arrowDownThinCircleOutline']!;
   static IconData get arrowExpand => iconMap['arrowExpand']!;
   static IconData get arrowExpandAll => iconMap['arrowExpandAll']!;
   static IconData get arrowExpandDown => iconMap['arrowExpandDown']!;
-  static IconData get arrowExpandHorizontal => iconMap['arrowExpandHorizontal']!;
+  static IconData get arrowExpandHorizontal =>
+      iconMap['arrowExpandHorizontal']!;
   static IconData get arrowExpandLeft => iconMap['arrowExpandLeft']!;
   static IconData get arrowExpandRight => iconMap['arrowExpandRight']!;
   static IconData get arrowExpandUp => iconMap['arrowExpandUp']!;
@@ -535,68 +603,93 @@ class MdiIcons {
   static IconData get arrowLeft => iconMap['arrowLeft']!;
   static IconData get arrowLeftBold => iconMap['arrowLeftBold']!;
   static IconData get arrowLeftBoldBox => iconMap['arrowLeftBoldBox']!;
-  static IconData get arrowLeftBoldBoxOutline => iconMap['arrowLeftBoldBoxOutline']!;
+  static IconData get arrowLeftBoldBoxOutline =>
+      iconMap['arrowLeftBoldBoxOutline']!;
   static IconData get arrowLeftBoldCircle => iconMap['arrowLeftBoldCircle']!;
-  static IconData get arrowLeftBoldCircleOutline => iconMap['arrowLeftBoldCircleOutline']!;
-  static IconData get arrowLeftBoldHexagonOutline => iconMap['arrowLeftBoldHexagonOutline']!;
+  static IconData get arrowLeftBoldCircleOutline =>
+      iconMap['arrowLeftBoldCircleOutline']!;
+  static IconData get arrowLeftBoldHexagonOutline =>
+      iconMap['arrowLeftBoldHexagonOutline']!;
   static IconData get arrowLeftBoldOutline => iconMap['arrowLeftBoldOutline']!;
   static IconData get arrowLeftBottom => iconMap['arrowLeftBottom']!;
   static IconData get arrowLeftBottomBold => iconMap['arrowLeftBottomBold']!;
   static IconData get arrowLeftBox => iconMap['arrowLeftBox']!;
   static IconData get arrowLeftCircle => iconMap['arrowLeftCircle']!;
-  static IconData get arrowLeftCircleOutline => iconMap['arrowLeftCircleOutline']!;
+  static IconData get arrowLeftCircleOutline =>
+      iconMap['arrowLeftCircleOutline']!;
   static IconData get arrowLeftDropCircle => iconMap['arrowLeftDropCircle']!;
-  static IconData get arrowLeftDropCircleOutline => iconMap['arrowLeftDropCircleOutline']!;
+  static IconData get arrowLeftDropCircleOutline =>
+      iconMap['arrowLeftDropCircleOutline']!;
   static IconData get arrowLeftRight => iconMap['arrowLeftRight']!;
   static IconData get arrowLeftRightBold => iconMap['arrowLeftRightBold']!;
-  static IconData get arrowLeftRightBoldOutline => iconMap['arrowLeftRightBoldOutline']!;
+  static IconData get arrowLeftRightBoldOutline =>
+      iconMap['arrowLeftRightBoldOutline']!;
   static IconData get arrowLeftThick => iconMap['arrowLeftThick']!;
   static IconData get arrowLeftThin => iconMap['arrowLeftThin']!;
-  static IconData get arrowLeftThinCircleOutline => iconMap['arrowLeftThinCircleOutline']!;
+  static IconData get arrowLeftThinCircleOutline =>
+      iconMap['arrowLeftThinCircleOutline']!;
   static IconData get arrowLeftTop => iconMap['arrowLeftTop']!;
   static IconData get arrowLeftTopBold => iconMap['arrowLeftTopBold']!;
   static IconData get arrowProjectile => iconMap['arrowProjectile']!;
-  static IconData get arrowProjectileMultiple => iconMap['arrowProjectileMultiple']!;
+  static IconData get arrowProjectileMultiple =>
+      iconMap['arrowProjectileMultiple']!;
   static IconData get arrowRight => iconMap['arrowRight']!;
   static IconData get arrowRightBold => iconMap['arrowRightBold']!;
   static IconData get arrowRightBoldBox => iconMap['arrowRightBoldBox']!;
-  static IconData get arrowRightBoldBoxOutline => iconMap['arrowRightBoldBoxOutline']!;
+  static IconData get arrowRightBoldBoxOutline =>
+      iconMap['arrowRightBoldBoxOutline']!;
   static IconData get arrowRightBoldCircle => iconMap['arrowRightBoldCircle']!;
-  static IconData get arrowRightBoldCircleOutline => iconMap['arrowRightBoldCircleOutline']!;
-  static IconData get arrowRightBoldHexagonOutline => iconMap['arrowRightBoldHexagonOutline']!;
-  static IconData get arrowRightBoldOutline => iconMap['arrowRightBoldOutline']!;
+  static IconData get arrowRightBoldCircleOutline =>
+      iconMap['arrowRightBoldCircleOutline']!;
+  static IconData get arrowRightBoldHexagonOutline =>
+      iconMap['arrowRightBoldHexagonOutline']!;
+  static IconData get arrowRightBoldOutline =>
+      iconMap['arrowRightBoldOutline']!;
   static IconData get arrowRightBottom => iconMap['arrowRightBottom']!;
   static IconData get arrowRightBottomBold => iconMap['arrowRightBottomBold']!;
   static IconData get arrowRightBox => iconMap['arrowRightBox']!;
   static IconData get arrowRightCircle => iconMap['arrowRightCircle']!;
-  static IconData get arrowRightCircleOutline => iconMap['arrowRightCircleOutline']!;
+  static IconData get arrowRightCircleOutline =>
+      iconMap['arrowRightCircleOutline']!;
   static IconData get arrowRightDropCircle => iconMap['arrowRightDropCircle']!;
-  static IconData get arrowRightDropCircleOutline => iconMap['arrowRightDropCircleOutline']!;
+  static IconData get arrowRightDropCircleOutline =>
+      iconMap['arrowRightDropCircleOutline']!;
   static IconData get arrowRightThick => iconMap['arrowRightThick']!;
   static IconData get arrowRightThin => iconMap['arrowRightThin']!;
-  static IconData get arrowRightThinCircleOutline => iconMap['arrowRightThinCircleOutline']!;
+  static IconData get arrowRightThinCircleOutline =>
+      iconMap['arrowRightThinCircleOutline']!;
   static IconData get arrowRightTop => iconMap['arrowRightTop']!;
   static IconData get arrowRightTopBold => iconMap['arrowRightTopBold']!;
   static IconData get arrowSplitHorizontal => iconMap['arrowSplitHorizontal']!;
   static IconData get arrowSplitVertical => iconMap['arrowSplitVertical']!;
   static IconData get arrowTopLeft => iconMap['arrowTopLeft']!;
   static IconData get arrowTopLeftBoldBox => iconMap['arrowTopLeftBoldBox']!;
-  static IconData get arrowTopLeftBoldBoxOutline => iconMap['arrowTopLeftBoldBoxOutline']!;
-  static IconData get arrowTopLeftBoldOutline => iconMap['arrowTopLeftBoldOutline']!;
-  static IconData get arrowTopLeftBottomRight => iconMap['arrowTopLeftBottomRight']!;
-  static IconData get arrowTopLeftBottomRightBold => iconMap['arrowTopLeftBottomRightBold']!;
+  static IconData get arrowTopLeftBoldBoxOutline =>
+      iconMap['arrowTopLeftBoldBoxOutline']!;
+  static IconData get arrowTopLeftBoldOutline =>
+      iconMap['arrowTopLeftBoldOutline']!;
+  static IconData get arrowTopLeftBottomRight =>
+      iconMap['arrowTopLeftBottomRight']!;
+  static IconData get arrowTopLeftBottomRightBold =>
+      iconMap['arrowTopLeftBottomRightBold']!;
   static IconData get arrowTopLeftThick => iconMap['arrowTopLeftThick']!;
   static IconData get arrowTopLeftThin => iconMap['arrowTopLeftThin']!;
-  static IconData get arrowTopLeftThinCircleOutline => iconMap['arrowTopLeftThinCircleOutline']!;
+  static IconData get arrowTopLeftThinCircleOutline =>
+      iconMap['arrowTopLeftThinCircleOutline']!;
   static IconData get arrowTopRight => iconMap['arrowTopRight']!;
   static IconData get arrowTopRightBoldBox => iconMap['arrowTopRightBoldBox']!;
-  static IconData get arrowTopRightBoldBoxOutline => iconMap['arrowTopRightBoldBoxOutline']!;
-  static IconData get arrowTopRightBoldOutline => iconMap['arrowTopRightBoldOutline']!;
-  static IconData get arrowTopRightBottomLeft => iconMap['arrowTopRightBottomLeft']!;
-  static IconData get arrowTopRightBottomLeftBold => iconMap['arrowTopRightBottomLeftBold']!;
+  static IconData get arrowTopRightBoldBoxOutline =>
+      iconMap['arrowTopRightBoldBoxOutline']!;
+  static IconData get arrowTopRightBoldOutline =>
+      iconMap['arrowTopRightBoldOutline']!;
+  static IconData get arrowTopRightBottomLeft =>
+      iconMap['arrowTopRightBottomLeft']!;
+  static IconData get arrowTopRightBottomLeftBold =>
+      iconMap['arrowTopRightBottomLeftBold']!;
   static IconData get arrowTopRightThick => iconMap['arrowTopRightThick']!;
   static IconData get arrowTopRightThin => iconMap['arrowTopRightThin']!;
-  static IconData get arrowTopRightThinCircleOutline => iconMap['arrowTopRightThinCircleOutline']!;
+  static IconData get arrowTopRightThinCircleOutline =>
+      iconMap['arrowTopRightThinCircleOutline']!;
   static IconData get arrowUDownLeft => iconMap['arrowUDownLeft']!;
   static IconData get arrowUDownLeftBold => iconMap['arrowUDownLeftBold']!;
   static IconData get arrowUDownRight => iconMap['arrowUDownRight']!;
@@ -606,7 +699,8 @@ class MdiIcons {
   static IconData get arrowULeftTop => iconMap['arrowULeftTop']!;
   static IconData get arrowULeftTopBold => iconMap['arrowULeftTopBold']!;
   static IconData get arrowURightBottom => iconMap['arrowURightBottom']!;
-  static IconData get arrowURightBottomBold => iconMap['arrowURightBottomBold']!;
+  static IconData get arrowURightBottomBold =>
+      iconMap['arrowURightBottomBold']!;
   static IconData get arrowURightTop => iconMap['arrowURightTop']!;
   static IconData get arrowURightTopBold => iconMap['arrowURightTopBold']!;
   static IconData get arrowUUpLeft => iconMap['arrowUUpLeft']!;
@@ -616,33 +710,40 @@ class MdiIcons {
   static IconData get arrowUp => iconMap['arrowUp']!;
   static IconData get arrowUpBold => iconMap['arrowUpBold']!;
   static IconData get arrowUpBoldBox => iconMap['arrowUpBoldBox']!;
-  static IconData get arrowUpBoldBoxOutline => iconMap['arrowUpBoldBoxOutline']!;
+  static IconData get arrowUpBoldBoxOutline =>
+      iconMap['arrowUpBoldBoxOutline']!;
   static IconData get arrowUpBoldCircle => iconMap['arrowUpBoldCircle']!;
-  static IconData get arrowUpBoldCircleOutline => iconMap['arrowUpBoldCircleOutline']!;
-  static IconData get arrowUpBoldHexagonOutline => iconMap['arrowUpBoldHexagonOutline']!;
+  static IconData get arrowUpBoldCircleOutline =>
+      iconMap['arrowUpBoldCircleOutline']!;
+  static IconData get arrowUpBoldHexagonOutline =>
+      iconMap['arrowUpBoldHexagonOutline']!;
   static IconData get arrowUpBoldOutline => iconMap['arrowUpBoldOutline']!;
   static IconData get arrowUpBox => iconMap['arrowUpBox']!;
   static IconData get arrowUpCircle => iconMap['arrowUpCircle']!;
   static IconData get arrowUpCircleOutline => iconMap['arrowUpCircleOutline']!;
   static IconData get arrowUpDown => iconMap['arrowUpDown']!;
   static IconData get arrowUpDownBold => iconMap['arrowUpDownBold']!;
-  static IconData get arrowUpDownBoldOutline => iconMap['arrowUpDownBoldOutline']!;
+  static IconData get arrowUpDownBoldOutline =>
+      iconMap['arrowUpDownBoldOutline']!;
   static IconData get arrowUpDropCircle => iconMap['arrowUpDropCircle']!;
-  static IconData get arrowUpDropCircleOutline => iconMap['arrowUpDropCircleOutline']!;
+  static IconData get arrowUpDropCircleOutline =>
+      iconMap['arrowUpDropCircleOutline']!;
   static IconData get arrowUpLeft => iconMap['arrowUpLeft']!;
   static IconData get arrowUpLeftBold => iconMap['arrowUpLeftBold']!;
   static IconData get arrowUpRight => iconMap['arrowUpRight']!;
   static IconData get arrowUpRightBold => iconMap['arrowUpRightBold']!;
   static IconData get arrowUpThick => iconMap['arrowUpThick']!;
   static IconData get arrowUpThin => iconMap['arrowUpThin']!;
-  static IconData get arrowUpThinCircleOutline => iconMap['arrowUpThinCircleOutline']!;
+  static IconData get arrowUpThinCircleOutline =>
+      iconMap['arrowUpThinCircleOutline']!;
   static IconData get arrowVerticalLock => iconMap['arrowVerticalLock']!;
   static IconData get artboard => iconMap['artboard']!;
   static IconData get artstation => iconMap['artstation']!;
   static IconData get aspectRatio => iconMap['aspectRatio']!;
   static IconData get assistant => iconMap['assistant']!;
   static IconData get asterisk => iconMap['asterisk']!;
-  static IconData get asteriskCircleOutline => iconMap['asteriskCircleOutline']!;
+  static IconData get asteriskCircleOutline =>
+      iconMap['asteriskCircleOutline']!;
   static IconData get at => iconMap['at']!;
   static IconData get atlassian => iconMap['atlassian']!;
   static IconData get atm => iconMap['atm']!;
@@ -657,7 +758,8 @@ class MdiIcons {
   static IconData get attachmentRemove => iconMap['attachmentRemove']!;
   static IconData get atv => iconMap['atv']!;
   static IconData get audioInputRca => iconMap['audioInputRca']!;
-  static IconData get audioInputStereoMinijack => iconMap['audioInputStereoMinijack']!;
+  static IconData get audioInputStereoMinijack =>
+      iconMap['audioInputStereoMinijack']!;
   static IconData get audioInputXlr => iconMap['audioInputXlr']!;
   static IconData get audioVideo => iconMap['audioVideo']!;
   static IconData get audioVideoOff => iconMap['audioVideoOff']!;
@@ -683,16 +785,19 @@ class MdiIcons {
   static IconData get axisXArrow => iconMap['axisXArrow']!;
   static IconData get axisXArrowLock => iconMap['axisXArrowLock']!;
   static IconData get axisXRotateClockwise => iconMap['axisXRotateClockwise']!;
-  static IconData get axisXRotateCounterclockwise => iconMap['axisXRotateCounterclockwise']!;
+  static IconData get axisXRotateCounterclockwise =>
+      iconMap['axisXRotateCounterclockwise']!;
   static IconData get axisXYArrowLock => iconMap['axisXYArrowLock']!;
   static IconData get axisYArrow => iconMap['axisYArrow']!;
   static IconData get axisYArrowLock => iconMap['axisYArrowLock']!;
   static IconData get axisYRotateClockwise => iconMap['axisYRotateClockwise']!;
-  static IconData get axisYRotateCounterclockwise => iconMap['axisYRotateCounterclockwise']!;
+  static IconData get axisYRotateCounterclockwise =>
+      iconMap['axisYRotateCounterclockwise']!;
   static IconData get axisZArrow => iconMap['axisZArrow']!;
   static IconData get axisZArrowLock => iconMap['axisZArrowLock']!;
   static IconData get axisZRotateClockwise => iconMap['axisZRotateClockwise']!;
-  static IconData get axisZRotateCounterclockwise => iconMap['axisZRotateCounterclockwise']!;
+  static IconData get axisZRotateCounterclockwise =>
+      iconMap['axisZRotateCounterclockwise']!;
   static IconData get babel => iconMap['babel']!;
   static IconData get baby => iconMap['baby']!;
   static IconData get babyBottle => iconMap['babyBottle']!;
@@ -707,15 +812,19 @@ class MdiIcons {
   static IconData get backspace => iconMap['backspace']!;
   static IconData get backspaceOutline => iconMap['backspaceOutline']!;
   static IconData get backspaceReverse => iconMap['backspaceReverse']!;
-  static IconData get backspaceReverseOutline => iconMap['backspaceReverseOutline']!;
+  static IconData get backspaceReverseOutline =>
+      iconMap['backspaceReverseOutline']!;
   static IconData get backupRestore => iconMap['backupRestore']!;
   static IconData get bacteria => iconMap['bacteria']!;
   static IconData get bacteriaOutline => iconMap['bacteriaOutline']!;
   static IconData get badgeAccount => iconMap['badgeAccount']!;
   static IconData get badgeAccountAlert => iconMap['badgeAccountAlert']!;
-  static IconData get badgeAccountAlertOutline => iconMap['badgeAccountAlertOutline']!;
-  static IconData get badgeAccountHorizontal => iconMap['badgeAccountHorizontal']!;
-  static IconData get badgeAccountHorizontalOutline => iconMap['badgeAccountHorizontalOutline']!;
+  static IconData get badgeAccountAlertOutline =>
+      iconMap['badgeAccountAlertOutline']!;
+  static IconData get badgeAccountHorizontal =>
+      iconMap['badgeAccountHorizontal']!;
+  static IconData get badgeAccountHorizontalOutline =>
+      iconMap['badgeAccountHorizontalOutline']!;
   static IconData get badgeAccountOutline => iconMap['badgeAccountOutline']!;
   static IconData get badminton => iconMap['badminton']!;
   static IconData get bagCarryOn => iconMap['bagCarryOn']!;
@@ -724,13 +833,16 @@ class MdiIcons {
   static IconData get bagChecked => iconMap['bagChecked']!;
   static IconData get bagPersonal => iconMap['bagPersonal']!;
   static IconData get bagPersonalOff => iconMap['bagPersonalOff']!;
-  static IconData get bagPersonalOffOutline => iconMap['bagPersonalOffOutline']!;
+  static IconData get bagPersonalOffOutline =>
+      iconMap['bagPersonalOffOutline']!;
   static IconData get bagPersonalOutline => iconMap['bagPersonalOutline']!;
   static IconData get bagPersonalTag => iconMap['bagPersonalTag']!;
-  static IconData get bagPersonalTagOutline => iconMap['bagPersonalTagOutline']!;
+  static IconData get bagPersonalTagOutline =>
+      iconMap['bagPersonalTagOutline']!;
   static IconData get bagSuitcase => iconMap['bagSuitcase']!;
   static IconData get bagSuitcaseOff => iconMap['bagSuitcaseOff']!;
-  static IconData get bagSuitcaseOffOutline => iconMap['bagSuitcaseOffOutline']!;
+  static IconData get bagSuitcaseOffOutline =>
+      iconMap['bagSuitcaseOffOutline']!;
   static IconData get bagSuitcaseOutline => iconMap['bagSuitcaseOutline']!;
   static IconData get baguette => iconMap['baguette']!;
   static IconData get balcony => iconMap['balcony']!;
@@ -764,7 +876,8 @@ class MdiIcons {
   static IconData get baseball => iconMap['baseball']!;
   static IconData get baseballBat => iconMap['baseballBat']!;
   static IconData get baseballDiamond => iconMap['baseballDiamond']!;
-  static IconData get baseballDiamondOutline => iconMap['baseballDiamondOutline']!;
+  static IconData get baseballDiamondOutline =>
+      iconMap['baseballDiamondOutline']!;
   static IconData get baseballOutline => iconMap['baseballOutline']!;
   static IconData get bash => iconMap['bash']!;
   static IconData get basket => iconMap['basket']!;
@@ -783,7 +896,8 @@ class MdiIcons {
   static IconData get basketUnfill => iconMap['basketUnfill']!;
   static IconData get basketball => iconMap['basketball']!;
   static IconData get basketballHoop => iconMap['basketballHoop']!;
-  static IconData get basketballHoopOutline => iconMap['basketballHoopOutline']!;
+  static IconData get basketballHoopOutline =>
+      iconMap['basketballHoopOutline']!;
   static IconData get bat => iconMap['bat']!;
   static IconData get bathtub => iconMap['bathtub']!;
   static IconData get bathtubOutline => iconMap['bathtubOutline']!;
@@ -807,15 +921,20 @@ class MdiIcons {
   static IconData get battery90 => iconMap['battery90']!;
   static IconData get battery90Bluetooth => iconMap['battery90Bluetooth']!;
   static IconData get batteryAlert => iconMap['batteryAlert']!;
-  static IconData get batteryAlertBluetooth => iconMap['batteryAlertBluetooth']!;
+  static IconData get batteryAlertBluetooth =>
+      iconMap['batteryAlertBluetooth']!;
   static IconData get batteryAlertVariant => iconMap['batteryAlertVariant']!;
-  static IconData get batteryAlertVariantOutline => iconMap['batteryAlertVariantOutline']!;
+  static IconData get batteryAlertVariantOutline =>
+      iconMap['batteryAlertVariantOutline']!;
   static IconData get batteryArrowDown => iconMap['batteryArrowDown']!;
-  static IconData get batteryArrowDownOutline => iconMap['batteryArrowDownOutline']!;
+  static IconData get batteryArrowDownOutline =>
+      iconMap['batteryArrowDownOutline']!;
   static IconData get batteryArrowUp => iconMap['batteryArrowUp']!;
-  static IconData get batteryArrowUpOutline => iconMap['batteryArrowUpOutline']!;
+  static IconData get batteryArrowUpOutline =>
+      iconMap['batteryArrowUpOutline']!;
   static IconData get batteryBluetooth => iconMap['batteryBluetooth']!;
-  static IconData get batteryBluetoothVariant => iconMap['batteryBluetoothVariant']!;
+  static IconData get batteryBluetoothVariant =>
+      iconMap['batteryBluetoothVariant']!;
   static IconData get batteryCharging => iconMap['batteryCharging']!;
   static IconData get batteryCharging10 => iconMap['batteryCharging10']!;
   static IconData get batteryCharging100 => iconMap['batteryCharging100']!;
@@ -829,20 +948,34 @@ class MdiIcons {
   static IconData get batteryCharging90 => iconMap['batteryCharging90']!;
   static IconData get batteryChargingHigh => iconMap['batteryChargingHigh']!;
   static IconData get batteryChargingLow => iconMap['batteryChargingLow']!;
-  static IconData get batteryChargingMedium => iconMap['batteryChargingMedium']!;
-  static IconData get batteryChargingOutline => iconMap['batteryChargingOutline']!;
-  static IconData get batteryChargingWireless => iconMap['batteryChargingWireless']!;
-  static IconData get batteryChargingWireless10 => iconMap['batteryChargingWireless10']!;
-  static IconData get batteryChargingWireless20 => iconMap['batteryChargingWireless20']!;
-  static IconData get batteryChargingWireless30 => iconMap['batteryChargingWireless30']!;
-  static IconData get batteryChargingWireless40 => iconMap['batteryChargingWireless40']!;
-  static IconData get batteryChargingWireless50 => iconMap['batteryChargingWireless50']!;
-  static IconData get batteryChargingWireless60 => iconMap['batteryChargingWireless60']!;
-  static IconData get batteryChargingWireless70 => iconMap['batteryChargingWireless70']!;
-  static IconData get batteryChargingWireless80 => iconMap['batteryChargingWireless80']!;
-  static IconData get batteryChargingWireless90 => iconMap['batteryChargingWireless90']!;
-  static IconData get batteryChargingWirelessAlert => iconMap['batteryChargingWirelessAlert']!;
-  static IconData get batteryChargingWirelessOutline => iconMap['batteryChargingWirelessOutline']!;
+  static IconData get batteryChargingMedium =>
+      iconMap['batteryChargingMedium']!;
+  static IconData get batteryChargingOutline =>
+      iconMap['batteryChargingOutline']!;
+  static IconData get batteryChargingWireless =>
+      iconMap['batteryChargingWireless']!;
+  static IconData get batteryChargingWireless10 =>
+      iconMap['batteryChargingWireless10']!;
+  static IconData get batteryChargingWireless20 =>
+      iconMap['batteryChargingWireless20']!;
+  static IconData get batteryChargingWireless30 =>
+      iconMap['batteryChargingWireless30']!;
+  static IconData get batteryChargingWireless40 =>
+      iconMap['batteryChargingWireless40']!;
+  static IconData get batteryChargingWireless50 =>
+      iconMap['batteryChargingWireless50']!;
+  static IconData get batteryChargingWireless60 =>
+      iconMap['batteryChargingWireless60']!;
+  static IconData get batteryChargingWireless70 =>
+      iconMap['batteryChargingWireless70']!;
+  static IconData get batteryChargingWireless80 =>
+      iconMap['batteryChargingWireless80']!;
+  static IconData get batteryChargingWireless90 =>
+      iconMap['batteryChargingWireless90']!;
+  static IconData get batteryChargingWirelessAlert =>
+      iconMap['batteryChargingWirelessAlert']!;
+  static IconData get batteryChargingWirelessOutline =>
+      iconMap['batteryChargingWirelessOutline']!;
   static IconData get batteryCheck => iconMap['batteryCheck']!;
   static IconData get batteryCheckOutline => iconMap['batteryCheckOutline']!;
   static IconData get batteryClock => iconMap['batteryClock']!;
@@ -871,7 +1004,8 @@ class MdiIcons {
   static IconData get batterySync => iconMap['batterySync']!;
   static IconData get batterySyncOutline => iconMap['batterySyncOutline']!;
   static IconData get batteryUnknown => iconMap['batteryUnknown']!;
-  static IconData get batteryUnknownBluetooth => iconMap['batteryUnknownBluetooth']!;
+  static IconData get batteryUnknownBluetooth =>
+      iconMap['batteryUnknownBluetooth']!;
   static IconData get beach => iconMap['beach']!;
   static IconData get beaker => iconMap['beaker']!;
   static IconData get beakerAlert => iconMap['beakerAlert']!;
@@ -884,7 +1018,8 @@ class MdiIcons {
   static IconData get beakerPlus => iconMap['beakerPlus']!;
   static IconData get beakerPlusOutline => iconMap['beakerPlusOutline']!;
   static IconData get beakerQuestion => iconMap['beakerQuestion']!;
-  static IconData get beakerQuestionOutline => iconMap['beakerQuestionOutline']!;
+  static IconData get beakerQuestionOutline =>
+      iconMap['beakerQuestionOutline']!;
   static IconData get beakerRemove => iconMap['beakerRemove']!;
   static IconData get beakerRemoveOutline => iconMap['beakerRemoveOutline']!;
   static IconData get bed => iconMap['bed']!;
@@ -962,7 +1097,8 @@ class MdiIcons {
   static IconData get blenderSoftware => iconMap['blenderSoftware']!;
   static IconData get blinds => iconMap['blinds']!;
   static IconData get blindsHorizontal => iconMap['blindsHorizontal']!;
-  static IconData get blindsHorizontalClosed => iconMap['blindsHorizontalClosed']!;
+  static IconData get blindsHorizontalClosed =>
+      iconMap['blindsHorizontalClosed']!;
   static IconData get blindsOpen => iconMap['blindsOpen']!;
   static IconData get blindsVertical => iconMap['blindsVertical']!;
   static IconData get blindsVerticalClosed => iconMap['blindsVerticalClosed']!;
@@ -994,7 +1130,8 @@ class MdiIcons {
   static IconData get bookArrowLeft => iconMap['bookArrowLeft']!;
   static IconData get bookArrowLeftOutline => iconMap['bookArrowLeftOutline']!;
   static IconData get bookArrowRight => iconMap['bookArrowRight']!;
-  static IconData get bookArrowRightOutline => iconMap['bookArrowRightOutline']!;
+  static IconData get bookArrowRightOutline =>
+      iconMap['bookArrowRightOutline']!;
   static IconData get bookArrowUp => iconMap['bookArrowUp']!;
   static IconData get bookArrowUpOutline => iconMap['bookArrowUpOutline']!;
   static IconData get bookCancel => iconMap['bookCancel']!;
@@ -1012,7 +1149,8 @@ class MdiIcons {
   static IconData get bookEducationOutline => iconMap['bookEducationOutline']!;
   static IconData get bookHeart => iconMap['bookHeart']!;
   static IconData get bookHeartOutline => iconMap['bookHeartOutline']!;
-  static IconData get bookInformationVariant => iconMap['bookInformationVariant']!;
+  static IconData get bookInformationVariant =>
+      iconMap['bookInformationVariant']!;
   static IconData get bookLock => iconMap['bookLock']!;
   static IconData get bookLockOpen => iconMap['bookLockOpen']!;
   static IconData get bookLockOpenOutline => iconMap['bookLockOpenOutline']!;
@@ -1021,7 +1159,8 @@ class MdiIcons {
   static IconData get bookMarkerOutline => iconMap['bookMarkerOutline']!;
   static IconData get bookMinus => iconMap['bookMinus']!;
   static IconData get bookMinusMultiple => iconMap['bookMinusMultiple']!;
-  static IconData get bookMinusMultipleOutline => iconMap['bookMinusMultipleOutline']!;
+  static IconData get bookMinusMultipleOutline =>
+      iconMap['bookMinusMultipleOutline']!;
   static IconData get bookMinusOutline => iconMap['bookMinusOutline']!;
   static IconData get bookMultiple => iconMap['bookMultiple']!;
   static IconData get bookMultipleOutline => iconMap['bookMultipleOutline']!;
@@ -1033,20 +1172,23 @@ class MdiIcons {
   static IconData get bookOpenBlankVariant => iconMap['bookOpenBlankVariant']!;
   static IconData get bookOpenOutline => iconMap['bookOpenOutline']!;
   static IconData get bookOpenPageVariant => iconMap['bookOpenPageVariant']!;
-  static IconData get bookOpenPageVariantOutline => iconMap['bookOpenPageVariantOutline']!;
+  static IconData get bookOpenPageVariantOutline =>
+      iconMap['bookOpenPageVariantOutline']!;
   static IconData get bookOpenVariant => iconMap['bookOpenVariant']!;
   static IconData get bookOutline => iconMap['bookOutline']!;
   static IconData get bookPlay => iconMap['bookPlay']!;
   static IconData get bookPlayOutline => iconMap['bookPlayOutline']!;
   static IconData get bookPlus => iconMap['bookPlus']!;
   static IconData get bookPlusMultiple => iconMap['bookPlusMultiple']!;
-  static IconData get bookPlusMultipleOutline => iconMap['bookPlusMultipleOutline']!;
+  static IconData get bookPlusMultipleOutline =>
+      iconMap['bookPlusMultipleOutline']!;
   static IconData get bookPlusOutline => iconMap['bookPlusOutline']!;
   static IconData get bookRefresh => iconMap['bookRefresh']!;
   static IconData get bookRefreshOutline => iconMap['bookRefreshOutline']!;
   static IconData get bookRemove => iconMap['bookRemove']!;
   static IconData get bookRemoveMultiple => iconMap['bookRemoveMultiple']!;
-  static IconData get bookRemoveMultipleOutline => iconMap['bookRemoveMultipleOutline']!;
+  static IconData get bookRemoveMultipleOutline =>
+      iconMap['bookRemoveMultipleOutline']!;
   static IconData get bookRemoveOutline => iconMap['bookRemoveOutline']!;
   static IconData get bookSearch => iconMap['bookSearch']!;
   static IconData get bookSearchOutline => iconMap['bookSearchOutline']!;
@@ -1058,14 +1200,16 @@ class MdiIcons {
   static IconData get bookmark => iconMap['bookmark']!;
   static IconData get bookmarkBox => iconMap['bookmarkBox']!;
   static IconData get bookmarkBoxMultiple => iconMap['bookmarkBoxMultiple']!;
-  static IconData get bookmarkBoxMultipleOutline => iconMap['bookmarkBoxMultipleOutline']!;
+  static IconData get bookmarkBoxMultipleOutline =>
+      iconMap['bookmarkBoxMultipleOutline']!;
   static IconData get bookmarkBoxOutline => iconMap['bookmarkBoxOutline']!;
   static IconData get bookmarkCheck => iconMap['bookmarkCheck']!;
   static IconData get bookmarkCheckOutline => iconMap['bookmarkCheckOutline']!;
   static IconData get bookmarkMinus => iconMap['bookmarkMinus']!;
   static IconData get bookmarkMinusOutline => iconMap['bookmarkMinusOutline']!;
   static IconData get bookmarkMultiple => iconMap['bookmarkMultiple']!;
-  static IconData get bookmarkMultipleOutline => iconMap['bookmarkMultipleOutline']!;
+  static IconData get bookmarkMultipleOutline =>
+      iconMap['bookmarkMultipleOutline']!;
   static IconData get bookmarkMusic => iconMap['bookmarkMusic']!;
   static IconData get bookmarkMusicOutline => iconMap['bookmarkMusicOutline']!;
   static IconData get bookmarkOff => iconMap['bookmarkOff']!;
@@ -1074,15 +1218,18 @@ class MdiIcons {
   static IconData get bookmarkPlus => iconMap['bookmarkPlus']!;
   static IconData get bookmarkPlusOutline => iconMap['bookmarkPlusOutline']!;
   static IconData get bookmarkRemove => iconMap['bookmarkRemove']!;
-  static IconData get bookmarkRemoveOutline => iconMap['bookmarkRemoveOutline']!;
+  static IconData get bookmarkRemoveOutline =>
+      iconMap['bookmarkRemoveOutline']!;
   static IconData get bookshelf => iconMap['bookshelf']!;
   static IconData get boomGate => iconMap['boomGate']!;
   static IconData get boomGateAlert => iconMap['boomGateAlert']!;
   static IconData get boomGateAlertOutline => iconMap['boomGateAlertOutline']!;
   static IconData get boomGateArrowDown => iconMap['boomGateArrowDown']!;
-  static IconData get boomGateArrowDownOutline => iconMap['boomGateArrowDownOutline']!;
+  static IconData get boomGateArrowDownOutline =>
+      iconMap['boomGateArrowDownOutline']!;
   static IconData get boomGateArrowUp => iconMap['boomGateArrowUp']!;
-  static IconData get boomGateArrowUpOutline => iconMap['boomGateArrowUpOutline']!;
+  static IconData get boomGateArrowUpOutline =>
+      iconMap['boomGateArrowUpOutline']!;
   static IconData get boomGateOutline => iconMap['boomGateOutline']!;
   static IconData get boomGateUp => iconMap['boomGateUp']!;
   static IconData get boomGateUpOutline => iconMap['boomGateUpOutline']!;
@@ -1110,14 +1257,17 @@ class MdiIcons {
   static IconData get borderVertical => iconMap['borderVertical']!;
   static IconData get bottleSoda => iconMap['bottleSoda']!;
   static IconData get bottleSodaClassic => iconMap['bottleSodaClassic']!;
-  static IconData get bottleSodaClassicOutline => iconMap['bottleSodaClassicOutline']!;
+  static IconData get bottleSodaClassicOutline =>
+      iconMap['bottleSodaClassicOutline']!;
   static IconData get bottleSodaOutline => iconMap['bottleSodaOutline']!;
   static IconData get bottleTonic => iconMap['bottleTonic']!;
   static IconData get bottleTonicOutline => iconMap['bottleTonicOutline']!;
   static IconData get bottleTonicPlus => iconMap['bottleTonicPlus']!;
-  static IconData get bottleTonicPlusOutline => iconMap['bottleTonicPlusOutline']!;
+  static IconData get bottleTonicPlusOutline =>
+      iconMap['bottleTonicPlusOutline']!;
   static IconData get bottleTonicSkull => iconMap['bottleTonicSkull']!;
-  static IconData get bottleTonicSkullOutline => iconMap['bottleTonicSkullOutline']!;
+  static IconData get bottleTonicSkullOutline =>
+      iconMap['bottleTonicSkullOutline']!;
   static IconData get bottleWine => iconMap['bottleWine']!;
   static IconData get bottleWineOutline => iconMap['bottleWineOutline']!;
   static IconData get bowArrow => iconMap['bowArrow']!;
@@ -1139,38 +1289,51 @@ class MdiIcons {
   static IconData get bridge => iconMap['bridge']!;
   static IconData get briefcase => iconMap['briefcase']!;
   static IconData get briefcaseAccount => iconMap['briefcaseAccount']!;
-  static IconData get briefcaseAccountOutline => iconMap['briefcaseAccountOutline']!;
-  static IconData get briefcaseArrowLeftRight => iconMap['briefcaseArrowLeftRight']!;
-  static IconData get briefcaseArrowLeftRightOutline => iconMap['briefcaseArrowLeftRightOutline']!;
+  static IconData get briefcaseAccountOutline =>
+      iconMap['briefcaseAccountOutline']!;
+  static IconData get briefcaseArrowLeftRight =>
+      iconMap['briefcaseArrowLeftRight']!;
+  static IconData get briefcaseArrowLeftRightOutline =>
+      iconMap['briefcaseArrowLeftRightOutline']!;
   static IconData get briefcaseArrowUpDown => iconMap['briefcaseArrowUpDown']!;
-  static IconData get briefcaseArrowUpDownOutline => iconMap['briefcaseArrowUpDownOutline']!;
+  static IconData get briefcaseArrowUpDownOutline =>
+      iconMap['briefcaseArrowUpDownOutline']!;
   static IconData get briefcaseCheck => iconMap['briefcaseCheck']!;
-  static IconData get briefcaseCheckOutline => iconMap['briefcaseCheckOutline']!;
+  static IconData get briefcaseCheckOutline =>
+      iconMap['briefcaseCheckOutline']!;
   static IconData get briefcaseClock => iconMap['briefcaseClock']!;
-  static IconData get briefcaseClockOutline => iconMap['briefcaseClockOutline']!;
+  static IconData get briefcaseClockOutline =>
+      iconMap['briefcaseClockOutline']!;
   static IconData get briefcaseDownload => iconMap['briefcaseDownload']!;
-  static IconData get briefcaseDownloadOutline => iconMap['briefcaseDownloadOutline']!;
+  static IconData get briefcaseDownloadOutline =>
+      iconMap['briefcaseDownloadOutline']!;
   static IconData get briefcaseEdit => iconMap['briefcaseEdit']!;
   static IconData get briefcaseEditOutline => iconMap['briefcaseEditOutline']!;
   static IconData get briefcaseEye => iconMap['briefcaseEye']!;
   static IconData get briefcaseEyeOutline => iconMap['briefcaseEyeOutline']!;
   static IconData get briefcaseMinus => iconMap['briefcaseMinus']!;
-  static IconData get briefcaseMinusOutline => iconMap['briefcaseMinusOutline']!;
+  static IconData get briefcaseMinusOutline =>
+      iconMap['briefcaseMinusOutline']!;
   static IconData get briefcaseOff => iconMap['briefcaseOff']!;
   static IconData get briefcaseOffOutline => iconMap['briefcaseOffOutline']!;
   static IconData get briefcaseOutline => iconMap['briefcaseOutline']!;
   static IconData get briefcasePlus => iconMap['briefcasePlus']!;
   static IconData get briefcasePlusOutline => iconMap['briefcasePlusOutline']!;
   static IconData get briefcaseRemove => iconMap['briefcaseRemove']!;
-  static IconData get briefcaseRemoveOutline => iconMap['briefcaseRemoveOutline']!;
+  static IconData get briefcaseRemoveOutline =>
+      iconMap['briefcaseRemoveOutline']!;
   static IconData get briefcaseSearch => iconMap['briefcaseSearch']!;
-  static IconData get briefcaseSearchOutline => iconMap['briefcaseSearchOutline']!;
+  static IconData get briefcaseSearchOutline =>
+      iconMap['briefcaseSearchOutline']!;
   static IconData get briefcaseUpload => iconMap['briefcaseUpload']!;
-  static IconData get briefcaseUploadOutline => iconMap['briefcaseUploadOutline']!;
+  static IconData get briefcaseUploadOutline =>
+      iconMap['briefcaseUploadOutline']!;
   static IconData get briefcaseVariant => iconMap['briefcaseVariant']!;
   static IconData get briefcaseVariantOff => iconMap['briefcaseVariantOff']!;
-  static IconData get briefcaseVariantOffOutline => iconMap['briefcaseVariantOffOutline']!;
-  static IconData get briefcaseVariantOutline => iconMap['briefcaseVariantOutline']!;
+  static IconData get briefcaseVariantOffOutline =>
+      iconMap['briefcaseVariantOffOutline']!;
+  static IconData get briefcaseVariantOutline =>
+      iconMap['briefcaseVariantOutline']!;
   static IconData get brightness1 => iconMap['brightness1']!;
   static IconData get brightness2 => iconMap['brightness2']!;
   static IconData get brightness3 => iconMap['brightness3']!;
@@ -1208,7 +1371,8 @@ class MdiIcons {
   static IconData get bullhorn => iconMap['bullhorn']!;
   static IconData get bullhornOutline => iconMap['bullhornOutline']!;
   static IconData get bullhornVariant => iconMap['bullhornVariant']!;
-  static IconData get bullhornVariantOutline => iconMap['bullhornVariantOutline']!;
+  static IconData get bullhornVariantOutline =>
+      iconMap['bullhornVariantOutline']!;
   static IconData get bullseye => iconMap['bullseye']!;
   static IconData get bullseyeArrow => iconMap['bullseyeArrow']!;
   static IconData get bulma => iconMap['bulma']!;
@@ -1242,10 +1406,12 @@ class MdiIcons {
   static IconData get cakeVariantOutline => iconMap['cakeVariantOutline']!;
   static IconData get calculator => iconMap['calculator']!;
   static IconData get calculatorVariant => iconMap['calculatorVariant']!;
-  static IconData get calculatorVariantOutline => iconMap['calculatorVariantOutline']!;
+  static IconData get calculatorVariantOutline =>
+      iconMap['calculatorVariantOutline']!;
   static IconData get calendar => iconMap['calendar']!;
   static IconData get calendarAccount => iconMap['calendarAccount']!;
-  static IconData get calendarAccountOutline => iconMap['calendarAccountOutline']!;
+  static IconData get calendarAccountOutline =>
+      iconMap['calendarAccountOutline']!;
   static IconData get calendarAlert => iconMap['calendarAlert']!;
   static IconData get calendarAlertOutline => iconMap['calendarAlertOutline']!;
   static IconData get calendarArrowLeft => iconMap['calendarArrowLeft']!;
@@ -1253,57 +1419,74 @@ class MdiIcons {
   static IconData get calendarBadge => iconMap['calendarBadge']!;
   static IconData get calendarBadgeOutline => iconMap['calendarBadgeOutline']!;
   static IconData get calendarBlank => iconMap['calendarBlank']!;
-  static IconData get calendarBlankMultiple => iconMap['calendarBlankMultiple']!;
+  static IconData get calendarBlankMultiple =>
+      iconMap['calendarBlankMultiple']!;
   static IconData get calendarBlankOutline => iconMap['calendarBlankOutline']!;
   static IconData get calendarCheck => iconMap['calendarCheck']!;
   static IconData get calendarCheckOutline => iconMap['calendarCheckOutline']!;
   static IconData get calendarClock => iconMap['calendarClock']!;
   static IconData get calendarClockOutline => iconMap['calendarClockOutline']!;
-  static IconData get calendarCollapseHorizontal => iconMap['calendarCollapseHorizontal']!;
-  static IconData get calendarCollapseHorizontalOutline => iconMap['calendarCollapseHorizontalOutline']!;
+  static IconData get calendarCollapseHorizontal =>
+      iconMap['calendarCollapseHorizontal']!;
+  static IconData get calendarCollapseHorizontalOutline =>
+      iconMap['calendarCollapseHorizontalOutline']!;
   static IconData get calendarCursor => iconMap['calendarCursor']!;
-  static IconData get calendarCursorOutline => iconMap['calendarCursorOutline']!;
+  static IconData get calendarCursorOutline =>
+      iconMap['calendarCursorOutline']!;
   static IconData get calendarEdit => iconMap['calendarEdit']!;
   static IconData get calendarEditOutline => iconMap['calendarEditOutline']!;
   static IconData get calendarEnd => iconMap['calendarEnd']!;
   static IconData get calendarEndOutline => iconMap['calendarEndOutline']!;
-  static IconData get calendarExpandHorizontal => iconMap['calendarExpandHorizontal']!;
-  static IconData get calendarExpandHorizontalOutline => iconMap['calendarExpandHorizontalOutline']!;
+  static IconData get calendarExpandHorizontal =>
+      iconMap['calendarExpandHorizontal']!;
+  static IconData get calendarExpandHorizontalOutline =>
+      iconMap['calendarExpandHorizontalOutline']!;
   static IconData get calendarExport => iconMap['calendarExport']!;
-  static IconData get calendarExportOutline => iconMap['calendarExportOutline']!;
+  static IconData get calendarExportOutline =>
+      iconMap['calendarExportOutline']!;
   static IconData get calendarFilter => iconMap['calendarFilter']!;
-  static IconData get calendarFilterOutline => iconMap['calendarFilterOutline']!;
+  static IconData get calendarFilterOutline =>
+      iconMap['calendarFilterOutline']!;
   static IconData get calendarHeart => iconMap['calendarHeart']!;
   static IconData get calendarHeartOutline => iconMap['calendarHeartOutline']!;
   static IconData get calendarImport => iconMap['calendarImport']!;
-  static IconData get calendarImportOutline => iconMap['calendarImportOutline']!;
+  static IconData get calendarImportOutline =>
+      iconMap['calendarImportOutline']!;
   static IconData get calendarLock => iconMap['calendarLock']!;
   static IconData get calendarLockOpen => iconMap['calendarLockOpen']!;
-  static IconData get calendarLockOpenOutline => iconMap['calendarLockOpenOutline']!;
+  static IconData get calendarLockOpenOutline =>
+      iconMap['calendarLockOpenOutline']!;
   static IconData get calendarLockOutline => iconMap['calendarLockOutline']!;
   static IconData get calendarMinus => iconMap['calendarMinus']!;
   static IconData get calendarMinusOutline => iconMap['calendarMinusOutline']!;
   static IconData get calendarMonth => iconMap['calendarMonth']!;
   static IconData get calendarMonthOutline => iconMap['calendarMonthOutline']!;
   static IconData get calendarMultiple => iconMap['calendarMultiple']!;
-  static IconData get calendarMultipleCheck => iconMap['calendarMultipleCheck']!;
+  static IconData get calendarMultipleCheck =>
+      iconMap['calendarMultipleCheck']!;
   static IconData get calendarMultiselect => iconMap['calendarMultiselect']!;
-  static IconData get calendarMultiselectOutline => iconMap['calendarMultiselectOutline']!;
+  static IconData get calendarMultiselectOutline =>
+      iconMap['calendarMultiselectOutline']!;
   static IconData get calendarOutline => iconMap['calendarOutline']!;
   static IconData get calendarPlus => iconMap['calendarPlus']!;
   static IconData get calendarPlusOutline => iconMap['calendarPlusOutline']!;
   static IconData get calendarQuestion => iconMap['calendarQuestion']!;
-  static IconData get calendarQuestionOutline => iconMap['calendarQuestionOutline']!;
+  static IconData get calendarQuestionOutline =>
+      iconMap['calendarQuestionOutline']!;
   static IconData get calendarRange => iconMap['calendarRange']!;
   static IconData get calendarRangeOutline => iconMap['calendarRangeOutline']!;
   static IconData get calendarRefresh => iconMap['calendarRefresh']!;
-  static IconData get calendarRefreshOutline => iconMap['calendarRefreshOutline']!;
+  static IconData get calendarRefreshOutline =>
+      iconMap['calendarRefreshOutline']!;
   static IconData get calendarRemove => iconMap['calendarRemove']!;
-  static IconData get calendarRemoveOutline => iconMap['calendarRemoveOutline']!;
+  static IconData get calendarRemoveOutline =>
+      iconMap['calendarRemoveOutline']!;
   static IconData get calendarSearch => iconMap['calendarSearch']!;
-  static IconData get calendarSearchOutline => iconMap['calendarSearchOutline']!;
+  static IconData get calendarSearchOutline =>
+      iconMap['calendarSearchOutline']!;
   static IconData get calendarStar => iconMap['calendarStar']!;
-  static IconData get calendarStarFourPoints => iconMap['calendarStarFourPoints']!;
+  static IconData get calendarStarFourPoints =>
+      iconMap['calendarStarFourPoints']!;
   static IconData get calendarStarOutline => iconMap['calendarStarOutline']!;
   static IconData get calendarStart => iconMap['calendarStart']!;
   static IconData get calendarStartOutline => iconMap['calendarStartOutline']!;
@@ -1315,10 +1498,12 @@ class MdiIcons {
   static IconData get calendarTodayOutline => iconMap['calendarTodayOutline']!;
   static IconData get calendarWeek => iconMap['calendarWeek']!;
   static IconData get calendarWeekBegin => iconMap['calendarWeekBegin']!;
-  static IconData get calendarWeekBeginOutline => iconMap['calendarWeekBeginOutline']!;
+  static IconData get calendarWeekBeginOutline =>
+      iconMap['calendarWeekBeginOutline']!;
   static IconData get calendarWeekOutline => iconMap['calendarWeekOutline']!;
   static IconData get calendarWeekend => iconMap['calendarWeekend']!;
-  static IconData get calendarWeekendOutline => iconMap['calendarWeekendOutline']!;
+  static IconData get calendarWeekendOutline =>
+      iconMap['calendarWeekendOutline']!;
   static IconData get callMade => iconMap['callMade']!;
   static IconData get callMerge => iconMap['callMerge']!;
   static IconData get callMissed => iconMap['callMissed']!;
@@ -1343,13 +1528,15 @@ class MdiIcons {
   static IconData get cameraIris => iconMap['cameraIris']!;
   static IconData get cameraLock => iconMap['cameraLock']!;
   static IconData get cameraLockOpen => iconMap['cameraLockOpen']!;
-  static IconData get cameraLockOpenOutline => iconMap['cameraLockOpenOutline']!;
+  static IconData get cameraLockOpenOutline =>
+      iconMap['cameraLockOpenOutline']!;
   static IconData get cameraLockOutline => iconMap['cameraLockOutline']!;
   static IconData get cameraMarker => iconMap['cameraMarker']!;
   static IconData get cameraMarkerOutline => iconMap['cameraMarkerOutline']!;
   static IconData get cameraMeteringCenter => iconMap['cameraMeteringCenter']!;
   static IconData get cameraMeteringMatrix => iconMap['cameraMeteringMatrix']!;
-  static IconData get cameraMeteringPartial => iconMap['cameraMeteringPartial']!;
+  static IconData get cameraMeteringPartial =>
+      iconMap['cameraMeteringPartial']!;
   static IconData get cameraMeteringSpot => iconMap['cameraMeteringSpot']!;
   static IconData get cameraOff => iconMap['cameraOff']!;
   static IconData get cameraOffOutline => iconMap['cameraOffOutline']!;
@@ -1365,7 +1552,8 @@ class MdiIcons {
   static IconData get cameraSwitchOutline => iconMap['cameraSwitchOutline']!;
   static IconData get cameraTimer => iconMap['cameraTimer']!;
   static IconData get cameraWireless => iconMap['cameraWireless']!;
-  static IconData get cameraWirelessOutline => iconMap['cameraWirelessOutline']!;
+  static IconData get cameraWirelessOutline =>
+      iconMap['cameraWirelessOutline']!;
   static IconData get campfire => iconMap['campfire']!;
   static IconData get cancel => iconMap['cancel']!;
   static IconData get candelabra => iconMap['candelabra']!;
@@ -1449,19 +1637,26 @@ class MdiIcons {
   static IconData get caravan => iconMap['caravan']!;
   static IconData get card => iconMap['card']!;
   static IconData get cardAccountDetails => iconMap['cardAccountDetails']!;
-  static IconData get cardAccountDetailsOutline => iconMap['cardAccountDetailsOutline']!;
-  static IconData get cardAccountDetailsStar => iconMap['cardAccountDetailsStar']!;
-  static IconData get cardAccountDetailsStarOutline => iconMap['cardAccountDetailsStarOutline']!;
+  static IconData get cardAccountDetailsOutline =>
+      iconMap['cardAccountDetailsOutline']!;
+  static IconData get cardAccountDetailsStar =>
+      iconMap['cardAccountDetailsStar']!;
+  static IconData get cardAccountDetailsStarOutline =>
+      iconMap['cardAccountDetailsStarOutline']!;
   static IconData get cardAccountMail => iconMap['cardAccountMail']!;
-  static IconData get cardAccountMailOutline => iconMap['cardAccountMailOutline']!;
+  static IconData get cardAccountMailOutline =>
+      iconMap['cardAccountMailOutline']!;
   static IconData get cardAccountPhone => iconMap['cardAccountPhone']!;
-  static IconData get cardAccountPhoneOutline => iconMap['cardAccountPhoneOutline']!;
+  static IconData get cardAccountPhoneOutline =>
+      iconMap['cardAccountPhoneOutline']!;
   static IconData get cardBulleted => iconMap['cardBulleted']!;
   static IconData get cardBulletedOff => iconMap['cardBulletedOff']!;
-  static IconData get cardBulletedOffOutline => iconMap['cardBulletedOffOutline']!;
+  static IconData get cardBulletedOffOutline =>
+      iconMap['cardBulletedOffOutline']!;
   static IconData get cardBulletedOutline => iconMap['cardBulletedOutline']!;
   static IconData get cardBulletedSettings => iconMap['cardBulletedSettings']!;
-  static IconData get cardBulletedSettingsOutline => iconMap['cardBulletedSettingsOutline']!;
+  static IconData get cardBulletedSettingsOutline =>
+      iconMap['cardBulletedSettingsOutline']!;
   static IconData get cardMinus => iconMap['cardMinus']!;
   static IconData get cardMinusOutline => iconMap['cardMinusOutline']!;
   static IconData get cardMultiple => iconMap['cardMultiple']!;
@@ -1487,22 +1682,34 @@ class MdiIcons {
   static IconData get cardsOutline => iconMap['cardsOutline']!;
   static IconData get cardsPlaying => iconMap['cardsPlaying']!;
   static IconData get cardsPlayingClub => iconMap['cardsPlayingClub']!;
-  static IconData get cardsPlayingClubMultiple => iconMap['cardsPlayingClubMultiple']!;
-  static IconData get cardsPlayingClubMultipleOutline => iconMap['cardsPlayingClubMultipleOutline']!;
-  static IconData get cardsPlayingClubOutline => iconMap['cardsPlayingClubOutline']!;
+  static IconData get cardsPlayingClubMultiple =>
+      iconMap['cardsPlayingClubMultiple']!;
+  static IconData get cardsPlayingClubMultipleOutline =>
+      iconMap['cardsPlayingClubMultipleOutline']!;
+  static IconData get cardsPlayingClubOutline =>
+      iconMap['cardsPlayingClubOutline']!;
   static IconData get cardsPlayingDiamond => iconMap['cardsPlayingDiamond']!;
-  static IconData get cardsPlayingDiamondMultiple => iconMap['cardsPlayingDiamondMultiple']!;
-  static IconData get cardsPlayingDiamondMultipleOutline => iconMap['cardsPlayingDiamondMultipleOutline']!;
-  static IconData get cardsPlayingDiamondOutline => iconMap['cardsPlayingDiamondOutline']!;
+  static IconData get cardsPlayingDiamondMultiple =>
+      iconMap['cardsPlayingDiamondMultiple']!;
+  static IconData get cardsPlayingDiamondMultipleOutline =>
+      iconMap['cardsPlayingDiamondMultipleOutline']!;
+  static IconData get cardsPlayingDiamondOutline =>
+      iconMap['cardsPlayingDiamondOutline']!;
   static IconData get cardsPlayingHeart => iconMap['cardsPlayingHeart']!;
-  static IconData get cardsPlayingHeartMultiple => iconMap['cardsPlayingHeartMultiple']!;
-  static IconData get cardsPlayingHeartMultipleOutline => iconMap['cardsPlayingHeartMultipleOutline']!;
-  static IconData get cardsPlayingHeartOutline => iconMap['cardsPlayingHeartOutline']!;
+  static IconData get cardsPlayingHeartMultiple =>
+      iconMap['cardsPlayingHeartMultiple']!;
+  static IconData get cardsPlayingHeartMultipleOutline =>
+      iconMap['cardsPlayingHeartMultipleOutline']!;
+  static IconData get cardsPlayingHeartOutline =>
+      iconMap['cardsPlayingHeartOutline']!;
   static IconData get cardsPlayingOutline => iconMap['cardsPlayingOutline']!;
   static IconData get cardsPlayingSpade => iconMap['cardsPlayingSpade']!;
-  static IconData get cardsPlayingSpadeMultiple => iconMap['cardsPlayingSpadeMultiple']!;
-  static IconData get cardsPlayingSpadeMultipleOutline => iconMap['cardsPlayingSpadeMultipleOutline']!;
-  static IconData get cardsPlayingSpadeOutline => iconMap['cardsPlayingSpadeOutline']!;
+  static IconData get cardsPlayingSpadeMultiple =>
+      iconMap['cardsPlayingSpadeMultiple']!;
+  static IconData get cardsPlayingSpadeMultipleOutline =>
+      iconMap['cardsPlayingSpadeMultipleOutline']!;
+  static IconData get cardsPlayingSpadeOutline =>
+      iconMap['cardsPlayingSpadeOutline']!;
   static IconData get cardsSpade => iconMap['cardsSpade']!;
   static IconData get cardsSpadeOutline => iconMap['cardsSpadeOutline']!;
   static IconData get cardsVariant => iconMap['cardsVariant']!;
@@ -1553,11 +1760,13 @@ class MdiIcons {
   static IconData get ceilingFanLight => iconMap['ceilingFanLight']!;
   static IconData get ceilingLight => iconMap['ceilingLight']!;
   static IconData get ceilingLightMultiple => iconMap['ceilingLightMultiple']!;
-  static IconData get ceilingLightMultipleOutline => iconMap['ceilingLightMultipleOutline']!;
+  static IconData get ceilingLightMultipleOutline =>
+      iconMap['ceilingLightMultipleOutline']!;
   static IconData get ceilingLightOutline => iconMap['ceilingLightOutline']!;
   static IconData get cellphone => iconMap['cellphone']!;
   static IconData get cellphoneArrowDown => iconMap['cellphoneArrowDown']!;
-  static IconData get cellphoneArrowDownVariant => iconMap['cellphoneArrowDownVariant']!;
+  static IconData get cellphoneArrowDownVariant =>
+      iconMap['cellphoneArrowDownVariant']!;
   static IconData get cellphoneBasic => iconMap['cellphoneBasic']!;
   static IconData get cellphoneCharging => iconMap['cellphoneCharging']!;
   static IconData get cellphoneCheck => iconMap['cellphoneCheck']!;
@@ -1590,11 +1799,13 @@ class MdiIcons {
   static IconData get charity => iconMap['charity']!;
   static IconData get chartArc => iconMap['chartArc']!;
   static IconData get chartAreaspline => iconMap['chartAreaspline']!;
-  static IconData get chartAreasplineVariant => iconMap['chartAreasplineVariant']!;
+  static IconData get chartAreasplineVariant =>
+      iconMap['chartAreasplineVariant']!;
   static IconData get chartBar => iconMap['chartBar']!;
   static IconData get chartBarStacked => iconMap['chartBarStacked']!;
   static IconData get chartBellCurve => iconMap['chartBellCurve']!;
-  static IconData get chartBellCurveCumulative => iconMap['chartBellCurveCumulative']!;
+  static IconData get chartBellCurveCumulative =>
+      iconMap['chartBellCurveCumulative']!;
   static IconData get chartBox => iconMap['chartBox']!;
   static IconData get chartBoxOutline => iconMap['chartBoxOutline']!;
   static IconData get chartBoxPlusOutline => iconMap['chartBoxPlusOutline']!;
@@ -1614,10 +1825,12 @@ class MdiIcons {
   static IconData get chartSankey => iconMap['chartSankey']!;
   static IconData get chartSankeyVariant => iconMap['chartSankeyVariant']!;
   static IconData get chartScatterPlot => iconMap['chartScatterPlot']!;
-  static IconData get chartScatterPlotHexbin => iconMap['chartScatterPlotHexbin']!;
+  static IconData get chartScatterPlotHexbin =>
+      iconMap['chartScatterPlotHexbin']!;
   static IconData get chartTimeline => iconMap['chartTimeline']!;
   static IconData get chartTimelineVariant => iconMap['chartTimelineVariant']!;
-  static IconData get chartTimelineVariantShimmer => iconMap['chartTimelineVariantShimmer']!;
+  static IconData get chartTimelineVariantShimmer =>
+      iconMap['chartTimelineVariantShimmer']!;
   static IconData get chartTree => iconMap['chartTree']!;
   static IconData get chartWaterfall => iconMap['chartWaterfall']!;
   static IconData get chat => iconMap['chat']!;
@@ -1629,7 +1842,8 @@ class MdiIcons {
   static IconData get chatPlus => iconMap['chatPlus']!;
   static IconData get chatPlusOutline => iconMap['chatPlusOutline']!;
   static IconData get chatProcessing => iconMap['chatProcessing']!;
-  static IconData get chatProcessingOutline => iconMap['chatProcessingOutline']!;
+  static IconData get chatProcessingOutline =>
+      iconMap['chatProcessingOutline']!;
   static IconData get chatQuestion => iconMap['chatQuestion']!;
   static IconData get chatQuestionOutline => iconMap['chatQuestionOutline']!;
   static IconData get chatRemove => iconMap['chatRemove']!;
@@ -1648,36 +1862,55 @@ class MdiIcons {
   static IconData get checkOutline => iconMap['checkOutline']!;
   static IconData get checkUnderline => iconMap['checkUnderline']!;
   static IconData get checkUnderlineCircle => iconMap['checkUnderlineCircle']!;
-  static IconData get checkUnderlineCircleOutline => iconMap['checkUnderlineCircleOutline']!;
+  static IconData get checkUnderlineCircleOutline =>
+      iconMap['checkUnderlineCircleOutline']!;
   static IconData get checkbook => iconMap['checkbook']!;
   static IconData get checkbookArrowLeft => iconMap['checkbookArrowLeft']!;
   static IconData get checkbookArrowRight => iconMap['checkbookArrowRight']!;
   static IconData get checkboxBlank => iconMap['checkboxBlank']!;
   static IconData get checkboxBlankBadge => iconMap['checkboxBlankBadge']!;
-  static IconData get checkboxBlankBadgeOutline => iconMap['checkboxBlankBadgeOutline']!;
+  static IconData get checkboxBlankBadgeOutline =>
+      iconMap['checkboxBlankBadgeOutline']!;
   static IconData get checkboxBlankCircle => iconMap['checkboxBlankCircle']!;
-  static IconData get checkboxBlankCircleOutline => iconMap['checkboxBlankCircleOutline']!;
+  static IconData get checkboxBlankCircleOutline =>
+      iconMap['checkboxBlankCircleOutline']!;
   static IconData get checkboxBlankOff => iconMap['checkboxBlankOff']!;
-  static IconData get checkboxBlankOffOutline => iconMap['checkboxBlankOffOutline']!;
+  static IconData get checkboxBlankOffOutline =>
+      iconMap['checkboxBlankOffOutline']!;
   static IconData get checkboxBlankOutline => iconMap['checkboxBlankOutline']!;
   static IconData get checkboxIntermediate => iconMap['checkboxIntermediate']!;
-  static IconData get checkboxIntermediateVariant => iconMap['checkboxIntermediateVariant']!;
+  static IconData get checkboxIntermediateVariant =>
+      iconMap['checkboxIntermediateVariant']!;
   static IconData get checkboxMarked => iconMap['checkboxMarked']!;
   static IconData get checkboxMarkedCircle => iconMap['checkboxMarkedCircle']!;
-  static IconData get checkboxMarkedCircleAutoOutline => iconMap['checkboxMarkedCircleAutoOutline']!;
-  static IconData get checkboxMarkedCircleMinusOutline => iconMap['checkboxMarkedCircleMinusOutline']!;
-  static IconData get checkboxMarkedCircleOutline => iconMap['checkboxMarkedCircleOutline']!;
-  static IconData get checkboxMarkedCirclePlusOutline => iconMap['checkboxMarkedCirclePlusOutline']!;
-  static IconData get checkboxMarkedOutline => iconMap['checkboxMarkedOutline']!;
-  static IconData get checkboxMultipleBlank => iconMap['checkboxMultipleBlank']!;
-  static IconData get checkboxMultipleBlankCircle => iconMap['checkboxMultipleBlankCircle']!;
-  static IconData get checkboxMultipleBlankCircleOutline => iconMap['checkboxMultipleBlankCircleOutline']!;
-  static IconData get checkboxMultipleBlankOutline => iconMap['checkboxMultipleBlankOutline']!;
-  static IconData get checkboxMultipleMarked => iconMap['checkboxMultipleMarked']!;
-  static IconData get checkboxMultipleMarkedCircle => iconMap['checkboxMultipleMarkedCircle']!;
-  static IconData get checkboxMultipleMarkedCircleOutline => iconMap['checkboxMultipleMarkedCircleOutline']!;
-  static IconData get checkboxMultipleMarkedOutline => iconMap['checkboxMultipleMarkedOutline']!;
-  static IconData get checkboxMultipleOutline => iconMap['checkboxMultipleOutline']!;
+  static IconData get checkboxMarkedCircleAutoOutline =>
+      iconMap['checkboxMarkedCircleAutoOutline']!;
+  static IconData get checkboxMarkedCircleMinusOutline =>
+      iconMap['checkboxMarkedCircleMinusOutline']!;
+  static IconData get checkboxMarkedCircleOutline =>
+      iconMap['checkboxMarkedCircleOutline']!;
+  static IconData get checkboxMarkedCirclePlusOutline =>
+      iconMap['checkboxMarkedCirclePlusOutline']!;
+  static IconData get checkboxMarkedOutline =>
+      iconMap['checkboxMarkedOutline']!;
+  static IconData get checkboxMultipleBlank =>
+      iconMap['checkboxMultipleBlank']!;
+  static IconData get checkboxMultipleBlankCircle =>
+      iconMap['checkboxMultipleBlankCircle']!;
+  static IconData get checkboxMultipleBlankCircleOutline =>
+      iconMap['checkboxMultipleBlankCircleOutline']!;
+  static IconData get checkboxMultipleBlankOutline =>
+      iconMap['checkboxMultipleBlankOutline']!;
+  static IconData get checkboxMultipleMarked =>
+      iconMap['checkboxMultipleMarked']!;
+  static IconData get checkboxMultipleMarkedCircle =>
+      iconMap['checkboxMultipleMarkedCircle']!;
+  static IconData get checkboxMultipleMarkedCircleOutline =>
+      iconMap['checkboxMultipleMarkedCircleOutline']!;
+  static IconData get checkboxMultipleMarkedOutline =>
+      iconMap['checkboxMultipleMarkedOutline']!;
+  static IconData get checkboxMultipleOutline =>
+      iconMap['checkboxMultipleOutline']!;
   static IconData get checkboxOutline => iconMap['checkboxOutline']!;
   static IconData get checkerboard => iconMap['checkerboard']!;
   static IconData get checkerboardMinus => iconMap['checkerboardMinus']!;
@@ -1699,19 +1932,25 @@ class MdiIcons {
   static IconData get chevronDoubleUp => iconMap['chevronDoubleUp']!;
   static IconData get chevronDown => iconMap['chevronDown']!;
   static IconData get chevronDownBox => iconMap['chevronDownBox']!;
-  static IconData get chevronDownBoxOutline => iconMap['chevronDownBoxOutline']!;
+  static IconData get chevronDownBoxOutline =>
+      iconMap['chevronDownBoxOutline']!;
   static IconData get chevronDownCircle => iconMap['chevronDownCircle']!;
-  static IconData get chevronDownCircleOutline => iconMap['chevronDownCircleOutline']!;
+  static IconData get chevronDownCircleOutline =>
+      iconMap['chevronDownCircleOutline']!;
   static IconData get chevronLeft => iconMap['chevronLeft']!;
   static IconData get chevronLeftBox => iconMap['chevronLeftBox']!;
-  static IconData get chevronLeftBoxOutline => iconMap['chevronLeftBoxOutline']!;
+  static IconData get chevronLeftBoxOutline =>
+      iconMap['chevronLeftBoxOutline']!;
   static IconData get chevronLeftCircle => iconMap['chevronLeftCircle']!;
-  static IconData get chevronLeftCircleOutline => iconMap['chevronLeftCircleOutline']!;
+  static IconData get chevronLeftCircleOutline =>
+      iconMap['chevronLeftCircleOutline']!;
   static IconData get chevronRight => iconMap['chevronRight']!;
   static IconData get chevronRightBox => iconMap['chevronRightBox']!;
-  static IconData get chevronRightBoxOutline => iconMap['chevronRightBoxOutline']!;
+  static IconData get chevronRightBoxOutline =>
+      iconMap['chevronRightBoxOutline']!;
   static IconData get chevronRightCircle => iconMap['chevronRightCircle']!;
-  static IconData get chevronRightCircleOutline => iconMap['chevronRightCircleOutline']!;
+  static IconData get chevronRightCircleOutline =>
+      iconMap['chevronRightCircleOutline']!;
   static IconData get chevronTripleDown => iconMap['chevronTripleDown']!;
   static IconData get chevronTripleLeft => iconMap['chevronTripleLeft']!;
   static IconData get chevronTripleRight => iconMap['chevronTripleRight']!;
@@ -1720,7 +1959,8 @@ class MdiIcons {
   static IconData get chevronUpBox => iconMap['chevronUpBox']!;
   static IconData get chevronUpBoxOutline => iconMap['chevronUpBoxOutline']!;
   static IconData get chevronUpCircle => iconMap['chevronUpCircle']!;
-  static IconData get chevronUpCircleOutline => iconMap['chevronUpCircleOutline']!;
+  static IconData get chevronUpCircleOutline =>
+      iconMap['chevronUpCircleOutline']!;
   static IconData get chiliAlert => iconMap['chiliAlert']!;
   static IconData get chiliAlertOutline => iconMap['chiliAlertOutline']!;
   static IconData get chiliHot => iconMap['chiliHot']!;
@@ -1746,7 +1986,8 @@ class MdiIcons {
   static IconData get circleHalfFull => iconMap['circleHalfFull']!;
   static IconData get circleMedium => iconMap['circleMedium']!;
   static IconData get circleMultiple => iconMap['circleMultiple']!;
-  static IconData get circleMultipleOutline => iconMap['circleMultipleOutline']!;
+  static IconData get circleMultipleOutline =>
+      iconMap['circleMultipleOutline']!;
   static IconData get circleOffOutline => iconMap['circleOffOutline']!;
   static IconData get circleOpacity => iconMap['circleOpacity']!;
   static IconData get circleOutline => iconMap['circleOutline']!;
@@ -1766,23 +2007,33 @@ class MdiIcons {
   static IconData get cityVariantOutline => iconMap['cityVariantOutline']!;
   static IconData get clipboard => iconMap['clipboard']!;
   static IconData get clipboardAccount => iconMap['clipboardAccount']!;
-  static IconData get clipboardAccountOutline => iconMap['clipboardAccountOutline']!;
+  static IconData get clipboardAccountOutline =>
+      iconMap['clipboardAccountOutline']!;
   static IconData get clipboardAlert => iconMap['clipboardAlert']!;
-  static IconData get clipboardAlertOutline => iconMap['clipboardAlertOutline']!;
+  static IconData get clipboardAlertOutline =>
+      iconMap['clipboardAlertOutline']!;
   static IconData get clipboardArrowDown => iconMap['clipboardArrowDown']!;
-  static IconData get clipboardArrowDownOutline => iconMap['clipboardArrowDownOutline']!;
+  static IconData get clipboardArrowDownOutline =>
+      iconMap['clipboardArrowDownOutline']!;
   static IconData get clipboardArrowLeft => iconMap['clipboardArrowLeft']!;
-  static IconData get clipboardArrowLeftOutline => iconMap['clipboardArrowLeftOutline']!;
+  static IconData get clipboardArrowLeftOutline =>
+      iconMap['clipboardArrowLeftOutline']!;
   static IconData get clipboardArrowRight => iconMap['clipboardArrowRight']!;
-  static IconData get clipboardArrowRightOutline => iconMap['clipboardArrowRightOutline']!;
+  static IconData get clipboardArrowRightOutline =>
+      iconMap['clipboardArrowRightOutline']!;
   static IconData get clipboardArrowUp => iconMap['clipboardArrowUp']!;
-  static IconData get clipboardArrowUpOutline => iconMap['clipboardArrowUpOutline']!;
+  static IconData get clipboardArrowUpOutline =>
+      iconMap['clipboardArrowUpOutline']!;
   static IconData get clipboardCheck => iconMap['clipboardCheck']!;
-  static IconData get clipboardCheckMultiple => iconMap['clipboardCheckMultiple']!;
-  static IconData get clipboardCheckMultipleOutline => iconMap['clipboardCheckMultipleOutline']!;
-  static IconData get clipboardCheckOutline => iconMap['clipboardCheckOutline']!;
+  static IconData get clipboardCheckMultiple =>
+      iconMap['clipboardCheckMultiple']!;
+  static IconData get clipboardCheckMultipleOutline =>
+      iconMap['clipboardCheckMultipleOutline']!;
+  static IconData get clipboardCheckOutline =>
+      iconMap['clipboardCheckOutline']!;
   static IconData get clipboardClock => iconMap['clipboardClock']!;
-  static IconData get clipboardClockOutline => iconMap['clipboardClockOutline']!;
+  static IconData get clipboardClockOutline =>
+      iconMap['clipboardClockOutline']!;
   static IconData get clipboardEdit => iconMap['clipboardEdit']!;
   static IconData get clipboardEditOutline => iconMap['clipboardEditOutline']!;
   static IconData get clipboardFile => iconMap['clipboardFile']!;
@@ -1792,36 +2043,49 @@ class MdiIcons {
   static IconData get clipboardList => iconMap['clipboardList']!;
   static IconData get clipboardListOutline => iconMap['clipboardListOutline']!;
   static IconData get clipboardMinus => iconMap['clipboardMinus']!;
-  static IconData get clipboardMinusOutline => iconMap['clipboardMinusOutline']!;
+  static IconData get clipboardMinusOutline =>
+      iconMap['clipboardMinusOutline']!;
   static IconData get clipboardMultiple => iconMap['clipboardMultiple']!;
-  static IconData get clipboardMultipleOutline => iconMap['clipboardMultipleOutline']!;
+  static IconData get clipboardMultipleOutline =>
+      iconMap['clipboardMultipleOutline']!;
   static IconData get clipboardOff => iconMap['clipboardOff']!;
   static IconData get clipboardOffOutline => iconMap['clipboardOffOutline']!;
   static IconData get clipboardOutline => iconMap['clipboardOutline']!;
   static IconData get clipboardPlay => iconMap['clipboardPlay']!;
-  static IconData get clipboardPlayMultiple => iconMap['clipboardPlayMultiple']!;
-  static IconData get clipboardPlayMultipleOutline => iconMap['clipboardPlayMultipleOutline']!;
+  static IconData get clipboardPlayMultiple =>
+      iconMap['clipboardPlayMultiple']!;
+  static IconData get clipboardPlayMultipleOutline =>
+      iconMap['clipboardPlayMultipleOutline']!;
   static IconData get clipboardPlayOutline => iconMap['clipboardPlayOutline']!;
   static IconData get clipboardPlus => iconMap['clipboardPlus']!;
   static IconData get clipboardPlusOutline => iconMap['clipboardPlusOutline']!;
   static IconData get clipboardPulse => iconMap['clipboardPulse']!;
-  static IconData get clipboardPulseOutline => iconMap['clipboardPulseOutline']!;
+  static IconData get clipboardPulseOutline =>
+      iconMap['clipboardPulseOutline']!;
   static IconData get clipboardRemove => iconMap['clipboardRemove']!;
-  static IconData get clipboardRemoveOutline => iconMap['clipboardRemoveOutline']!;
+  static IconData get clipboardRemoveOutline =>
+      iconMap['clipboardRemoveOutline']!;
   static IconData get clipboardSearch => iconMap['clipboardSearch']!;
-  static IconData get clipboardSearchOutline => iconMap['clipboardSearchOutline']!;
+  static IconData get clipboardSearchOutline =>
+      iconMap['clipboardSearchOutline']!;
   static IconData get clipboardText => iconMap['clipboardText']!;
   static IconData get clipboardTextClock => iconMap['clipboardTextClock']!;
-  static IconData get clipboardTextClockOutline => iconMap['clipboardTextClockOutline']!;
-  static IconData get clipboardTextMultiple => iconMap['clipboardTextMultiple']!;
-  static IconData get clipboardTextMultipleOutline => iconMap['clipboardTextMultipleOutline']!;
+  static IconData get clipboardTextClockOutline =>
+      iconMap['clipboardTextClockOutline']!;
+  static IconData get clipboardTextMultiple =>
+      iconMap['clipboardTextMultiple']!;
+  static IconData get clipboardTextMultipleOutline =>
+      iconMap['clipboardTextMultipleOutline']!;
   static IconData get clipboardTextOff => iconMap['clipboardTextOff']!;
-  static IconData get clipboardTextOffOutline => iconMap['clipboardTextOffOutline']!;
+  static IconData get clipboardTextOffOutline =>
+      iconMap['clipboardTextOffOutline']!;
   static IconData get clipboardTextOutline => iconMap['clipboardTextOutline']!;
   static IconData get clipboardTextPlay => iconMap['clipboardTextPlay']!;
-  static IconData get clipboardTextPlayOutline => iconMap['clipboardTextPlayOutline']!;
+  static IconData get clipboardTextPlayOutline =>
+      iconMap['clipboardTextPlayOutline']!;
   static IconData get clipboardTextSearch => iconMap['clipboardTextSearch']!;
-  static IconData get clipboardTextSearchOutline => iconMap['clipboardTextSearchOutline']!;
+  static IconData get clipboardTextSearchOutline =>
+      iconMap['clipboardTextSearchOutline']!;
   static IconData get clippy => iconMap['clippy']!;
   static IconData get clock => iconMap['clock']!;
   static IconData get clockAlert => iconMap['clockAlert']!;
@@ -1843,12 +2107,15 @@ class MdiIcons {
   static IconData get clockRemove => iconMap['clockRemove']!;
   static IconData get clockRemoveOutline => iconMap['clockRemoveOutline']!;
   static IconData get clockStarFourPoints => iconMap['clockStarFourPoints']!;
-  static IconData get clockStarFourPointsOutline => iconMap['clockStarFourPointsOutline']!;
+  static IconData get clockStarFourPointsOutline =>
+      iconMap['clockStarFourPointsOutline']!;
   static IconData get clockStart => iconMap['clockStart']!;
   static IconData get clockTimeEight => iconMap['clockTimeEight']!;
-  static IconData get clockTimeEightOutline => iconMap['clockTimeEightOutline']!;
+  static IconData get clockTimeEightOutline =>
+      iconMap['clockTimeEightOutline']!;
   static IconData get clockTimeEleven => iconMap['clockTimeEleven']!;
-  static IconData get clockTimeElevenOutline => iconMap['clockTimeElevenOutline']!;
+  static IconData get clockTimeElevenOutline =>
+      iconMap['clockTimeElevenOutline']!;
   static IconData get clockTimeFive => iconMap['clockTimeFive']!;
   static IconData get clockTimeFiveOutline => iconMap['clockTimeFiveOutline']!;
   static IconData get clockTimeFour => iconMap['clockTimeFour']!;
@@ -1858,25 +2125,30 @@ class MdiIcons {
   static IconData get clockTimeOne => iconMap['clockTimeOne']!;
   static IconData get clockTimeOneOutline => iconMap['clockTimeOneOutline']!;
   static IconData get clockTimeSeven => iconMap['clockTimeSeven']!;
-  static IconData get clockTimeSevenOutline => iconMap['clockTimeSevenOutline']!;
+  static IconData get clockTimeSevenOutline =>
+      iconMap['clockTimeSevenOutline']!;
   static IconData get clockTimeSix => iconMap['clockTimeSix']!;
   static IconData get clockTimeSixOutline => iconMap['clockTimeSixOutline']!;
   static IconData get clockTimeTen => iconMap['clockTimeTen']!;
   static IconData get clockTimeTenOutline => iconMap['clockTimeTenOutline']!;
   static IconData get clockTimeThree => iconMap['clockTimeThree']!;
-  static IconData get clockTimeThreeOutline => iconMap['clockTimeThreeOutline']!;
+  static IconData get clockTimeThreeOutline =>
+      iconMap['clockTimeThreeOutline']!;
   static IconData get clockTimeTwelve => iconMap['clockTimeTwelve']!;
-  static IconData get clockTimeTwelveOutline => iconMap['clockTimeTwelveOutline']!;
+  static IconData get clockTimeTwelveOutline =>
+      iconMap['clockTimeTwelveOutline']!;
   static IconData get clockTimeTwo => iconMap['clockTimeTwo']!;
   static IconData get clockTimeTwoOutline => iconMap['clockTimeTwoOutline']!;
   static IconData get close => iconMap['close']!;
   static IconData get closeBox => iconMap['closeBox']!;
   static IconData get closeBoxMultiple => iconMap['closeBoxMultiple']!;
-  static IconData get closeBoxMultipleOutline => iconMap['closeBoxMultipleOutline']!;
+  static IconData get closeBoxMultipleOutline =>
+      iconMap['closeBoxMultipleOutline']!;
   static IconData get closeBoxOutline => iconMap['closeBoxOutline']!;
   static IconData get closeCircle => iconMap['closeCircle']!;
   static IconData get closeCircleMultiple => iconMap['closeCircleMultiple']!;
-  static IconData get closeCircleMultipleOutline => iconMap['closeCircleMultipleOutline']!;
+  static IconData get closeCircleMultipleOutline =>
+      iconMap['closeCircleMultipleOutline']!;
   static IconData get closeCircleOutline => iconMap['closeCircleOutline']!;
   static IconData get closeNetwork => iconMap['closeNetwork']!;
   static IconData get closeNetworkOutline => iconMap['closeNetworkOutline']!;
@@ -1890,11 +2162,14 @@ class MdiIcons {
   static IconData get cloudAlert => iconMap['cloudAlert']!;
   static IconData get cloudAlertOutline => iconMap['cloudAlertOutline']!;
   static IconData get cloudArrowDown => iconMap['cloudArrowDown']!;
-  static IconData get cloudArrowDownOutline => iconMap['cloudArrowDownOutline']!;
+  static IconData get cloudArrowDownOutline =>
+      iconMap['cloudArrowDownOutline']!;
   static IconData get cloudArrowLeft => iconMap['cloudArrowLeft']!;
-  static IconData get cloudArrowLeftOutline => iconMap['cloudArrowLeftOutline']!;
+  static IconData get cloudArrowLeftOutline =>
+      iconMap['cloudArrowLeftOutline']!;
   static IconData get cloudArrowRight => iconMap['cloudArrowRight']!;
-  static IconData get cloudArrowRightOutline => iconMap['cloudArrowRightOutline']!;
+  static IconData get cloudArrowRightOutline =>
+      iconMap['cloudArrowRightOutline']!;
   static IconData get cloudArrowUp => iconMap['cloudArrowUp']!;
   static IconData get cloudArrowUpOutline => iconMap['cloudArrowUpOutline']!;
   static IconData get cloudBraces => iconMap['cloudBraces']!;
@@ -1903,7 +2178,8 @@ class MdiIcons {
   static IconData get cloudCheck => iconMap['cloudCheck']!;
   static IconData get cloudCheckOutline => iconMap['cloudCheckOutline']!;
   static IconData get cloudCheckVariant => iconMap['cloudCheckVariant']!;
-  static IconData get cloudCheckVariantOutline => iconMap['cloudCheckVariantOutline']!;
+  static IconData get cloudCheckVariantOutline =>
+      iconMap['cloudCheckVariantOutline']!;
   static IconData get cloudCircle => iconMap['cloudCircle']!;
   static IconData get cloudCircleOutline => iconMap['cloudCircleOutline']!;
   static IconData get cloudClock => iconMap['cloudClock']!;
@@ -1932,7 +2208,8 @@ class MdiIcons {
   static IconData get cloudRefresh => iconMap['cloudRefresh']!;
   static IconData get cloudRefreshOutline => iconMap['cloudRefreshOutline']!;
   static IconData get cloudRefreshVariant => iconMap['cloudRefreshVariant']!;
-  static IconData get cloudRefreshVariantOutline => iconMap['cloudRefreshVariantOutline']!;
+  static IconData get cloudRefreshVariantOutline =>
+      iconMap['cloudRefreshVariantOutline']!;
   static IconData get cloudRemove => iconMap['cloudRemove']!;
   static IconData get cloudRemoveOutline => iconMap['cloudRemoveOutline']!;
   static IconData get cloudSearch => iconMap['cloudSearch']!;
@@ -1954,7 +2231,8 @@ class MdiIcons {
   static IconData get codeBrackets => iconMap['codeBrackets']!;
   static IconData get codeEqual => iconMap['codeEqual']!;
   static IconData get codeGreaterThan => iconMap['codeGreaterThan']!;
-  static IconData get codeGreaterThanOrEqual => iconMap['codeGreaterThanOrEqual']!;
+  static IconData get codeGreaterThanOrEqual =>
+      iconMap['codeGreaterThanOrEqual']!;
   static IconData get codeJson => iconMap['codeJson']!;
   static IconData get codeLessThan => iconMap['codeLessThan']!;
   static IconData get codeLessThanOrEqual => iconMap['codeLessThanOrEqual']!;
@@ -1969,7 +2247,8 @@ class MdiIcons {
   static IconData get coffee => iconMap['coffee']!;
   static IconData get coffeeMaker => iconMap['coffeeMaker']!;
   static IconData get coffeeMakerCheck => iconMap['coffeeMakerCheck']!;
-  static IconData get coffeeMakerCheckOutline => iconMap['coffeeMakerCheckOutline']!;
+  static IconData get coffeeMakerCheckOutline =>
+      iconMap['coffeeMakerCheckOutline']!;
   static IconData get coffeeMakerOutline => iconMap['coffeeMakerOutline']!;
   static IconData get coffeeOff => iconMap['coffeeOff']!;
   static IconData get coffeeOffOutline => iconMap['coffeeOffOutline']!;
@@ -2008,15 +2287,19 @@ class MdiIcons {
   static IconData get commaCircleOutline => iconMap['commaCircleOutline']!;
   static IconData get comment => iconMap['comment']!;
   static IconData get commentAccount => iconMap['commentAccount']!;
-  static IconData get commentAccountOutline => iconMap['commentAccountOutline']!;
+  static IconData get commentAccountOutline =>
+      iconMap['commentAccountOutline']!;
   static IconData get commentAlert => iconMap['commentAlert']!;
   static IconData get commentAlertOutline => iconMap['commentAlertOutline']!;
   static IconData get commentArrowLeft => iconMap['commentArrowLeft']!;
-  static IconData get commentArrowLeftOutline => iconMap['commentArrowLeftOutline']!;
+  static IconData get commentArrowLeftOutline =>
+      iconMap['commentArrowLeftOutline']!;
   static IconData get commentArrowRight => iconMap['commentArrowRight']!;
-  static IconData get commentArrowRightOutline => iconMap['commentArrowRightOutline']!;
+  static IconData get commentArrowRightOutline =>
+      iconMap['commentArrowRightOutline']!;
   static IconData get commentBookmark => iconMap['commentBookmark']!;
-  static IconData get commentBookmarkOutline => iconMap['commentBookmarkOutline']!;
+  static IconData get commentBookmarkOutline =>
+      iconMap['commentBookmarkOutline']!;
   static IconData get commentCheck => iconMap['commentCheck']!;
   static IconData get commentCheckOutline => iconMap['commentCheckOutline']!;
   static IconData get commentEdit => iconMap['commentEdit']!;
@@ -2028,16 +2311,19 @@ class MdiIcons {
   static IconData get commentMinus => iconMap['commentMinus']!;
   static IconData get commentMinusOutline => iconMap['commentMinusOutline']!;
   static IconData get commentMultiple => iconMap['commentMultiple']!;
-  static IconData get commentMultipleOutline => iconMap['commentMultipleOutline']!;
+  static IconData get commentMultipleOutline =>
+      iconMap['commentMultipleOutline']!;
   static IconData get commentOff => iconMap['commentOff']!;
   static IconData get commentOffOutline => iconMap['commentOffOutline']!;
   static IconData get commentOutline => iconMap['commentOutline']!;
   static IconData get commentPlus => iconMap['commentPlus']!;
   static IconData get commentPlusOutline => iconMap['commentPlusOutline']!;
   static IconData get commentProcessing => iconMap['commentProcessing']!;
-  static IconData get commentProcessingOutline => iconMap['commentProcessingOutline']!;
+  static IconData get commentProcessingOutline =>
+      iconMap['commentProcessingOutline']!;
   static IconData get commentQuestion => iconMap['commentQuestion']!;
-  static IconData get commentQuestionOutline => iconMap['commentQuestionOutline']!;
+  static IconData get commentQuestionOutline =>
+      iconMap['commentQuestionOutline']!;
   static IconData get commentQuote => iconMap['commentQuote']!;
   static IconData get commentQuoteOutline => iconMap['commentQuoteOutline']!;
   static IconData get commentRemove => iconMap['commentRemove']!;
@@ -2046,7 +2332,8 @@ class MdiIcons {
   static IconData get commentSearchOutline => iconMap['commentSearchOutline']!;
   static IconData get commentText => iconMap['commentText']!;
   static IconData get commentTextMultiple => iconMap['commentTextMultiple']!;
-  static IconData get commentTextMultipleOutline => iconMap['commentTextMultipleOutline']!;
+  static IconData get commentTextMultipleOutline =>
+      iconMap['commentTextMultipleOutline']!;
   static IconData get commentTextOutline => iconMap['commentTextOutline']!;
   static IconData get compare => iconMap['compare']!;
   static IconData get compareHorizontal => iconMap['compareHorizontal']!;
@@ -2064,11 +2351,14 @@ class MdiIcons {
   static IconData get console => iconMap['console']!;
   static IconData get consoleLine => iconMap['consoleLine']!;
   static IconData get consoleNetwork => iconMap['consoleNetwork']!;
-  static IconData get consoleNetworkOutline => iconMap['consoleNetworkOutline']!;
+  static IconData get consoleNetworkOutline =>
+      iconMap['consoleNetworkOutline']!;
   static IconData get consolidate => iconMap['consolidate']!;
   static IconData get contactlessPayment => iconMap['contactlessPayment']!;
-  static IconData get contactlessPaymentCircle => iconMap['contactlessPaymentCircle']!;
-  static IconData get contactlessPaymentCircleOutline => iconMap['contactlessPaymentCircleOutline']!;
+  static IconData get contactlessPaymentCircle =>
+      iconMap['contactlessPaymentCircle']!;
+  static IconData get contactlessPaymentCircleOutline =>
+      iconMap['contactlessPaymentCircleOutline']!;
   static IconData get contacts => iconMap['contacts']!;
   static IconData get contactsOutline => iconMap['contactsOutline']!;
   static IconData get contain => iconMap['contain']!;
@@ -2080,32 +2370,43 @@ class MdiIcons {
   static IconData get contentPaste => iconMap['contentPaste']!;
   static IconData get contentSave => iconMap['contentSave']!;
   static IconData get contentSaveAlert => iconMap['contentSaveAlert']!;
-  static IconData get contentSaveAlertOutline => iconMap['contentSaveAlertOutline']!;
+  static IconData get contentSaveAlertOutline =>
+      iconMap['contentSaveAlertOutline']!;
   static IconData get contentSaveAll => iconMap['contentSaveAll']!;
-  static IconData get contentSaveAllOutline => iconMap['contentSaveAllOutline']!;
+  static IconData get contentSaveAllOutline =>
+      iconMap['contentSaveAllOutline']!;
   static IconData get contentSaveCheck => iconMap['contentSaveCheck']!;
-  static IconData get contentSaveCheckOutline => iconMap['contentSaveCheckOutline']!;
+  static IconData get contentSaveCheckOutline =>
+      iconMap['contentSaveCheckOutline']!;
   static IconData get contentSaveCog => iconMap['contentSaveCog']!;
-  static IconData get contentSaveCogOutline => iconMap['contentSaveCogOutline']!;
+  static IconData get contentSaveCogOutline =>
+      iconMap['contentSaveCogOutline']!;
   static IconData get contentSaveEdit => iconMap['contentSaveEdit']!;
-  static IconData get contentSaveEditOutline => iconMap['contentSaveEditOutline']!;
+  static IconData get contentSaveEditOutline =>
+      iconMap['contentSaveEditOutline']!;
   static IconData get contentSaveMinus => iconMap['contentSaveMinus']!;
-  static IconData get contentSaveMinusOutline => iconMap['contentSaveMinusOutline']!;
+  static IconData get contentSaveMinusOutline =>
+      iconMap['contentSaveMinusOutline']!;
   static IconData get contentSaveMove => iconMap['contentSaveMove']!;
-  static IconData get contentSaveMoveOutline => iconMap['contentSaveMoveOutline']!;
+  static IconData get contentSaveMoveOutline =>
+      iconMap['contentSaveMoveOutline']!;
   static IconData get contentSaveOff => iconMap['contentSaveOff']!;
-  static IconData get contentSaveOffOutline => iconMap['contentSaveOffOutline']!;
+  static IconData get contentSaveOffOutline =>
+      iconMap['contentSaveOffOutline']!;
   static IconData get contentSaveOutline => iconMap['contentSaveOutline']!;
   static IconData get contentSavePlus => iconMap['contentSavePlus']!;
-  static IconData get contentSavePlusOutline => iconMap['contentSavePlusOutline']!;
+  static IconData get contentSavePlusOutline =>
+      iconMap['contentSavePlusOutline']!;
   static IconData get contentSaveSettings => iconMap['contentSaveSettings']!;
-  static IconData get contentSaveSettingsOutline => iconMap['contentSaveSettingsOutline']!;
+  static IconData get contentSaveSettingsOutline =>
+      iconMap['contentSaveSettingsOutline']!;
   static IconData get contrast => iconMap['contrast']!;
   static IconData get contrastBox => iconMap['contrastBox']!;
   static IconData get contrastCircle => iconMap['contrastCircle']!;
   static IconData get controller => iconMap['controller']!;
   static IconData get controllerClassic => iconMap['controllerClassic']!;
-  static IconData get controllerClassicOutline => iconMap['controllerClassicOutline']!;
+  static IconData get controllerClassicOutline =>
+      iconMap['controllerClassicOutline']!;
   static IconData get controllerOff => iconMap['controllerOff']!;
   static IconData get cookie => iconMap['cookie']!;
   static IconData get cookieAlert => iconMap['cookieAlert']!;
@@ -2132,7 +2433,8 @@ class MdiIcons {
   static IconData get cookieRemove => iconMap['cookieRemove']!;
   static IconData get cookieRemoveOutline => iconMap['cookieRemoveOutline']!;
   static IconData get cookieSettings => iconMap['cookieSettings']!;
-  static IconData get cookieSettingsOutline => iconMap['cookieSettingsOutline']!;
+  static IconData get cookieSettingsOutline =>
+      iconMap['cookieSettingsOutline']!;
   static IconData get coolantTemperature => iconMap['coolantTemperature']!;
   static IconData get copyleft => iconMap['copyleft']!;
   static IconData get copyright => iconMap['copyright']!;
@@ -2155,46 +2457,66 @@ class MdiIcons {
   static IconData get creativeCommons => iconMap['creativeCommons']!;
   static IconData get creditCard => iconMap['creditCard']!;
   static IconData get creditCardCheck => iconMap['creditCardCheck']!;
-  static IconData get creditCardCheckOutline => iconMap['creditCardCheckOutline']!;
+  static IconData get creditCardCheckOutline =>
+      iconMap['creditCardCheckOutline']!;
   static IconData get creditCardChip => iconMap['creditCardChip']!;
-  static IconData get creditCardChipOutline => iconMap['creditCardChipOutline']!;
+  static IconData get creditCardChipOutline =>
+      iconMap['creditCardChipOutline']!;
   static IconData get creditCardClock => iconMap['creditCardClock']!;
-  static IconData get creditCardClockOutline => iconMap['creditCardClockOutline']!;
+  static IconData get creditCardClockOutline =>
+      iconMap['creditCardClockOutline']!;
   static IconData get creditCardEdit => iconMap['creditCardEdit']!;
-  static IconData get creditCardEditOutline => iconMap['creditCardEditOutline']!;
+  static IconData get creditCardEditOutline =>
+      iconMap['creditCardEditOutline']!;
   static IconData get creditCardFast => iconMap['creditCardFast']!;
-  static IconData get creditCardFastOutline => iconMap['creditCardFastOutline']!;
+  static IconData get creditCardFastOutline =>
+      iconMap['creditCardFastOutline']!;
   static IconData get creditCardLock => iconMap['creditCardLock']!;
-  static IconData get creditCardLockOutline => iconMap['creditCardLockOutline']!;
+  static IconData get creditCardLockOutline =>
+      iconMap['creditCardLockOutline']!;
   static IconData get creditCardMarker => iconMap['creditCardMarker']!;
-  static IconData get creditCardMarkerOutline => iconMap['creditCardMarkerOutline']!;
+  static IconData get creditCardMarkerOutline =>
+      iconMap['creditCardMarkerOutline']!;
   static IconData get creditCardMinus => iconMap['creditCardMinus']!;
-  static IconData get creditCardMinusOutline => iconMap['creditCardMinusOutline']!;
+  static IconData get creditCardMinusOutline =>
+      iconMap['creditCardMinusOutline']!;
   static IconData get creditCardMultiple => iconMap['creditCardMultiple']!;
-  static IconData get creditCardMultipleOutline => iconMap['creditCardMultipleOutline']!;
+  static IconData get creditCardMultipleOutline =>
+      iconMap['creditCardMultipleOutline']!;
   static IconData get creditCardOff => iconMap['creditCardOff']!;
   static IconData get creditCardOffOutline => iconMap['creditCardOffOutline']!;
   static IconData get creditCardOutline => iconMap['creditCardOutline']!;
   static IconData get creditCardPlus => iconMap['creditCardPlus']!;
-  static IconData get creditCardPlusOutline => iconMap['creditCardPlusOutline']!;
+  static IconData get creditCardPlusOutline =>
+      iconMap['creditCardPlusOutline']!;
   static IconData get creditCardRefresh => iconMap['creditCardRefresh']!;
-  static IconData get creditCardRefreshOutline => iconMap['creditCardRefreshOutline']!;
+  static IconData get creditCardRefreshOutline =>
+      iconMap['creditCardRefreshOutline']!;
   static IconData get creditCardRefund => iconMap['creditCardRefund']!;
-  static IconData get creditCardRefundOutline => iconMap['creditCardRefundOutline']!;
+  static IconData get creditCardRefundOutline =>
+      iconMap['creditCardRefundOutline']!;
   static IconData get creditCardRemove => iconMap['creditCardRemove']!;
-  static IconData get creditCardRemoveOutline => iconMap['creditCardRemoveOutline']!;
+  static IconData get creditCardRemoveOutline =>
+      iconMap['creditCardRemoveOutline']!;
   static IconData get creditCardScan => iconMap['creditCardScan']!;
-  static IconData get creditCardScanOutline => iconMap['creditCardScanOutline']!;
+  static IconData get creditCardScanOutline =>
+      iconMap['creditCardScanOutline']!;
   static IconData get creditCardSearch => iconMap['creditCardSearch']!;
-  static IconData get creditCardSearchOutline => iconMap['creditCardSearchOutline']!;
+  static IconData get creditCardSearchOutline =>
+      iconMap['creditCardSearchOutline']!;
   static IconData get creditCardSettings => iconMap['creditCardSettings']!;
-  static IconData get creditCardSettingsOutline => iconMap['creditCardSettingsOutline']!;
+  static IconData get creditCardSettingsOutline =>
+      iconMap['creditCardSettingsOutline']!;
   static IconData get creditCardSync => iconMap['creditCardSync']!;
-  static IconData get creditCardSyncOutline => iconMap['creditCardSyncOutline']!;
+  static IconData get creditCardSyncOutline =>
+      iconMap['creditCardSyncOutline']!;
   static IconData get creditCardWireless => iconMap['creditCardWireless']!;
-  static IconData get creditCardWirelessOff => iconMap['creditCardWirelessOff']!;
-  static IconData get creditCardWirelessOffOutline => iconMap['creditCardWirelessOffOutline']!;
-  static IconData get creditCardWirelessOutline => iconMap['creditCardWirelessOutline']!;
+  static IconData get creditCardWirelessOff =>
+      iconMap['creditCardWirelessOff']!;
+  static IconData get creditCardWirelessOffOutline =>
+      iconMap['creditCardWirelessOffOutline']!;
+  static IconData get creditCardWirelessOutline =>
+      iconMap['creditCardWirelessOutline']!;
   static IconData get cricket => iconMap['cricket']!;
   static IconData get crop => iconMap['crop']!;
   static IconData get cropFree => iconMap['cropFree']!;
@@ -2264,9 +2586,11 @@ class MdiIcons {
   static IconData get currentDc => iconMap['currentDc']!;
   static IconData get cursorDefault => iconMap['cursorDefault']!;
   static IconData get cursorDefaultClick => iconMap['cursorDefaultClick']!;
-  static IconData get cursorDefaultClickOutline => iconMap['cursorDefaultClickOutline']!;
+  static IconData get cursorDefaultClickOutline =>
+      iconMap['cursorDefaultClickOutline']!;
   static IconData get cursorDefaultGesture => iconMap['cursorDefaultGesture']!;
-  static IconData get cursorDefaultGestureOutline => iconMap['cursorDefaultGestureOutline']!;
+  static IconData get cursorDefaultGestureOutline =>
+      iconMap['cursorDefaultGestureOutline']!;
   static IconData get cursorDefaultOutline => iconMap['cursorDefaultOutline']!;
   static IconData get cursorMove => iconMap['cursorMove']!;
   static IconData get cursorPointer => iconMap['cursorPointer']!;
@@ -2287,13 +2611,17 @@ class MdiIcons {
   static IconData get databaseAlert => iconMap['databaseAlert']!;
   static IconData get databaseAlertOutline => iconMap['databaseAlertOutline']!;
   static IconData get databaseArrowDown => iconMap['databaseArrowDown']!;
-  static IconData get databaseArrowDownOutline => iconMap['databaseArrowDownOutline']!;
+  static IconData get databaseArrowDownOutline =>
+      iconMap['databaseArrowDownOutline']!;
   static IconData get databaseArrowLeft => iconMap['databaseArrowLeft']!;
-  static IconData get databaseArrowLeftOutline => iconMap['databaseArrowLeftOutline']!;
+  static IconData get databaseArrowLeftOutline =>
+      iconMap['databaseArrowLeftOutline']!;
   static IconData get databaseArrowRight => iconMap['databaseArrowRight']!;
-  static IconData get databaseArrowRightOutline => iconMap['databaseArrowRightOutline']!;
+  static IconData get databaseArrowRightOutline =>
+      iconMap['databaseArrowRightOutline']!;
   static IconData get databaseArrowUp => iconMap['databaseArrowUp']!;
-  static IconData get databaseArrowUpOutline => iconMap['databaseArrowUpOutline']!;
+  static IconData get databaseArrowUpOutline =>
+      iconMap['databaseArrowUpOutline']!;
   static IconData get databaseCheck => iconMap['databaseCheck']!;
   static IconData get databaseCheckOutline => iconMap['databaseCheckOutline']!;
   static IconData get databaseClock => iconMap['databaseClock']!;
@@ -2303,17 +2631,21 @@ class MdiIcons {
   static IconData get databaseEdit => iconMap['databaseEdit']!;
   static IconData get databaseEditOutline => iconMap['databaseEditOutline']!;
   static IconData get databaseExport => iconMap['databaseExport']!;
-  static IconData get databaseExportOutline => iconMap['databaseExportOutline']!;
+  static IconData get databaseExportOutline =>
+      iconMap['databaseExportOutline']!;
   static IconData get databaseEye => iconMap['databaseEye']!;
   static IconData get databaseEyeOff => iconMap['databaseEyeOff']!;
-  static IconData get databaseEyeOffOutline => iconMap['databaseEyeOffOutline']!;
+  static IconData get databaseEyeOffOutline =>
+      iconMap['databaseEyeOffOutline']!;
   static IconData get databaseEyeOutline => iconMap['databaseEyeOutline']!;
   static IconData get databaseImport => iconMap['databaseImport']!;
-  static IconData get databaseImportOutline => iconMap['databaseImportOutline']!;
+  static IconData get databaseImportOutline =>
+      iconMap['databaseImportOutline']!;
   static IconData get databaseLock => iconMap['databaseLock']!;
   static IconData get databaseLockOutline => iconMap['databaseLockOutline']!;
   static IconData get databaseMarker => iconMap['databaseMarker']!;
-  static IconData get databaseMarkerOutline => iconMap['databaseMarkerOutline']!;
+  static IconData get databaseMarkerOutline =>
+      iconMap['databaseMarkerOutline']!;
   static IconData get databaseMinus => iconMap['databaseMinus']!;
   static IconData get databaseMinusOutline => iconMap['databaseMinusOutline']!;
   static IconData get databaseOff => iconMap['databaseOff']!;
@@ -2322,13 +2654,17 @@ class MdiIcons {
   static IconData get databasePlus => iconMap['databasePlus']!;
   static IconData get databasePlusOutline => iconMap['databasePlusOutline']!;
   static IconData get databaseRefresh => iconMap['databaseRefresh']!;
-  static IconData get databaseRefreshOutline => iconMap['databaseRefreshOutline']!;
+  static IconData get databaseRefreshOutline =>
+      iconMap['databaseRefreshOutline']!;
   static IconData get databaseRemove => iconMap['databaseRemove']!;
-  static IconData get databaseRemoveOutline => iconMap['databaseRemoveOutline']!;
+  static IconData get databaseRemoveOutline =>
+      iconMap['databaseRemoveOutline']!;
   static IconData get databaseSearch => iconMap['databaseSearch']!;
-  static IconData get databaseSearchOutline => iconMap['databaseSearchOutline']!;
+  static IconData get databaseSearchOutline =>
+      iconMap['databaseSearchOutline']!;
   static IconData get databaseSettings => iconMap['databaseSettings']!;
-  static IconData get databaseSettingsOutline => iconMap['databaseSettingsOutline']!;
+  static IconData get databaseSettingsOutline =>
+      iconMap['databaseSettingsOutline']!;
   static IconData get databaseSync => iconMap['databaseSync']!;
   static IconData get databaseSyncOutline => iconMap['databaseSyncOutline']!;
   static IconData get deathStar => iconMap['deathStar']!;
@@ -2424,12 +2760,18 @@ class MdiIcons {
   static IconData get dishwasherAlert => iconMap['dishwasherAlert']!;
   static IconData get dishwasherOff => iconMap['dishwasherOff']!;
   static IconData get disqus => iconMap['disqus']!;
-  static IconData get distributeHorizontalCenter => iconMap['distributeHorizontalCenter']!;
-  static IconData get distributeHorizontalLeft => iconMap['distributeHorizontalLeft']!;
-  static IconData get distributeHorizontalRight => iconMap['distributeHorizontalRight']!;
-  static IconData get distributeVerticalBottom => iconMap['distributeVerticalBottom']!;
-  static IconData get distributeVerticalCenter => iconMap['distributeVerticalCenter']!;
-  static IconData get distributeVerticalTop => iconMap['distributeVerticalTop']!;
+  static IconData get distributeHorizontalCenter =>
+      iconMap['distributeHorizontalCenter']!;
+  static IconData get distributeHorizontalLeft =>
+      iconMap['distributeHorizontalLeft']!;
+  static IconData get distributeHorizontalRight =>
+      iconMap['distributeHorizontalRight']!;
+  static IconData get distributeVerticalBottom =>
+      iconMap['distributeVerticalBottom']!;
+  static IconData get distributeVerticalCenter =>
+      iconMap['distributeVerticalCenter']!;
+  static IconData get distributeVerticalTop =>
+      iconMap['distributeVerticalTop']!;
   static IconData get diversify => iconMap['diversify']!;
   static IconData get diving => iconMap['diving']!;
   static IconData get divingFlippers => iconMap['divingFlippers']!;
@@ -2438,7 +2780,8 @@ class MdiIcons {
   static IconData get divingScubaFlag => iconMap['divingScubaFlag']!;
   static IconData get divingScubaMask => iconMap['divingScubaMask']!;
   static IconData get divingScubaTank => iconMap['divingScubaTank']!;
-  static IconData get divingScubaTankMultiple => iconMap['divingScubaTankMultiple']!;
+  static IconData get divingScubaTankMultiple =>
+      iconMap['divingScubaTankMultiple']!;
   static IconData get divingSnorkel => iconMap['divingSnorkel']!;
   static IconData get division => iconMap['division']!;
   static IconData get divisionBox => iconMap['divisionBox']!;
@@ -2483,28 +2826,33 @@ class MdiIcons {
   static IconData get dotsHexagon => iconMap['dotsHexagon']!;
   static IconData get dotsHorizontal => iconMap['dotsHorizontal']!;
   static IconData get dotsHorizontalCircle => iconMap['dotsHorizontalCircle']!;
-  static IconData get dotsHorizontalCircleOutline => iconMap['dotsHorizontalCircleOutline']!;
+  static IconData get dotsHorizontalCircleOutline =>
+      iconMap['dotsHorizontalCircleOutline']!;
   static IconData get dotsSquare => iconMap['dotsSquare']!;
   static IconData get dotsTriangle => iconMap['dotsTriangle']!;
   static IconData get dotsVertical => iconMap['dotsVertical']!;
   static IconData get dotsVerticalCircle => iconMap['dotsVerticalCircle']!;
-  static IconData get dotsVerticalCircleOutline => iconMap['dotsVerticalCircleOutline']!;
+  static IconData get dotsVerticalCircleOutline =>
+      iconMap['dotsVerticalCircleOutline']!;
   static IconData get download => iconMap['download']!;
   static IconData get downloadBox => iconMap['downloadBox']!;
   static IconData get downloadBoxOutline => iconMap['downloadBoxOutline']!;
   static IconData get downloadCircle => iconMap['downloadCircle']!;
-  static IconData get downloadCircleOutline => iconMap['downloadCircleOutline']!;
+  static IconData get downloadCircleOutline =>
+      iconMap['downloadCircleOutline']!;
   static IconData get downloadLock => iconMap['downloadLock']!;
   static IconData get downloadLockOutline => iconMap['downloadLockOutline']!;
   static IconData get downloadMultiple => iconMap['downloadMultiple']!;
   static IconData get downloadNetwork => iconMap['downloadNetwork']!;
-  static IconData get downloadNetworkOutline => iconMap['downloadNetworkOutline']!;
+  static IconData get downloadNetworkOutline =>
+      iconMap['downloadNetworkOutline']!;
   static IconData get downloadOff => iconMap['downloadOff']!;
   static IconData get downloadOffOutline => iconMap['downloadOffOutline']!;
   static IconData get downloadOutline => iconMap['downloadOutline']!;
   static IconData get drag => iconMap['drag']!;
   static IconData get dragHorizontal => iconMap['dragHorizontal']!;
-  static IconData get dragHorizontalVariant => iconMap['dragHorizontalVariant']!;
+  static IconData get dragHorizontalVariant =>
+      iconMap['dragHorizontalVariant']!;
   static IconData get dragVariant => iconMap['dragVariant']!;
   static IconData get dragVertical => iconMap['dragVertical']!;
   static IconData get dragVerticalVariant => iconMap['dragVerticalVariant']!;
@@ -2561,8 +2909,10 @@ class MdiIcons {
   static IconData get elevatorDown => iconMap['elevatorDown']!;
   static IconData get elevatorPassenger => iconMap['elevatorPassenger']!;
   static IconData get elevatorPassengerOff => iconMap['elevatorPassengerOff']!;
-  static IconData get elevatorPassengerOffOutline => iconMap['elevatorPassengerOffOutline']!;
-  static IconData get elevatorPassengerOutline => iconMap['elevatorPassengerOutline']!;
+  static IconData get elevatorPassengerOffOutline =>
+      iconMap['elevatorPassengerOffOutline']!;
+  static IconData get elevatorPassengerOutline =>
+      iconMap['elevatorPassengerOutline']!;
   static IconData get elevatorUp => iconMap['elevatorUp']!;
   static IconData get ellipse => iconMap['ellipse']!;
   static IconData get ellipseOutline => iconMap['ellipseOutline']!;
@@ -2570,9 +2920,11 @@ class MdiIcons {
   static IconData get emailAlert => iconMap['emailAlert']!;
   static IconData get emailAlertOutline => iconMap['emailAlertOutline']!;
   static IconData get emailArrowLeft => iconMap['emailArrowLeft']!;
-  static IconData get emailArrowLeftOutline => iconMap['emailArrowLeftOutline']!;
+  static IconData get emailArrowLeftOutline =>
+      iconMap['emailArrowLeftOutline']!;
   static IconData get emailArrowRight => iconMap['emailArrowRight']!;
-  static IconData get emailArrowRightOutline => iconMap['emailArrowRightOutline']!;
+  static IconData get emailArrowRightOutline =>
+      iconMap['emailArrowRightOutline']!;
   static IconData get emailBox => iconMap['emailBox']!;
   static IconData get emailCheck => iconMap['emailCheck']!;
   static IconData get emailCheckOutline => iconMap['emailCheckOutline']!;
@@ -2592,9 +2944,11 @@ class MdiIcons {
   static IconData get emailOff => iconMap['emailOff']!;
   static IconData get emailOffOutline => iconMap['emailOffOutline']!;
   static IconData get emailOpen => iconMap['emailOpen']!;
-  static IconData get emailOpenHeartOutline => iconMap['emailOpenHeartOutline']!;
+  static IconData get emailOpenHeartOutline =>
+      iconMap['emailOpenHeartOutline']!;
   static IconData get emailOpenMultiple => iconMap['emailOpenMultiple']!;
-  static IconData get emailOpenMultipleOutline => iconMap['emailOpenMultipleOutline']!;
+  static IconData get emailOpenMultipleOutline =>
+      iconMap['emailOpenMultipleOutline']!;
   static IconData get emailOpenOutline => iconMap['emailOpenOutline']!;
   static IconData get emailOutline => iconMap['emailOutline']!;
   static IconData get emailPlus => iconMap['emailPlus']!;
@@ -2614,7 +2968,8 @@ class MdiIcons {
   static IconData get emoticonAngry => iconMap['emoticonAngry']!;
   static IconData get emoticonAngryOutline => iconMap['emoticonAngryOutline']!;
   static IconData get emoticonConfused => iconMap['emoticonConfused']!;
-  static IconData get emoticonConfusedOutline => iconMap['emoticonConfusedOutline']!;
+  static IconData get emoticonConfusedOutline =>
+      iconMap['emoticonConfusedOutline']!;
   static IconData get emoticonCool => iconMap['emoticonCool']!;
   static IconData get emoticonCoolOutline => iconMap['emoticonCoolOutline']!;
   static IconData get emoticonCry => iconMap['emoticonCry']!;
@@ -2624,7 +2979,8 @@ class MdiIcons {
   static IconData get emoticonDevil => iconMap['emoticonDevil']!;
   static IconData get emoticonDevilOutline => iconMap['emoticonDevilOutline']!;
   static IconData get emoticonExcited => iconMap['emoticonExcited']!;
-  static IconData get emoticonExcitedOutline => iconMap['emoticonExcitedOutline']!;
+  static IconData get emoticonExcitedOutline =>
+      iconMap['emoticonExcitedOutline']!;
   static IconData get emoticonFrown => iconMap['emoticonFrown']!;
   static IconData get emoticonFrownOutline => iconMap['emoticonFrownOutline']!;
   static IconData get emoticonHappy => iconMap['emoticonHappy']!;
@@ -2634,7 +2990,8 @@ class MdiIcons {
   static IconData get emoticonLol => iconMap['emoticonLol']!;
   static IconData get emoticonLolOutline => iconMap['emoticonLolOutline']!;
   static IconData get emoticonNeutral => iconMap['emoticonNeutral']!;
-  static IconData get emoticonNeutralOutline => iconMap['emoticonNeutralOutline']!;
+  static IconData get emoticonNeutralOutline =>
+      iconMap['emoticonNeutralOutline']!;
   static IconData get emoticonOutline => iconMap['emoticonOutline']!;
   static IconData get emoticonPoop => iconMap['emoticonPoop']!;
   static IconData get emoticonPoopOutline => iconMap['emoticonPoopOutline']!;
@@ -2643,7 +3000,8 @@ class MdiIcons {
   static IconData get emoticonSick => iconMap['emoticonSick']!;
   static IconData get emoticonSickOutline => iconMap['emoticonSickOutline']!;
   static IconData get emoticonTongue => iconMap['emoticonTongue']!;
-  static IconData get emoticonTongueOutline => iconMap['emoticonTongueOutline']!;
+  static IconData get emoticonTongueOutline =>
+      iconMap['emoticonTongueOutline']!;
   static IconData get emoticonWink => iconMap['emoticonWink']!;
   static IconData get emoticonWinkOutline => iconMap['emoticonWinkOutline']!;
   static IconData get engine => iconMap['engine']!;
@@ -2725,7 +3083,8 @@ class MdiIcons {
   static IconData get faceManOutline => iconMap['faceManOutline']!;
   static IconData get faceManProfile => iconMap['faceManProfile']!;
   static IconData get faceManShimmer => iconMap['faceManShimmer']!;
-  static IconData get faceManShimmerOutline => iconMap['faceManShimmerOutline']!;
+  static IconData get faceManShimmerOutline =>
+      iconMap['faceManShimmerOutline']!;
   static IconData get faceMask => iconMap['faceMask']!;
   static IconData get faceMaskOutline => iconMap['faceMaskOutline']!;
   static IconData get faceRecognition => iconMap['faceRecognition']!;
@@ -2733,7 +3092,8 @@ class MdiIcons {
   static IconData get faceWomanOutline => iconMap['faceWomanOutline']!;
   static IconData get faceWomanProfile => iconMap['faceWomanProfile']!;
   static IconData get faceWomanShimmer => iconMap['faceWomanShimmer']!;
-  static IconData get faceWomanShimmerOutline => iconMap['faceWomanShimmerOutline']!;
+  static IconData get faceWomanShimmerOutline =>
+      iconMap['faceWomanShimmerOutline']!;
   static IconData get facebook => iconMap['facebook']!;
   static IconData get facebookGaming => iconMap['facebookGaming']!;
   static IconData get facebookMessenger => iconMap['facebookMessenger']!;
@@ -2779,19 +3139,23 @@ class MdiIcons {
   static IconData get fileAlert => iconMap['fileAlert']!;
   static IconData get fileAlertOutline => iconMap['fileAlertOutline']!;
   static IconData get fileArrowLeftRight => iconMap['fileArrowLeftRight']!;
-  static IconData get fileArrowLeftRightOutline => iconMap['fileArrowLeftRightOutline']!;
+  static IconData get fileArrowLeftRightOutline =>
+      iconMap['fileArrowLeftRightOutline']!;
   static IconData get fileArrowUpDown => iconMap['fileArrowUpDown']!;
-  static IconData get fileArrowUpDownOutline => iconMap['fileArrowUpDownOutline']!;
+  static IconData get fileArrowUpDownOutline =>
+      iconMap['fileArrowUpDownOutline']!;
   static IconData get fileCabinet => iconMap['fileCabinet']!;
   static IconData get fileCad => iconMap['fileCad']!;
   static IconData get fileCadBox => iconMap['fileCadBox']!;
   static IconData get fileCancel => iconMap['fileCancel']!;
   static IconData get fileCancelOutline => iconMap['fileCancelOutline']!;
   static IconData get fileCertificate => iconMap['fileCertificate']!;
-  static IconData get fileCertificateOutline => iconMap['fileCertificateOutline']!;
+  static IconData get fileCertificateOutline =>
+      iconMap['fileCertificateOutline']!;
   static IconData get fileChart => iconMap['fileChart']!;
   static IconData get fileChartCheck => iconMap['fileChartCheck']!;
-  static IconData get fileChartCheckOutline => iconMap['fileChartCheckOutline']!;
+  static IconData get fileChartCheckOutline =>
+      iconMap['fileChartCheckOutline']!;
   static IconData get fileChartOutline => iconMap['fileChartOutline']!;
   static IconData get fileCheck => iconMap['fileCheck']!;
   static IconData get fileCheckOutline => iconMap['fileCheckOutline']!;
@@ -2808,24 +3172,34 @@ class MdiIcons {
   static IconData get fileDelimitedOutline => iconMap['fileDelimitedOutline']!;
   static IconData get fileDocument => iconMap['fileDocument']!;
   static IconData get fileDocumentAlert => iconMap['fileDocumentAlert']!;
-  static IconData get fileDocumentAlertOutline => iconMap['fileDocumentAlertOutline']!;
-  static IconData get fileDocumentArrowRight => iconMap['fileDocumentArrowRight']!;
-  static IconData get fileDocumentArrowRightOutline => iconMap['fileDocumentArrowRightOutline']!;
+  static IconData get fileDocumentAlertOutline =>
+      iconMap['fileDocumentAlertOutline']!;
+  static IconData get fileDocumentArrowRight =>
+      iconMap['fileDocumentArrowRight']!;
+  static IconData get fileDocumentArrowRightOutline =>
+      iconMap['fileDocumentArrowRightOutline']!;
   static IconData get fileDocumentCheck => iconMap['fileDocumentCheck']!;
-  static IconData get fileDocumentCheckOutline => iconMap['fileDocumentCheckOutline']!;
+  static IconData get fileDocumentCheckOutline =>
+      iconMap['fileDocumentCheckOutline']!;
   static IconData get fileDocumentEdit => iconMap['fileDocumentEdit']!;
-  static IconData get fileDocumentEditOutline => iconMap['fileDocumentEditOutline']!;
+  static IconData get fileDocumentEditOutline =>
+      iconMap['fileDocumentEditOutline']!;
   static IconData get fileDocumentMinus => iconMap['fileDocumentMinus']!;
-  static IconData get fileDocumentMinusOutline => iconMap['fileDocumentMinusOutline']!;
+  static IconData get fileDocumentMinusOutline =>
+      iconMap['fileDocumentMinusOutline']!;
   static IconData get fileDocumentMultiple => iconMap['fileDocumentMultiple']!;
-  static IconData get fileDocumentMultipleOutline => iconMap['fileDocumentMultipleOutline']!;
+  static IconData get fileDocumentMultipleOutline =>
+      iconMap['fileDocumentMultipleOutline']!;
   static IconData get fileDocumentOutline => iconMap['fileDocumentOutline']!;
   static IconData get fileDocumentPlus => iconMap['fileDocumentPlus']!;
-  static IconData get fileDocumentPlusOutline => iconMap['fileDocumentPlusOutline']!;
+  static IconData get fileDocumentPlusOutline =>
+      iconMap['fileDocumentPlusOutline']!;
   static IconData get fileDocumentRefresh => iconMap['fileDocumentRefresh']!;
-  static IconData get fileDocumentRefreshOutline => iconMap['fileDocumentRefreshOutline']!;
+  static IconData get fileDocumentRefreshOutline =>
+      iconMap['fileDocumentRefreshOutline']!;
   static IconData get fileDocumentRemove => iconMap['fileDocumentRemove']!;
-  static IconData get fileDocumentRemoveOutline => iconMap['fileDocumentRemoveOutline']!;
+  static IconData get fileDocumentRemoveOutline =>
+      iconMap['fileDocumentRemoveOutline']!;
   static IconData get fileDownload => iconMap['fileDownload']!;
   static IconData get fileDownloadOutline => iconMap['fileDownloadOutline']!;
   static IconData get fileEdit => iconMap['fileEdit']!;
@@ -2844,14 +3218,17 @@ class MdiIcons {
   static IconData get fileHidden => iconMap['fileHidden']!;
   static IconData get fileImage => iconMap['fileImage']!;
   static IconData get fileImageMarker => iconMap['fileImageMarker']!;
-  static IconData get fileImageMarkerOutline => iconMap['fileImageMarkerOutline']!;
+  static IconData get fileImageMarkerOutline =>
+      iconMap['fileImageMarkerOutline']!;
   static IconData get fileImageMinus => iconMap['fileImageMinus']!;
-  static IconData get fileImageMinusOutline => iconMap['fileImageMinusOutline']!;
+  static IconData get fileImageMinusOutline =>
+      iconMap['fileImageMinusOutline']!;
   static IconData get fileImageOutline => iconMap['fileImageOutline']!;
   static IconData get fileImagePlus => iconMap['fileImagePlus']!;
   static IconData get fileImagePlusOutline => iconMap['fileImagePlusOutline']!;
   static IconData get fileImageRemove => iconMap['fileImageRemove']!;
-  static IconData get fileImageRemoveOutline => iconMap['fileImageRemoveOutline']!;
+  static IconData get fileImageRemoveOutline =>
+      iconMap['fileImageRemoveOutline']!;
   static IconData get fileImport => iconMap['fileImport']!;
   static IconData get fileImportOutline => iconMap['fileImportOutline']!;
   static IconData get fileJpgBox => iconMap['fileJpgBox']!;
@@ -2884,8 +3261,10 @@ class MdiIcons {
   static IconData get filePngBox => iconMap['filePngBox']!;
   static IconData get filePowerpoint => iconMap['filePowerpoint']!;
   static IconData get filePowerpointBox => iconMap['filePowerpointBox']!;
-  static IconData get filePowerpointBoxOutline => iconMap['filePowerpointBoxOutline']!;
-  static IconData get filePowerpointOutline => iconMap['filePowerpointOutline']!;
+  static IconData get filePowerpointBoxOutline =>
+      iconMap['filePowerpointBoxOutline']!;
+  static IconData get filePowerpointOutline =>
+      iconMap['filePowerpointOutline']!;
   static IconData get filePresentationBox => iconMap['filePresentationBox']!;
   static IconData get fileQuestion => iconMap['fileQuestion']!;
   static IconData get fileQuestionOutline => iconMap['fileQuestionOutline']!;
@@ -2898,9 +3277,11 @@ class MdiIcons {
   static IconData get fileRestore => iconMap['fileRestore']!;
   static IconData get fileRestoreOutline => iconMap['fileRestoreOutline']!;
   static IconData get fileRotateLeft => iconMap['fileRotateLeft']!;
-  static IconData get fileRotateLeftOutline => iconMap['fileRotateLeftOutline']!;
+  static IconData get fileRotateLeftOutline =>
+      iconMap['fileRotateLeftOutline']!;
   static IconData get fileRotateRight => iconMap['fileRotateRight']!;
-  static IconData get fileRotateRightOutline => iconMap['fileRotateRightOutline']!;
+  static IconData get fileRotateRightOutline =>
+      iconMap['fileRotateRightOutline']!;
   static IconData get fileSearch => iconMap['fileSearch']!;
   static IconData get fileSearchOutline => iconMap['fileSearchOutline']!;
   static IconData get fileSend => iconMap['fileSend']!;
@@ -2910,7 +3291,8 @@ class MdiIcons {
   static IconData get fileSign => iconMap['fileSign']!;
   static IconData get fileStar => iconMap['fileStar']!;
   static IconData get fileStarFourPoints => iconMap['fileStarFourPoints']!;
-  static IconData get fileStarFourPointsOutline => iconMap['fileStarFourPointsOutline']!;
+  static IconData get fileStarFourPointsOutline =>
+      iconMap['fileStarFourPointsOutline']!;
   static IconData get fileStarOutline => iconMap['fileStarOutline']!;
   static IconData get fileSwap => iconMap['fileSwap']!;
   static IconData get fileSwapOutline => iconMap['fileSwapOutline']!;
@@ -2919,7 +3301,8 @@ class MdiIcons {
   static IconData get fileTable => iconMap['fileTable']!;
   static IconData get fileTableBox => iconMap['fileTableBox']!;
   static IconData get fileTableBoxMultiple => iconMap['fileTableBoxMultiple']!;
-  static IconData get fileTableBoxMultipleOutline => iconMap['fileTableBoxMultipleOutline']!;
+  static IconData get fileTableBoxMultipleOutline =>
+      iconMap['fileTableBoxMultipleOutline']!;
   static IconData get fileTableBoxOutline => iconMap['fileTableBoxOutline']!;
   static IconData get fileTableOutline => iconMap['fileTableOutline']!;
   static IconData get fileTree => iconMap['fileTree']!;
@@ -2950,7 +3333,8 @@ class MdiIcons {
   static IconData get filterMinus => iconMap['filterMinus']!;
   static IconData get filterMinusOutline => iconMap['filterMinusOutline']!;
   static IconData get filterMultiple => iconMap['filterMultiple']!;
-  static IconData get filterMultipleOutline => iconMap['filterMultipleOutline']!;
+  static IconData get filterMultipleOutline =>
+      iconMap['filterMultipleOutline']!;
   static IconData get filterOff => iconMap['filterOff']!;
   static IconData get filterOffOutline => iconMap['filterOffOutline']!;
   static IconData get filterOutline => iconMap['filterOutline']!;
@@ -2959,7 +3343,8 @@ class MdiIcons {
   static IconData get filterRemove => iconMap['filterRemove']!;
   static IconData get filterRemoveOutline => iconMap['filterRemoveOutline']!;
   static IconData get filterSettings => iconMap['filterSettings']!;
-  static IconData get filterSettingsOutline => iconMap['filterSettingsOutline']!;
+  static IconData get filterSettingsOutline =>
+      iconMap['filterSettingsOutline']!;
   static IconData get filterVariant => iconMap['filterVariant']!;
   static IconData get filterVariantMinus => iconMap['filterVariantMinus']!;
   static IconData get filterVariantPlus => iconMap['filterVariantPlus']!;
@@ -3006,14 +3391,18 @@ class MdiIcons {
   static IconData get flagTriangle => iconMap['flagTriangle']!;
   static IconData get flagVariant => iconMap['flagVariant']!;
   static IconData get flagVariantMinus => iconMap['flagVariantMinus']!;
-  static IconData get flagVariantMinusOutline => iconMap['flagVariantMinusOutline']!;
+  static IconData get flagVariantMinusOutline =>
+      iconMap['flagVariantMinusOutline']!;
   static IconData get flagVariantOff => iconMap['flagVariantOff']!;
-  static IconData get flagVariantOffOutline => iconMap['flagVariantOffOutline']!;
+  static IconData get flagVariantOffOutline =>
+      iconMap['flagVariantOffOutline']!;
   static IconData get flagVariantOutline => iconMap['flagVariantOutline']!;
   static IconData get flagVariantPlus => iconMap['flagVariantPlus']!;
-  static IconData get flagVariantPlusOutline => iconMap['flagVariantPlusOutline']!;
+  static IconData get flagVariantPlusOutline =>
+      iconMap['flagVariantPlusOutline']!;
   static IconData get flagVariantRemove => iconMap['flagVariantRemove']!;
-  static IconData get flagVariantRemoveOutline => iconMap['flagVariantRemoveOutline']!;
+  static IconData get flagVariantRemoveOutline =>
+      iconMap['flagVariantRemoveOutline']!;
   static IconData get flare => iconMap['flare']!;
   static IconData get flash => iconMap['flash']!;
   static IconData get flashAlert => iconMap['flashAlert']!;
@@ -3030,14 +3419,17 @@ class MdiIcons {
   static IconData get flask => iconMap['flask']!;
   static IconData get flaskEmpty => iconMap['flaskEmpty']!;
   static IconData get flaskEmptyMinus => iconMap['flaskEmptyMinus']!;
-  static IconData get flaskEmptyMinusOutline => iconMap['flaskEmptyMinusOutline']!;
+  static IconData get flaskEmptyMinusOutline =>
+      iconMap['flaskEmptyMinusOutline']!;
   static IconData get flaskEmptyOff => iconMap['flaskEmptyOff']!;
   static IconData get flaskEmptyOffOutline => iconMap['flaskEmptyOffOutline']!;
   static IconData get flaskEmptyOutline => iconMap['flaskEmptyOutline']!;
   static IconData get flaskEmptyPlus => iconMap['flaskEmptyPlus']!;
-  static IconData get flaskEmptyPlusOutline => iconMap['flaskEmptyPlusOutline']!;
+  static IconData get flaskEmptyPlusOutline =>
+      iconMap['flaskEmptyPlusOutline']!;
   static IconData get flaskEmptyRemove => iconMap['flaskEmptyRemove']!;
-  static IconData get flaskEmptyRemoveOutline => iconMap['flaskEmptyRemoveOutline']!;
+  static IconData get flaskEmptyRemoveOutline =>
+      iconMap['flaskEmptyRemoveOutline']!;
   static IconData get flaskMinus => iconMap['flaskMinus']!;
   static IconData get flaskMinusOutline => iconMap['flaskMinusOutline']!;
   static IconData get flaskOff => iconMap['flaskOff']!;
@@ -3048,9 +3440,12 @@ class MdiIcons {
   static IconData get flaskRemove => iconMap['flaskRemove']!;
   static IconData get flaskRemoveOutline => iconMap['flaskRemoveOutline']!;
   static IconData get flaskRoundBottom => iconMap['flaskRoundBottom']!;
-  static IconData get flaskRoundBottomEmpty => iconMap['flaskRoundBottomEmpty']!;
-  static IconData get flaskRoundBottomEmptyOutline => iconMap['flaskRoundBottomEmptyOutline']!;
-  static IconData get flaskRoundBottomOutline => iconMap['flaskRoundBottomOutline']!;
+  static IconData get flaskRoundBottomEmpty =>
+      iconMap['flaskRoundBottomEmpty']!;
+  static IconData get flaskRoundBottomEmptyOutline =>
+      iconMap['flaskRoundBottomEmptyOutline']!;
+  static IconData get flaskRoundBottomOutline =>
+      iconMap['flaskRoundBottomOutline']!;
   static IconData get fleurDeLis => iconMap['fleurDeLis']!;
   static IconData get flipHorizontal => iconMap['flipHorizontal']!;
   static IconData get flipToBack => iconMap['flipToBack']!;
@@ -3061,9 +3456,12 @@ class MdiIcons {
   static IconData get floorLampDualOutline => iconMap['floorLampDualOutline']!;
   static IconData get floorLampOutline => iconMap['floorLampOutline']!;
   static IconData get floorLampTorchiere => iconMap['floorLampTorchiere']!;
-  static IconData get floorLampTorchiereOutline => iconMap['floorLampTorchiereOutline']!;
-  static IconData get floorLampTorchiereVariant => iconMap['floorLampTorchiereVariant']!;
-  static IconData get floorLampTorchiereVariantOutline => iconMap['floorLampTorchiereVariantOutline']!;
+  static IconData get floorLampTorchiereOutline =>
+      iconMap['floorLampTorchiereOutline']!;
+  static IconData get floorLampTorchiereVariant =>
+      iconMap['floorLampTorchiereVariant']!;
+  static IconData get floorLampTorchiereVariantOutline =>
+      iconMap['floorLampTorchiereVariantOutline']!;
   static IconData get floorPlan => iconMap['floorPlan']!;
   static IconData get floppy => iconMap['floppy']!;
   static IconData get floppyVariant => iconMap['floppyVariant']!;
@@ -3084,16 +3482,21 @@ class MdiIcons {
   static IconData get folderAlert => iconMap['folderAlert']!;
   static IconData get folderAlertOutline => iconMap['folderAlertOutline']!;
   static IconData get folderArrowDown => iconMap['folderArrowDown']!;
-  static IconData get folderArrowDownOutline => iconMap['folderArrowDownOutline']!;
+  static IconData get folderArrowDownOutline =>
+      iconMap['folderArrowDownOutline']!;
   static IconData get folderArrowLeft => iconMap['folderArrowLeft']!;
-  static IconData get folderArrowLeftOutline => iconMap['folderArrowLeftOutline']!;
+  static IconData get folderArrowLeftOutline =>
+      iconMap['folderArrowLeftOutline']!;
   static IconData get folderArrowLeftRight => iconMap['folderArrowLeftRight']!;
-  static IconData get folderArrowLeftRightOutline => iconMap['folderArrowLeftRightOutline']!;
+  static IconData get folderArrowLeftRightOutline =>
+      iconMap['folderArrowLeftRightOutline']!;
   static IconData get folderArrowRight => iconMap['folderArrowRight']!;
-  static IconData get folderArrowRightOutline => iconMap['folderArrowRightOutline']!;
+  static IconData get folderArrowRightOutline =>
+      iconMap['folderArrowRightOutline']!;
   static IconData get folderArrowUp => iconMap['folderArrowUp']!;
   static IconData get folderArrowUpDown => iconMap['folderArrowUpDown']!;
-  static IconData get folderArrowUpDownOutline => iconMap['folderArrowUpDownOutline']!;
+  static IconData get folderArrowUpDownOutline =>
+      iconMap['folderArrowUpDownOutline']!;
   static IconData get folderArrowUpOutline => iconMap['folderArrowUpOutline']!;
   static IconData get folderCancel => iconMap['folderCancel']!;
   static IconData get folderCancelOutline => iconMap['folderCancelOutline']!;
@@ -3104,7 +3507,8 @@ class MdiIcons {
   static IconData get folderCog => iconMap['folderCog']!;
   static IconData get folderCogOutline => iconMap['folderCogOutline']!;
   static IconData get folderDownload => iconMap['folderDownload']!;
-  static IconData get folderDownloadOutline => iconMap['folderDownloadOutline']!;
+  static IconData get folderDownloadOutline =>
+      iconMap['folderDownloadOutline']!;
   static IconData get folderEdit => iconMap['folderEdit']!;
   static IconData get folderEditOutline => iconMap['folderEditOutline']!;
   static IconData get folderEye => iconMap['folderEye']!;
@@ -3119,14 +3523,17 @@ class MdiIcons {
   static IconData get folderHomeOutline => iconMap['folderHomeOutline']!;
   static IconData get folderImage => iconMap['folderImage']!;
   static IconData get folderInformation => iconMap['folderInformation']!;
-  static IconData get folderInformationOutline => iconMap['folderInformationOutline']!;
+  static IconData get folderInformationOutline =>
+      iconMap['folderInformationOutline']!;
   static IconData get folderKey => iconMap['folderKey']!;
   static IconData get folderKeyNetwork => iconMap['folderKeyNetwork']!;
-  static IconData get folderKeyNetworkOutline => iconMap['folderKeyNetworkOutline']!;
+  static IconData get folderKeyNetworkOutline =>
+      iconMap['folderKeyNetworkOutline']!;
   static IconData get folderKeyOutline => iconMap['folderKeyOutline']!;
   static IconData get folderLock => iconMap['folderLock']!;
   static IconData get folderLockOpen => iconMap['folderLockOpen']!;
-  static IconData get folderLockOpenOutline => iconMap['folderLockOpenOutline']!;
+  static IconData get folderLockOpenOutline =>
+      iconMap['folderLockOpenOutline']!;
   static IconData get folderLockOutline => iconMap['folderLockOutline']!;
   static IconData get folderMarker => iconMap['folderMarker']!;
   static IconData get folderMarkerOutline => iconMap['folderMarkerOutline']!;
@@ -3136,9 +3543,11 @@ class MdiIcons {
   static IconData get folderMoveOutline => iconMap['folderMoveOutline']!;
   static IconData get folderMultiple => iconMap['folderMultiple']!;
   static IconData get folderMultipleImage => iconMap['folderMultipleImage']!;
-  static IconData get folderMultipleOutline => iconMap['folderMultipleOutline']!;
+  static IconData get folderMultipleOutline =>
+      iconMap['folderMultipleOutline']!;
   static IconData get folderMultiplePlus => iconMap['folderMultiplePlus']!;
-  static IconData get folderMultiplePlusOutline => iconMap['folderMultiplePlusOutline']!;
+  static IconData get folderMultiplePlusOutline =>
+      iconMap['folderMultiplePlusOutline']!;
   static IconData get folderMusic => iconMap['folderMusic']!;
   static IconData get folderMusicOutline => iconMap['folderMusicOutline']!;
   static IconData get folderNetwork => iconMap['folderNetwork']!;
@@ -3155,7 +3564,8 @@ class MdiIcons {
   static IconData get folderPound => iconMap['folderPound']!;
   static IconData get folderPoundOutline => iconMap['folderPoundOutline']!;
   static IconData get folderQuestion => iconMap['folderQuestion']!;
-  static IconData get folderQuestionOutline => iconMap['folderQuestionOutline']!;
+  static IconData get folderQuestionOutline =>
+      iconMap['folderQuestionOutline']!;
   static IconData get folderRefresh => iconMap['folderRefresh']!;
   static IconData get folderRefreshOutline => iconMap['folderRefreshOutline']!;
   static IconData get folderRemove => iconMap['folderRemove']!;
@@ -3163,10 +3573,12 @@ class MdiIcons {
   static IconData get folderSearch => iconMap['folderSearch']!;
   static IconData get folderSearchOutline => iconMap['folderSearchOutline']!;
   static IconData get folderSettings => iconMap['folderSettings']!;
-  static IconData get folderSettingsOutline => iconMap['folderSettingsOutline']!;
+  static IconData get folderSettingsOutline =>
+      iconMap['folderSettingsOutline']!;
   static IconData get folderStar => iconMap['folderStar']!;
   static IconData get folderStarMultiple => iconMap['folderStarMultiple']!;
-  static IconData get folderStarMultipleOutline => iconMap['folderStarMultipleOutline']!;
+  static IconData get folderStarMultipleOutline =>
+      iconMap['folderStarMultipleOutline']!;
   static IconData get folderStarOutline => iconMap['folderStarOutline']!;
   static IconData get folderSwap => iconMap['folderSwap']!;
   static IconData get folderSwapOutline => iconMap['folderSwapOutline']!;
@@ -3189,7 +3601,8 @@ class MdiIcons {
   static IconData get foodCroissant => iconMap['foodCroissant']!;
   static IconData get foodDrumstick => iconMap['foodDrumstick']!;
   static IconData get foodDrumstickOff => iconMap['foodDrumstickOff']!;
-  static IconData get foodDrumstickOffOutline => iconMap['foodDrumstickOffOutline']!;
+  static IconData get foodDrumstickOffOutline =>
+      iconMap['foodDrumstickOffOutline']!;
   static IconData get foodDrumstickOutline => iconMap['foodDrumstickOutline']!;
   static IconData get foodForkDrink => iconMap['foodForkDrink']!;
   static IconData get foodHalal => iconMap['foodHalal']!;
@@ -3201,7 +3614,8 @@ class MdiIcons {
   static IconData get foodSteak => iconMap['foodSteak']!;
   static IconData get foodSteakOff => iconMap['foodSteakOff']!;
   static IconData get foodTakeoutBox => iconMap['foodTakeoutBox']!;
-  static IconData get foodTakeoutBoxOutline => iconMap['foodTakeoutBoxOutline']!;
+  static IconData get foodTakeoutBoxOutline =>
+      iconMap['foodTakeoutBoxOutline']!;
   static IconData get foodTurkey => iconMap['foodTurkey']!;
   static IconData get foodVariant => iconMap['foodVariant']!;
   static IconData get foodVariantOff => iconMap['foodVariantOff']!;
@@ -3225,13 +3639,15 @@ class MdiIcons {
   static IconData get formatAlignMiddle => iconMap['formatAlignMiddle']!;
   static IconData get formatAlignRight => iconMap['formatAlignRight']!;
   static IconData get formatAlignTop => iconMap['formatAlignTop']!;
-  static IconData get formatAnnotationMinus => iconMap['formatAnnotationMinus']!;
+  static IconData get formatAnnotationMinus =>
+      iconMap['formatAnnotationMinus']!;
   static IconData get formatAnnotationPlus => iconMap['formatAnnotationPlus']!;
   static IconData get formatBold => iconMap['formatBold']!;
   static IconData get formatClear => iconMap['formatClear']!;
   static IconData get formatColorFill => iconMap['formatColorFill']!;
   static IconData get formatColorHighlight => iconMap['formatColorHighlight']!;
-  static IconData get formatColorMarkerCancel => iconMap['formatColorMarkerCancel']!;
+  static IconData get formatColorMarkerCancel =>
+      iconMap['formatColorMarkerCancel']!;
   static IconData get formatColorText => iconMap['formatColorText']!;
   static IconData get formatColumns => iconMap['formatColumns']!;
   static IconData get formatFloatCenter => iconMap['formatFloatCenter']!;
@@ -3239,8 +3655,10 @@ class MdiIcons {
   static IconData get formatFloatNone => iconMap['formatFloatNone']!;
   static IconData get formatFloatRight => iconMap['formatFloatRight']!;
   static IconData get formatFont => iconMap['formatFont']!;
-  static IconData get formatFontSizeDecrease => iconMap['formatFontSizeDecrease']!;
-  static IconData get formatFontSizeIncrease => iconMap['formatFontSizeIncrease']!;
+  static IconData get formatFontSizeDecrease =>
+      iconMap['formatFontSizeDecrease']!;
+  static IconData get formatFontSizeIncrease =>
+      iconMap['formatFontSizeIncrease']!;
   static IconData get formatHeader1 => iconMap['formatHeader1']!;
   static IconData get formatHeader2 => iconMap['formatHeader2']!;
   static IconData get formatHeader3 => iconMap['formatHeader3']!;
@@ -3251,75 +3669,105 @@ class MdiIcons {
   static IconData get formatHeaderEqual => iconMap['formatHeaderEqual']!;
   static IconData get formatHeaderIncrease => iconMap['formatHeaderIncrease']!;
   static IconData get formatHeaderPound => iconMap['formatHeaderPound']!;
-  static IconData get formatHorizontalAlignCenter => iconMap['formatHorizontalAlignCenter']!;
-  static IconData get formatHorizontalAlignLeft => iconMap['formatHorizontalAlignLeft']!;
-  static IconData get formatHorizontalAlignRight => iconMap['formatHorizontalAlignRight']!;
+  static IconData get formatHorizontalAlignCenter =>
+      iconMap['formatHorizontalAlignCenter']!;
+  static IconData get formatHorizontalAlignLeft =>
+      iconMap['formatHorizontalAlignLeft']!;
+  static IconData get formatHorizontalAlignRight =>
+      iconMap['formatHorizontalAlignRight']!;
   static IconData get formatIndentDecrease => iconMap['formatIndentDecrease']!;
   static IconData get formatIndentIncrease => iconMap['formatIndentIncrease']!;
   static IconData get formatItalic => iconMap['formatItalic']!;
   static IconData get formatLetterCase => iconMap['formatLetterCase']!;
-  static IconData get formatLetterCaseLower => iconMap['formatLetterCaseLower']!;
-  static IconData get formatLetterCaseUpper => iconMap['formatLetterCaseUpper']!;
+  static IconData get formatLetterCaseLower =>
+      iconMap['formatLetterCaseLower']!;
+  static IconData get formatLetterCaseUpper =>
+      iconMap['formatLetterCaseUpper']!;
   static IconData get formatLetterEndsWith => iconMap['formatLetterEndsWith']!;
   static IconData get formatLetterMatches => iconMap['formatLetterMatches']!;
   static IconData get formatLetterSpacing => iconMap['formatLetterSpacing']!;
-  static IconData get formatLetterSpacingVariant => iconMap['formatLetterSpacingVariant']!;
-  static IconData get formatLetterStartsWith => iconMap['formatLetterStartsWith']!;
+  static IconData get formatLetterSpacingVariant =>
+      iconMap['formatLetterSpacingVariant']!;
+  static IconData get formatLetterStartsWith =>
+      iconMap['formatLetterStartsWith']!;
   static IconData get formatLineHeight => iconMap['formatLineHeight']!;
   static IconData get formatLineSpacing => iconMap['formatLineSpacing']!;
   static IconData get formatLineStyle => iconMap['formatLineStyle']!;
   static IconData get formatLineWeight => iconMap['formatLineWeight']!;
   static IconData get formatListBulleted => iconMap['formatListBulleted']!;
-  static IconData get formatListBulletedSquare => iconMap['formatListBulletedSquare']!;
-  static IconData get formatListBulletedTriangle => iconMap['formatListBulletedTriangle']!;
-  static IconData get formatListBulletedType => iconMap['formatListBulletedType']!;
+  static IconData get formatListBulletedSquare =>
+      iconMap['formatListBulletedSquare']!;
+  static IconData get formatListBulletedTriangle =>
+      iconMap['formatListBulletedTriangle']!;
+  static IconData get formatListBulletedType =>
+      iconMap['formatListBulletedType']!;
   static IconData get formatListCheckbox => iconMap['formatListCheckbox']!;
   static IconData get formatListChecks => iconMap['formatListChecks']!;
   static IconData get formatListGroup => iconMap['formatListGroup']!;
   static IconData get formatListGroupPlus => iconMap['formatListGroupPlus']!;
   static IconData get formatListNumbered => iconMap['formatListNumbered']!;
-  static IconData get formatListNumberedRtl => iconMap['formatListNumberedRtl']!;
+  static IconData get formatListNumberedRtl =>
+      iconMap['formatListNumberedRtl']!;
   static IconData get formatListText => iconMap['formatListText']!;
   static IconData get formatOverline => iconMap['formatOverline']!;
   static IconData get formatPageBreak => iconMap['formatPageBreak']!;
   static IconData get formatPageSplit => iconMap['formatPageSplit']!;
   static IconData get formatPaint => iconMap['formatPaint']!;
   static IconData get formatParagraph => iconMap['formatParagraph']!;
-  static IconData get formatParagraphSpacing => iconMap['formatParagraphSpacing']!;
+  static IconData get formatParagraphSpacing =>
+      iconMap['formatParagraphSpacing']!;
   static IconData get formatPilcrow => iconMap['formatPilcrow']!;
-  static IconData get formatPilcrowArrowLeft => iconMap['formatPilcrowArrowLeft']!;
-  static IconData get formatPilcrowArrowRight => iconMap['formatPilcrowArrowRight']!;
+  static IconData get formatPilcrowArrowLeft =>
+      iconMap['formatPilcrowArrowLeft']!;
+  static IconData get formatPilcrowArrowRight =>
+      iconMap['formatPilcrowArrowRight']!;
   static IconData get formatQuoteClose => iconMap['formatQuoteClose']!;
-  static IconData get formatQuoteCloseOutline => iconMap['formatQuoteCloseOutline']!;
+  static IconData get formatQuoteCloseOutline =>
+      iconMap['formatQuoteCloseOutline']!;
   static IconData get formatQuoteOpen => iconMap['formatQuoteOpen']!;
-  static IconData get formatQuoteOpenOutline => iconMap['formatQuoteOpenOutline']!;
+  static IconData get formatQuoteOpenOutline =>
+      iconMap['formatQuoteOpenOutline']!;
   static IconData get formatRotate90 => iconMap['formatRotate90']!;
   static IconData get formatSection => iconMap['formatSection']!;
   static IconData get formatSize => iconMap['formatSize']!;
   static IconData get formatStrikethrough => iconMap['formatStrikethrough']!;
-  static IconData get formatStrikethroughVariant => iconMap['formatStrikethroughVariant']!;
+  static IconData get formatStrikethroughVariant =>
+      iconMap['formatStrikethroughVariant']!;
   static IconData get formatSubscript => iconMap['formatSubscript']!;
   static IconData get formatSuperscript => iconMap['formatSuperscript']!;
   static IconData get formatText => iconMap['formatText']!;
-  static IconData get formatTextRotationAngleDown => iconMap['formatTextRotationAngleDown']!;
-  static IconData get formatTextRotationAngleUp => iconMap['formatTextRotationAngleUp']!;
-  static IconData get formatTextRotationDown => iconMap['formatTextRotationDown']!;
-  static IconData get formatTextRotationDownVertical => iconMap['formatTextRotationDownVertical']!;
-  static IconData get formatTextRotationNone => iconMap['formatTextRotationNone']!;
+  static IconData get formatTextRotationAngleDown =>
+      iconMap['formatTextRotationAngleDown']!;
+  static IconData get formatTextRotationAngleUp =>
+      iconMap['formatTextRotationAngleUp']!;
+  static IconData get formatTextRotationDown =>
+      iconMap['formatTextRotationDown']!;
+  static IconData get formatTextRotationDownVertical =>
+      iconMap['formatTextRotationDownVertical']!;
+  static IconData get formatTextRotationNone =>
+      iconMap['formatTextRotationNone']!;
   static IconData get formatTextRotationUp => iconMap['formatTextRotationUp']!;
-  static IconData get formatTextRotationVertical => iconMap['formatTextRotationVertical']!;
+  static IconData get formatTextRotationVertical =>
+      iconMap['formatTextRotationVertical']!;
   static IconData get formatTextVariant => iconMap['formatTextVariant']!;
-  static IconData get formatTextVariantOutline => iconMap['formatTextVariantOutline']!;
-  static IconData get formatTextWrappingClip => iconMap['formatTextWrappingClip']!;
-  static IconData get formatTextWrappingOverflow => iconMap['formatTextWrappingOverflow']!;
-  static IconData get formatTextWrappingWrap => iconMap['formatTextWrappingWrap']!;
+  static IconData get formatTextVariantOutline =>
+      iconMap['formatTextVariantOutline']!;
+  static IconData get formatTextWrappingClip =>
+      iconMap['formatTextWrappingClip']!;
+  static IconData get formatTextWrappingOverflow =>
+      iconMap['formatTextWrappingOverflow']!;
+  static IconData get formatTextWrappingWrap =>
+      iconMap['formatTextWrappingWrap']!;
   static IconData get formatTextbox => iconMap['formatTextbox']!;
   static IconData get formatTitle => iconMap['formatTitle']!;
   static IconData get formatUnderline => iconMap['formatUnderline']!;
   static IconData get formatUnderlineWavy => iconMap['formatUnderlineWavy']!;
-  static IconData get formatVerticalAlignBottom => iconMap['formatVerticalAlignBottom']!;
-  static IconData get formatVerticalAlignCenter => iconMap['formatVerticalAlignCenter']!;
-  static IconData get formatVerticalAlignTop => iconMap['formatVerticalAlignTop']!;
+  static IconData get formatVerticalAlignBottom =>
+      iconMap['formatVerticalAlignBottom']!;
+  static IconData get formatVerticalAlignCenter =>
+      iconMap['formatVerticalAlignCenter']!;
+  static IconData get formatVerticalAlignTop =>
+      iconMap['formatVerticalAlignTop']!;
   static IconData get formatWrapInline => iconMap['formatWrapInline']!;
   static IconData get formatWrapSquare => iconMap['formatWrapSquare']!;
   static IconData get formatWrapTight => iconMap['formatWrapTight']!;
@@ -3340,26 +3788,33 @@ class MdiIcons {
   static IconData get fractionOneHalf => iconMap['fractionOneHalf']!;
   static IconData get freebsd => iconMap['freebsd']!;
   static IconData get frenchFries => iconMap['frenchFries']!;
-  static IconData get frequentlyAskedQuestions => iconMap['frequentlyAskedQuestions']!;
+  static IconData get frequentlyAskedQuestions =>
+      iconMap['frequentlyAskedQuestions']!;
   static IconData get fridge => iconMap['fridge']!;
   static IconData get fridgeAlert => iconMap['fridgeAlert']!;
   static IconData get fridgeAlertOutline => iconMap['fridgeAlertOutline']!;
   static IconData get fridgeBottom => iconMap['fridgeBottom']!;
   static IconData get fridgeIndustrial => iconMap['fridgeIndustrial']!;
-  static IconData get fridgeIndustrialAlert => iconMap['fridgeIndustrialAlert']!;
-  static IconData get fridgeIndustrialAlertOutline => iconMap['fridgeIndustrialAlertOutline']!;
+  static IconData get fridgeIndustrialAlert =>
+      iconMap['fridgeIndustrialAlert']!;
+  static IconData get fridgeIndustrialAlertOutline =>
+      iconMap['fridgeIndustrialAlertOutline']!;
   static IconData get fridgeIndustrialOff => iconMap['fridgeIndustrialOff']!;
-  static IconData get fridgeIndustrialOffOutline => iconMap['fridgeIndustrialOffOutline']!;
-  static IconData get fridgeIndustrialOutline => iconMap['fridgeIndustrialOutline']!;
+  static IconData get fridgeIndustrialOffOutline =>
+      iconMap['fridgeIndustrialOffOutline']!;
+  static IconData get fridgeIndustrialOutline =>
+      iconMap['fridgeIndustrialOutline']!;
   static IconData get fridgeOff => iconMap['fridgeOff']!;
   static IconData get fridgeOffOutline => iconMap['fridgeOffOutline']!;
   static IconData get fridgeOutline => iconMap['fridgeOutline']!;
   static IconData get fridgeTop => iconMap['fridgeTop']!;
   static IconData get fridgeVariant => iconMap['fridgeVariant']!;
   static IconData get fridgeVariantAlert => iconMap['fridgeVariantAlert']!;
-  static IconData get fridgeVariantAlertOutline => iconMap['fridgeVariantAlertOutline']!;
+  static IconData get fridgeVariantAlertOutline =>
+      iconMap['fridgeVariantAlertOutline']!;
   static IconData get fridgeVariantOff => iconMap['fridgeVariantOff']!;
-  static IconData get fridgeVariantOffOutline => iconMap['fridgeVariantOffOutline']!;
+  static IconData get fridgeVariantOffOutline =>
+      iconMap['fridgeVariantOffOutline']!;
   static IconData get fridgeVariantOutline => iconMap['fridgeVariantOutline']!;
   static IconData get fruitCherries => iconMap['fruitCherries']!;
   static IconData get fruitCherriesOff => iconMap['fruitCherriesOff']!;
@@ -3403,7 +3858,8 @@ class MdiIcons {
   static IconData get gamepadSquareOutline => iconMap['gamepadSquareOutline']!;
   static IconData get gamepadUp => iconMap['gamepadUp']!;
   static IconData get gamepadVariant => iconMap['gamepadVariant']!;
-  static IconData get gamepadVariantOutline => iconMap['gamepadVariantOutline']!;
+  static IconData get gamepadVariantOutline =>
+      iconMap['gamepadVariantOutline']!;
   static IconData get gamma => iconMap['gamma']!;
   static IconData get gantryCrane => iconMap['gantryCrane']!;
   static IconData get garage => iconMap['garage']!;
@@ -3442,7 +3898,8 @@ class MdiIcons {
   static IconData get genderFemale => iconMap['genderFemale']!;
   static IconData get genderMale => iconMap['genderMale']!;
   static IconData get genderMaleFemale => iconMap['genderMaleFemale']!;
-  static IconData get genderMaleFemaleVariant => iconMap['genderMaleFemaleVariant']!;
+  static IconData get genderMaleFemaleVariant =>
+      iconMap['genderMaleFemaleVariant']!;
   static IconData get genderNonBinary => iconMap['genderNonBinary']!;
   static IconData get genderTransgender => iconMap['genderTransgender']!;
   static IconData get gentoo => iconMap['gentoo']!;
@@ -3452,7 +3909,8 @@ class MdiIcons {
   static IconData get gestureSpread => iconMap['gestureSpread']!;
   static IconData get gestureSwipe => iconMap['gestureSwipe']!;
   static IconData get gestureSwipeDown => iconMap['gestureSwipeDown']!;
-  static IconData get gestureSwipeHorizontal => iconMap['gestureSwipeHorizontal']!;
+  static IconData get gestureSwipeHorizontal =>
+      iconMap['gestureSwipeHorizontal']!;
   static IconData get gestureSwipeLeft => iconMap['gestureSwipeLeft']!;
   static IconData get gestureSwipeRight => iconMap['gestureSwipeRight']!;
   static IconData get gestureSwipeUp => iconMap['gestureSwipeUp']!;
@@ -3510,8 +3968,10 @@ class MdiIcons {
   static IconData get googleCardboard => iconMap['googleCardboard']!;
   static IconData get googleChrome => iconMap['googleChrome']!;
   static IconData get googleCircles => iconMap['googleCircles']!;
-  static IconData get googleCirclesCommunities => iconMap['googleCirclesCommunities']!;
-  static IconData get googleCirclesExtended => iconMap['googleCirclesExtended']!;
+  static IconData get googleCirclesCommunities =>
+      iconMap['googleCirclesCommunities']!;
+  static IconData get googleCirclesExtended =>
+      iconMap['googleCirclesExtended']!;
   static IconData get googleCirclesGroup => iconMap['googleCirclesGroup']!;
   static IconData get googleClassroom => iconMap['googleClassroom']!;
   static IconData get googleCloud => iconMap['googleCloud']!;
@@ -3572,11 +4032,13 @@ class MdiIcons {
   static IconData get hammerWrench => iconMap['hammerWrench']!;
   static IconData get handBackLeft => iconMap['handBackLeft']!;
   static IconData get handBackLeftOff => iconMap['handBackLeftOff']!;
-  static IconData get handBackLeftOffOutline => iconMap['handBackLeftOffOutline']!;
+  static IconData get handBackLeftOffOutline =>
+      iconMap['handBackLeftOffOutline']!;
   static IconData get handBackLeftOutline => iconMap['handBackLeftOutline']!;
   static IconData get handBackRight => iconMap['handBackRight']!;
   static IconData get handBackRightOff => iconMap['handBackRightOff']!;
-  static IconData get handBackRightOffOutline => iconMap['handBackRightOffOutline']!;
+  static IconData get handBackRightOffOutline =>
+      iconMap['handBackRightOffOutline']!;
   static IconData get handBackRightOutline => iconMap['handBackRightOutline']!;
   static IconData get handClap => iconMap['handClap']!;
   static IconData get handClapOff => iconMap['handClapOff']!;
@@ -3588,7 +4050,8 @@ class MdiIcons {
   static IconData get handFrontLeft => iconMap['handFrontLeft']!;
   static IconData get handFrontLeftOutline => iconMap['handFrontLeftOutline']!;
   static IconData get handFrontRight => iconMap['handFrontRight']!;
-  static IconData get handFrontRightOutline => iconMap['handFrontRightOutline']!;
+  static IconData get handFrontRightOutline =>
+      iconMap['handFrontRightOutline']!;
   static IconData get handHeart => iconMap['handHeart']!;
   static IconData get handHeartOutline => iconMap['handHeartOutline']!;
   static IconData get handOkay => iconMap['handOkay']!;
@@ -3627,7 +4090,8 @@ class MdiIcons {
   static IconData get headCog => iconMap['headCog']!;
   static IconData get headCogOutline => iconMap['headCogOutline']!;
   static IconData get headDotsHorizontal => iconMap['headDotsHorizontal']!;
-  static IconData get headDotsHorizontalOutline => iconMap['headDotsHorizontalOutline']!;
+  static IconData get headDotsHorizontalOutline =>
+      iconMap['headDotsHorizontalOutline']!;
   static IconData get headFlash => iconMap['headFlash']!;
   static IconData get headFlashOutline => iconMap['headFlashOutline']!;
   static IconData get headHeart => iconMap['headHeart']!;
@@ -3690,7 +4154,8 @@ class MdiIcons {
   static IconData get help => iconMap['help']!;
   static IconData get helpBox => iconMap['helpBox']!;
   static IconData get helpBoxMultiple => iconMap['helpBoxMultiple']!;
-  static IconData get helpBoxMultipleOutline => iconMap['helpBoxMultipleOutline']!;
+  static IconData get helpBoxMultipleOutline =>
+      iconMap['helpBoxMultipleOutline']!;
   static IconData get helpBoxOutline => iconMap['helpBoxOutline']!;
   static IconData get helpCircle => iconMap['helpCircle']!;
   static IconData get helpCircleOutline => iconMap['helpCircleOutline']!;
@@ -3701,7 +4166,8 @@ class MdiIcons {
   static IconData get hexadecimal => iconMap['hexadecimal']!;
   static IconData get hexagon => iconMap['hexagon']!;
   static IconData get hexagonMultiple => iconMap['hexagonMultiple']!;
-  static IconData get hexagonMultipleOutline => iconMap['hexagonMultipleOutline']!;
+  static IconData get hexagonMultipleOutline =>
+      iconMap['hexagonMultipleOutline']!;
   static IconData get hexagonOutline => iconMap['hexagonOutline']!;
   static IconData get hexagonSlice1 => iconMap['hexagonSlice1']!;
   static IconData get hexagonSlice2 => iconMap['hexagonSlice2']!;
@@ -3756,7 +4222,8 @@ class MdiIcons {
   static IconData get homeLightbulb => iconMap['homeLightbulb']!;
   static IconData get homeLightbulbOutline => iconMap['homeLightbulbOutline']!;
   static IconData get homeLightningBolt => iconMap['homeLightningBolt']!;
-  static IconData get homeLightningBoltOutline => iconMap['homeLightningBoltOutline']!;
+  static IconData get homeLightningBoltOutline =>
+      iconMap['homeLightningBoltOutline']!;
   static IconData get homeLock => iconMap['homeLock']!;
   static IconData get homeLockOpen => iconMap['homeLockOpen']!;
   static IconData get homeMapMarker => iconMap['homeMapMarker']!;
@@ -3784,15 +4251,18 @@ class MdiIcons {
   static IconData get homeSwitch => iconMap['homeSwitch']!;
   static IconData get homeSwitchOutline => iconMap['homeSwitchOutline']!;
   static IconData get homeThermometer => iconMap['homeThermometer']!;
-  static IconData get homeThermometerOutline => iconMap['homeThermometerOutline']!;
+  static IconData get homeThermometerOutline =>
+      iconMap['homeThermometerOutline']!;
   static IconData get homeVariant => iconMap['homeVariant']!;
   static IconData get homeVariantOutline => iconMap['homeVariantOutline']!;
   static IconData get hook => iconMap['hook']!;
   static IconData get hookOff => iconMap['hookOff']!;
   static IconData get hoopHouse => iconMap['hoopHouse']!;
   static IconData get hops => iconMap['hops']!;
-  static IconData get horizontalRotateClockwise => iconMap['horizontalRotateClockwise']!;
-  static IconData get horizontalRotateCounterclockwise => iconMap['horizontalRotateCounterclockwise']!;
+  static IconData get horizontalRotateClockwise =>
+      iconMap['horizontalRotateClockwise']!;
+  static IconData get horizontalRotateCounterclockwise =>
+      iconMap['horizontalRotateCounterclockwise']!;
   static IconData get horse => iconMap['horse']!;
   static IconData get horseHuman => iconMap['horseHuman']!;
   static IconData get horseVariant => iconMap['horseVariant']!;
@@ -3808,10 +4278,13 @@ class MdiIcons {
   static IconData get hubspot => iconMap['hubspot']!;
   static IconData get hulu => iconMap['hulu']!;
   static IconData get human => iconMap['human']!;
-  static IconData get humanBabyChangingTable => iconMap['humanBabyChangingTable']!;
+  static IconData get humanBabyChangingTable =>
+      iconMap['humanBabyChangingTable']!;
   static IconData get humanCane => iconMap['humanCane']!;
-  static IconData get humanCapacityDecrease => iconMap['humanCapacityDecrease']!;
-  static IconData get humanCapacityIncrease => iconMap['humanCapacityIncrease']!;
+  static IconData get humanCapacityDecrease =>
+      iconMap['humanCapacityDecrease']!;
+  static IconData get humanCapacityIncrease =>
+      iconMap['humanCapacityIncrease']!;
   static IconData get humanChild => iconMap['humanChild']!;
   static IconData get humanDolly => iconMap['humanDolly']!;
   static IconData get humanEdit => iconMap['humanEdit']!;
@@ -3821,7 +4294,8 @@ class MdiIcons {
   static IconData get humanFemaleFemale => iconMap['humanFemaleFemale']!;
   static IconData get humanFemaleGirl => iconMap['humanFemaleGirl']!;
   static IconData get humanGreeting => iconMap['humanGreeting']!;
-  static IconData get humanGreetingProximity => iconMap['humanGreetingProximity']!;
+  static IconData get humanGreetingProximity =>
+      iconMap['humanGreetingProximity']!;
   static IconData get humanGreetingVariant => iconMap['humanGreetingVariant']!;
   static IconData get humanHandsdown => iconMap['humanHandsdown']!;
   static IconData get humanHandsup => iconMap['humanHandsup']!;
@@ -3834,7 +4308,8 @@ class MdiIcons {
   static IconData get humanMaleFemaleChild => iconMap['humanMaleFemaleChild']!;
   static IconData get humanMaleGirl => iconMap['humanMaleGirl']!;
   static IconData get humanMaleHeight => iconMap['humanMaleHeight']!;
-  static IconData get humanMaleHeightVariant => iconMap['humanMaleHeightVariant']!;
+  static IconData get humanMaleHeightVariant =>
+      iconMap['humanMaleHeightVariant']!;
   static IconData get humanMaleMale => iconMap['humanMaleMale']!;
   static IconData get humanNonBinary => iconMap['humanNonBinary']!;
   static IconData get humanPregnant => iconMap['humanPregnant']!;
@@ -3847,7 +4322,8 @@ class MdiIcons {
   static IconData get hvac => iconMap['hvac']!;
   static IconData get hvacOff => iconMap['hvacOff']!;
   static IconData get hydraulicOilLevel => iconMap['hydraulicOilLevel']!;
-  static IconData get hydraulicOilTemperature => iconMap['hydraulicOilTemperature']!;
+  static IconData get hydraulicOilTemperature =>
+      iconMap['hydraulicOilTemperature']!;
   static IconData get hydroPower => iconMap['hydroPower']!;
   static IconData get hydrogenStation => iconMap['hydrogenStation']!;
   static IconData get iceCream => iconMap['iceCream']!;
@@ -3868,16 +4344,23 @@ class MdiIcons {
   static IconData get imageCheckOutline => iconMap['imageCheckOutline']!;
   static IconData get imageEdit => iconMap['imageEdit']!;
   static IconData get imageEditOutline => iconMap['imageEditOutline']!;
-  static IconData get imageFilterBlackWhite => iconMap['imageFilterBlackWhite']!;
-  static IconData get imageFilterCenterFocus => iconMap['imageFilterCenterFocus']!;
-  static IconData get imageFilterCenterFocusStrong => iconMap['imageFilterCenterFocusStrong']!;
-  static IconData get imageFilterCenterFocusStrongOutline => iconMap['imageFilterCenterFocusStrongOutline']!;
-  static IconData get imageFilterCenterFocusWeak => iconMap['imageFilterCenterFocusWeak']!;
+  static IconData get imageFilterBlackWhite =>
+      iconMap['imageFilterBlackWhite']!;
+  static IconData get imageFilterCenterFocus =>
+      iconMap['imageFilterCenterFocus']!;
+  static IconData get imageFilterCenterFocusStrong =>
+      iconMap['imageFilterCenterFocusStrong']!;
+  static IconData get imageFilterCenterFocusStrongOutline =>
+      iconMap['imageFilterCenterFocusStrongOutline']!;
+  static IconData get imageFilterCenterFocusWeak =>
+      iconMap['imageFilterCenterFocusWeak']!;
   static IconData get imageFilterDrama => iconMap['imageFilterDrama']!;
-  static IconData get imageFilterDramaOutline => iconMap['imageFilterDramaOutline']!;
+  static IconData get imageFilterDramaOutline =>
+      iconMap['imageFilterDramaOutline']!;
   static IconData get imageFilterFrames => iconMap['imageFilterFrames']!;
   static IconData get imageFilterHdr => iconMap['imageFilterHdr']!;
-  static IconData get imageFilterHdrOutline => iconMap['imageFilterHdrOutline']!;
+  static IconData get imageFilterHdrOutline =>
+      iconMap['imageFilterHdrOutline']!;
   static IconData get imageFilterNone => iconMap['imageFilterNone']!;
   static IconData get imageFilterTiltShift => iconMap['imageFilterTiltShift']!;
   static IconData get imageFilterVintage => iconMap['imageFilterVintage']!;
@@ -3902,7 +4385,8 @@ class MdiIcons {
   static IconData get imageRemoveOutline => iconMap['imageRemoveOutline']!;
   static IconData get imageSearch => iconMap['imageSearch']!;
   static IconData get imageSearchOutline => iconMap['imageSearchOutline']!;
-  static IconData get imageSizeSelectActual => iconMap['imageSizeSelectActual']!;
+  static IconData get imageSizeSelectActual =>
+      iconMap['imageSizeSelectActual']!;
   static IconData get imageSizeSelectLarge => iconMap['imageSizeSelectLarge']!;
   static IconData get imageSizeSelectSmall => iconMap['imageSizeSelectSmall']!;
   static IconData get imageSync => iconMap['imageSync']!;
@@ -3911,7 +4395,8 @@ class MdiIcons {
   static IconData get import => iconMap['import']!;
   static IconData get inbox => iconMap['inbox']!;
   static IconData get inboxArrowDown => iconMap['inboxArrowDown']!;
-  static IconData get inboxArrowDownOutline => iconMap['inboxArrowDownOutline']!;
+  static IconData get inboxArrowDownOutline =>
+      iconMap['inboxArrowDownOutline']!;
   static IconData get inboxArrowUp => iconMap['inboxArrowUp']!;
   static IconData get inboxArrowUpOutline => iconMap['inboxArrowUpOutline']!;
   static IconData get inboxFull => iconMap['inboxFull']!;
@@ -3929,24 +4414,35 @@ class MdiIcons {
   static IconData get infinity => iconMap['infinity']!;
   static IconData get information => iconMap['information']!;
   static IconData get informationBox => iconMap['informationBox']!;
-  static IconData get informationBoxOutline => iconMap['informationBoxOutline']!;
+  static IconData get informationBoxOutline =>
+      iconMap['informationBoxOutline']!;
   static IconData get informationOff => iconMap['informationOff']!;
-  static IconData get informationOffOutline => iconMap['informationOffOutline']!;
+  static IconData get informationOffOutline =>
+      iconMap['informationOffOutline']!;
   static IconData get informationOutline => iconMap['informationOutline']!;
   static IconData get informationSlabBox => iconMap['informationSlabBox']!;
-  static IconData get informationSlabBoxOutline => iconMap['informationSlabBoxOutline']!;
-  static IconData get informationSlabCircle => iconMap['informationSlabCircle']!;
-  static IconData get informationSlabCircleOutline => iconMap['informationSlabCircleOutline']!;
-  static IconData get informationSlabSymbol => iconMap['informationSlabSymbol']!;
+  static IconData get informationSlabBoxOutline =>
+      iconMap['informationSlabBoxOutline']!;
+  static IconData get informationSlabCircle =>
+      iconMap['informationSlabCircle']!;
+  static IconData get informationSlabCircleOutline =>
+      iconMap['informationSlabCircleOutline']!;
+  static IconData get informationSlabSymbol =>
+      iconMap['informationSlabSymbol']!;
   static IconData get informationSymbol => iconMap['informationSymbol']!;
   static IconData get informationVariant => iconMap['informationVariant']!;
-  static IconData get informationVariantBox => iconMap['informationVariantBox']!;
-  static IconData get informationVariantBoxOutline => iconMap['informationVariantBoxOutline']!;
-  static IconData get informationVariantCircle => iconMap['informationVariantCircle']!;
-  static IconData get informationVariantCircleOutline => iconMap['informationVariantCircleOutline']!;
+  static IconData get informationVariantBox =>
+      iconMap['informationVariantBox']!;
+  static IconData get informationVariantBoxOutline =>
+      iconMap['informationVariantBoxOutline']!;
+  static IconData get informationVariantCircle =>
+      iconMap['informationVariantCircle']!;
+  static IconData get informationVariantCircleOutline =>
+      iconMap['informationVariantCircleOutline']!;
   static IconData get instagram => iconMap['instagram']!;
   static IconData get instrumentTriangle => iconMap['instrumentTriangle']!;
-  static IconData get integratedCircuitChip => iconMap['integratedCircuitChip']!;
+  static IconData get integratedCircuitChip =>
+      iconMap['integratedCircuitChip']!;
   static IconData get invertColors => iconMap['invertColors']!;
   static IconData get invertColorsOff => iconMap['invertColorsOff']!;
   static IconData get iobroker => iconMap['iobroker']!;
@@ -4021,7 +4517,8 @@ class MdiIcons {
   static IconData get keyboardOutline => iconMap['keyboardOutline']!;
   static IconData get keyboardReturn => iconMap['keyboardReturn']!;
   static IconData get keyboardSettings => iconMap['keyboardSettings']!;
-  static IconData get keyboardSettingsOutline => iconMap['keyboardSettingsOutline']!;
+  static IconData get keyboardSettingsOutline =>
+      iconMap['keyboardSettingsOutline']!;
   static IconData get keyboardSpace => iconMap['keyboardSpace']!;
   static IconData get keyboardTab => iconMap['keyboardTab']!;
   static IconData get keyboardTabReverse => iconMap['keyboardTabReverse']!;
@@ -4063,7 +4560,8 @@ class MdiIcons {
   static IconData get landFields => iconMap['landFields']!;
   static IconData get landPlots => iconMap['landPlots']!;
   static IconData get landPlotsCircle => iconMap['landPlotsCircle']!;
-  static IconData get landPlotsCircleVariant => iconMap['landPlotsCircleVariant']!;
+  static IconData get landPlotsCircleVariant =>
+      iconMap['landPlotsCircleVariant']!;
   static IconData get landPlotsMarker => iconMap['landPlotsMarker']!;
   static IconData get landRowsHorizontal => iconMap['landRowsHorizontal']!;
   static IconData get landRowsVertical => iconMap['landRowsVertical']!;
@@ -4082,7 +4580,8 @@ class MdiIcons {
   static IconData get languageKotlin => iconMap['languageKotlin']!;
   static IconData get languageLua => iconMap['languageLua']!;
   static IconData get languageMarkdown => iconMap['languageMarkdown']!;
-  static IconData get languageMarkdownOutline => iconMap['languageMarkdownOutline']!;
+  static IconData get languageMarkdownOutline =>
+      iconMap['languageMarkdownOutline']!;
   static IconData get languagePhp => iconMap['languagePhp']!;
   static IconData get languagePython => iconMap['languagePython']!;
   static IconData get languageR => iconMap['languageR']!;
@@ -4148,25 +4647,34 @@ class MdiIcons {
   static IconData get lightSwitchOff => iconMap['lightSwitchOff']!;
   static IconData get lightbulb => iconMap['lightbulb']!;
   static IconData get lightbulbAlert => iconMap['lightbulbAlert']!;
-  static IconData get lightbulbAlertOutline => iconMap['lightbulbAlertOutline']!;
+  static IconData get lightbulbAlertOutline =>
+      iconMap['lightbulbAlertOutline']!;
   static IconData get lightbulbAuto => iconMap['lightbulbAuto']!;
   static IconData get lightbulbAutoOutline => iconMap['lightbulbAutoOutline']!;
   static IconData get lightbulbCfl => iconMap['lightbulbCfl']!;
   static IconData get lightbulbCflOff => iconMap['lightbulbCflOff']!;
   static IconData get lightbulbCflSpiral => iconMap['lightbulbCflSpiral']!;
-  static IconData get lightbulbCflSpiralOff => iconMap['lightbulbCflSpiralOff']!;
-  static IconData get lightbulbFluorescentTube => iconMap['lightbulbFluorescentTube']!;
-  static IconData get lightbulbFluorescentTubeOutline => iconMap['lightbulbFluorescentTubeOutline']!;
+  static IconData get lightbulbCflSpiralOff =>
+      iconMap['lightbulbCflSpiralOff']!;
+  static IconData get lightbulbFluorescentTube =>
+      iconMap['lightbulbFluorescentTube']!;
+  static IconData get lightbulbFluorescentTubeOutline =>
+      iconMap['lightbulbFluorescentTubeOutline']!;
   static IconData get lightbulbGroup => iconMap['lightbulbGroup']!;
   static IconData get lightbulbGroupOff => iconMap['lightbulbGroupOff']!;
-  static IconData get lightbulbGroupOffOutline => iconMap['lightbulbGroupOffOutline']!;
-  static IconData get lightbulbGroupOutline => iconMap['lightbulbGroupOutline']!;
+  static IconData get lightbulbGroupOffOutline =>
+      iconMap['lightbulbGroupOffOutline']!;
+  static IconData get lightbulbGroupOutline =>
+      iconMap['lightbulbGroupOutline']!;
   static IconData get lightbulbMultiple => iconMap['lightbulbMultiple']!;
   static IconData get lightbulbMultipleOff => iconMap['lightbulbMultipleOff']!;
-  static IconData get lightbulbMultipleOffOutline => iconMap['lightbulbMultipleOffOutline']!;
-  static IconData get lightbulbMultipleOutline => iconMap['lightbulbMultipleOutline']!;
+  static IconData get lightbulbMultipleOffOutline =>
+      iconMap['lightbulbMultipleOffOutline']!;
+  static IconData get lightbulbMultipleOutline =>
+      iconMap['lightbulbMultipleOutline']!;
   static IconData get lightbulbNight => iconMap['lightbulbNight']!;
-  static IconData get lightbulbNightOutline => iconMap['lightbulbNightOutline']!;
+  static IconData get lightbulbNightOutline =>
+      iconMap['lightbulbNightOutline']!;
   static IconData get lightbulbOff => iconMap['lightbulbOff']!;
   static IconData get lightbulbOffOutline => iconMap['lightbulbOffOutline']!;
   static IconData get lightbulbOn => iconMap['lightbulbOn']!;
@@ -4182,11 +4690,13 @@ class MdiIcons {
   static IconData get lightbulbOnOutline => iconMap['lightbulbOnOutline']!;
   static IconData get lightbulbOutline => iconMap['lightbulbOutline']!;
   static IconData get lightbulbQuestion => iconMap['lightbulbQuestion']!;
-  static IconData get lightbulbQuestionOutline => iconMap['lightbulbQuestionOutline']!;
+  static IconData get lightbulbQuestionOutline =>
+      iconMap['lightbulbQuestionOutline']!;
   static IconData get lightbulbSpot => iconMap['lightbulbSpot']!;
   static IconData get lightbulbSpotOff => iconMap['lightbulbSpotOff']!;
   static IconData get lightbulbVariant => iconMap['lightbulbVariant']!;
-  static IconData get lightbulbVariantOutline => iconMap['lightbulbVariantOutline']!;
+  static IconData get lightbulbVariantOutline =>
+      iconMap['lightbulbVariantOutline']!;
   static IconData get lighthouse => iconMap['lighthouse']!;
   static IconData get lighthouseOn => iconMap['lighthouseOn']!;
   static IconData get lightningBolt => iconMap['lightningBolt']!;
@@ -4198,7 +4708,8 @@ class MdiIcons {
   static IconData get linkBox => iconMap['linkBox']!;
   static IconData get linkBoxOutline => iconMap['linkBoxOutline']!;
   static IconData get linkBoxVariant => iconMap['linkBoxVariant']!;
-  static IconData get linkBoxVariantOutline => iconMap['linkBoxVariantOutline']!;
+  static IconData get linkBoxVariantOutline =>
+      iconMap['linkBoxVariantOutline']!;
   static IconData get linkLock => iconMap['linkLock']!;
   static IconData get linkOff => iconMap['linkOff']!;
   static IconData get linkPlus => iconMap['linkPlus']!;
@@ -4241,16 +4752,21 @@ class MdiIcons {
   static IconData get lockOpenPlus => iconMap['lockOpenPlus']!;
   static IconData get lockOpenPlusOutline => iconMap['lockOpenPlusOutline']!;
   static IconData get lockOpenRemove => iconMap['lockOpenRemove']!;
-  static IconData get lockOpenRemoveOutline => iconMap['lockOpenRemoveOutline']!;
+  static IconData get lockOpenRemoveOutline =>
+      iconMap['lockOpenRemoveOutline']!;
   static IconData get lockOpenVariant => iconMap['lockOpenVariant']!;
-  static IconData get lockOpenVariantOutline => iconMap['lockOpenVariantOutline']!;
+  static IconData get lockOpenVariantOutline =>
+      iconMap['lockOpenVariantOutline']!;
   static IconData get lockOutline => iconMap['lockOutline']!;
   static IconData get lockPattern => iconMap['lockPattern']!;
   static IconData get lockPercent => iconMap['lockPercent']!;
   static IconData get lockPercentOpen => iconMap['lockPercentOpen']!;
-  static IconData get lockPercentOpenOutline => iconMap['lockPercentOpenOutline']!;
-  static IconData get lockPercentOpenVariant => iconMap['lockPercentOpenVariant']!;
-  static IconData get lockPercentOpenVariantOutline => iconMap['lockPercentOpenVariantOutline']!;
+  static IconData get lockPercentOpenOutline =>
+      iconMap['lockPercentOpenOutline']!;
+  static IconData get lockPercentOpenVariant =>
+      iconMap['lockPercentOpenVariant']!;
+  static IconData get lockPercentOpenVariantOutline =>
+      iconMap['lockPercentOpenVariantOutline']!;
   static IconData get lockPercentOutline => iconMap['lockPercentOutline']!;
   static IconData get lockPlus => iconMap['lockPlus']!;
   static IconData get lockPlusOutline => iconMap['lockPlusOutline']!;
@@ -4310,20 +4826,25 @@ class MdiIcons {
   static IconData get mapLegend => iconMap['mapLegend']!;
   static IconData get mapMarker => iconMap['mapMarker']!;
   static IconData get mapMarkerAccount => iconMap['mapMarkerAccount']!;
-  static IconData get mapMarkerAccountOutline => iconMap['mapMarkerAccountOutline']!;
+  static IconData get mapMarkerAccountOutline =>
+      iconMap['mapMarkerAccountOutline']!;
   static IconData get mapMarkerAlert => iconMap['mapMarkerAlert']!;
-  static IconData get mapMarkerAlertOutline => iconMap['mapMarkerAlertOutline']!;
+  static IconData get mapMarkerAlertOutline =>
+      iconMap['mapMarkerAlertOutline']!;
   static IconData get mapMarkerCheck => iconMap['mapMarkerCheck']!;
-  static IconData get mapMarkerCheckOutline => iconMap['mapMarkerCheckOutline']!;
+  static IconData get mapMarkerCheckOutline =>
+      iconMap['mapMarkerCheckOutline']!;
   static IconData get mapMarkerCircle => iconMap['mapMarkerCircle']!;
   static IconData get mapMarkerDistance => iconMap['mapMarkerDistance']!;
   static IconData get mapMarkerDown => iconMap['mapMarkerDown']!;
   static IconData get mapMarkerLeft => iconMap['mapMarkerLeft']!;
   static IconData get mapMarkerLeftOutline => iconMap['mapMarkerLeftOutline']!;
   static IconData get mapMarkerMinus => iconMap['mapMarkerMinus']!;
-  static IconData get mapMarkerMinusOutline => iconMap['mapMarkerMinusOutline']!;
+  static IconData get mapMarkerMinusOutline =>
+      iconMap['mapMarkerMinusOutline']!;
   static IconData get mapMarkerMultiple => iconMap['mapMarkerMultiple']!;
-  static IconData get mapMarkerMultipleOutline => iconMap['mapMarkerMultipleOutline']!;
+  static IconData get mapMarkerMultipleOutline =>
+      iconMap['mapMarkerMultipleOutline']!;
   static IconData get mapMarkerOff => iconMap['mapMarkerOff']!;
   static IconData get mapMarkerOffOutline => iconMap['mapMarkerOffOutline']!;
   static IconData get mapMarkerOutline => iconMap['mapMarkerOutline']!;
@@ -4331,14 +4852,19 @@ class MdiIcons {
   static IconData get mapMarkerPlus => iconMap['mapMarkerPlus']!;
   static IconData get mapMarkerPlusOutline => iconMap['mapMarkerPlusOutline']!;
   static IconData get mapMarkerQuestion => iconMap['mapMarkerQuestion']!;
-  static IconData get mapMarkerQuestionOutline => iconMap['mapMarkerQuestionOutline']!;
+  static IconData get mapMarkerQuestionOutline =>
+      iconMap['mapMarkerQuestionOutline']!;
   static IconData get mapMarkerRadius => iconMap['mapMarkerRadius']!;
-  static IconData get mapMarkerRadiusOutline => iconMap['mapMarkerRadiusOutline']!;
+  static IconData get mapMarkerRadiusOutline =>
+      iconMap['mapMarkerRadiusOutline']!;
   static IconData get mapMarkerRemove => iconMap['mapMarkerRemove']!;
-  static IconData get mapMarkerRemoveOutline => iconMap['mapMarkerRemoveOutline']!;
-  static IconData get mapMarkerRemoveVariant => iconMap['mapMarkerRemoveVariant']!;
+  static IconData get mapMarkerRemoveOutline =>
+      iconMap['mapMarkerRemoveOutline']!;
+  static IconData get mapMarkerRemoveVariant =>
+      iconMap['mapMarkerRemoveVariant']!;
   static IconData get mapMarkerRight => iconMap['mapMarkerRight']!;
-  static IconData get mapMarkerRightOutline => iconMap['mapMarkerRightOutline']!;
+  static IconData get mapMarkerRightOutline =>
+      iconMap['mapMarkerRightOutline']!;
   static IconData get mapMarkerStar => iconMap['mapMarkerStar']!;
   static IconData get mapMarkerStarOutline => iconMap['mapMarkerStarOutline']!;
   static IconData get mapMarkerUp => iconMap['mapMarkerUp']!;
@@ -4392,13 +4918,16 @@ class MdiIcons {
   static IconData get messageAlert => iconMap['messageAlert']!;
   static IconData get messageAlertOutline => iconMap['messageAlertOutline']!;
   static IconData get messageArrowLeft => iconMap['messageArrowLeft']!;
-  static IconData get messageArrowLeftOutline => iconMap['messageArrowLeftOutline']!;
+  static IconData get messageArrowLeftOutline =>
+      iconMap['messageArrowLeftOutline']!;
   static IconData get messageArrowRight => iconMap['messageArrowRight']!;
-  static IconData get messageArrowRightOutline => iconMap['messageArrowRightOutline']!;
+  static IconData get messageArrowRightOutline =>
+      iconMap['messageArrowRightOutline']!;
   static IconData get messageBadge => iconMap['messageBadge']!;
   static IconData get messageBadgeOutline => iconMap['messageBadgeOutline']!;
   static IconData get messageBookmark => iconMap['messageBookmark']!;
-  static IconData get messageBookmarkOutline => iconMap['messageBookmarkOutline']!;
+  static IconData get messageBookmarkOutline =>
+      iconMap['messageBookmarkOutline']!;
   static IconData get messageBulleted => iconMap['messageBulleted']!;
   static IconData get messageBulletedOff => iconMap['messageBulletedOff']!;
   static IconData get messageCheck => iconMap['messageCheck']!;
@@ -4422,24 +4951,31 @@ class MdiIcons {
   static IconData get messagePlus => iconMap['messagePlus']!;
   static IconData get messagePlusOutline => iconMap['messagePlusOutline']!;
   static IconData get messageProcessing => iconMap['messageProcessing']!;
-  static IconData get messageProcessingOutline => iconMap['messageProcessingOutline']!;
+  static IconData get messageProcessingOutline =>
+      iconMap['messageProcessingOutline']!;
   static IconData get messageQuestion => iconMap['messageQuestion']!;
-  static IconData get messageQuestionOutline => iconMap['messageQuestionOutline']!;
+  static IconData get messageQuestionOutline =>
+      iconMap['messageQuestionOutline']!;
   static IconData get messageReply => iconMap['messageReply']!;
   static IconData get messageReplyOutline => iconMap['messageReplyOutline']!;
   static IconData get messageReplyText => iconMap['messageReplyText']!;
-  static IconData get messageReplyTextOutline => iconMap['messageReplyTextOutline']!;
+  static IconData get messageReplyTextOutline =>
+      iconMap['messageReplyTextOutline']!;
   static IconData get messageSettings => iconMap['messageSettings']!;
-  static IconData get messageSettingsOutline => iconMap['messageSettingsOutline']!;
+  static IconData get messageSettingsOutline =>
+      iconMap['messageSettingsOutline']!;
   static IconData get messageStar => iconMap['messageStar']!;
   static IconData get messageStarOutline => iconMap['messageStarOutline']!;
   static IconData get messageText => iconMap['messageText']!;
   static IconData get messageTextClock => iconMap['messageTextClock']!;
-  static IconData get messageTextClockOutline => iconMap['messageTextClockOutline']!;
+  static IconData get messageTextClockOutline =>
+      iconMap['messageTextClockOutline']!;
   static IconData get messageTextFast => iconMap['messageTextFast']!;
-  static IconData get messageTextFastOutline => iconMap['messageTextFastOutline']!;
+  static IconData get messageTextFastOutline =>
+      iconMap['messageTextFastOutline']!;
   static IconData get messageTextLock => iconMap['messageTextLock']!;
-  static IconData get messageTextLockOutline => iconMap['messageTextLockOutline']!;
+  static IconData get messageTextLockOutline =>
+      iconMap['messageTextLockOutline']!;
   static IconData get messageTextOutline => iconMap['messageTextOutline']!;
   static IconData get messageVideo => iconMap['messageVideo']!;
   static IconData get meteor => iconMap['meteor']!;
@@ -4458,7 +4994,8 @@ class MdiIcons {
   static IconData get microphoneOutline => iconMap['microphoneOutline']!;
   static IconData get microphonePlus => iconMap['microphonePlus']!;
   static IconData get microphoneQuestion => iconMap['microphoneQuestion']!;
-  static IconData get microphoneQuestionOutline => iconMap['microphoneQuestionOutline']!;
+  static IconData get microphoneQuestionOutline =>
+      iconMap['microphoneQuestionOutline']!;
   static IconData get microphoneSettings => iconMap['microphoneSettings']!;
   static IconData get microphoneVariant => iconMap['microphoneVariant']!;
   static IconData get microphoneVariantOff => iconMap['microphoneVariantOff']!;
@@ -4471,7 +5008,8 @@ class MdiIcons {
   static IconData get microsoftDynamics365 => iconMap['microsoftDynamics365']!;
   static IconData get microsoftEdge => iconMap['microsoftEdge']!;
   static IconData get microsoftExcel => iconMap['microsoftExcel']!;
-  static IconData get microsoftInternetExplorer => iconMap['microsoftInternetExplorer']!;
+  static IconData get microsoftInternetExplorer =>
+      iconMap['microsoftInternetExplorer']!;
   static IconData get microsoftOffice => iconMap['microsoftOffice']!;
   static IconData get microsoftOnedrive => iconMap['microsoftOnedrive']!;
   static IconData get microsoftOnenote => iconMap['microsoftOnenote']!;
@@ -4479,23 +5017,37 @@ class MdiIcons {
   static IconData get microsoftPowerpoint => iconMap['microsoftPowerpoint']!;
   static IconData get microsoftSharepoint => iconMap['microsoftSharepoint']!;
   static IconData get microsoftTeams => iconMap['microsoftTeams']!;
-  static IconData get microsoftVisualStudio => iconMap['microsoftVisualStudio']!;
-  static IconData get microsoftVisualStudioCode => iconMap['microsoftVisualStudioCode']!;
+  static IconData get microsoftVisualStudio =>
+      iconMap['microsoftVisualStudio']!;
+  static IconData get microsoftVisualStudioCode =>
+      iconMap['microsoftVisualStudioCode']!;
   static IconData get microsoftWindows => iconMap['microsoftWindows']!;
-  static IconData get microsoftWindowsClassic => iconMap['microsoftWindowsClassic']!;
+  static IconData get microsoftWindowsClassic =>
+      iconMap['microsoftWindowsClassic']!;
   static IconData get microsoftWord => iconMap['microsoftWord']!;
   static IconData get microsoftXbox => iconMap['microsoftXbox']!;
-  static IconData get microsoftXboxController => iconMap['microsoftXboxController']!;
-  static IconData get microsoftXboxControllerBatteryAlert => iconMap['microsoftXboxControllerBatteryAlert']!;
-  static IconData get microsoftXboxControllerBatteryCharging => iconMap['microsoftXboxControllerBatteryCharging']!;
-  static IconData get microsoftXboxControllerBatteryEmpty => iconMap['microsoftXboxControllerBatteryEmpty']!;
-  static IconData get microsoftXboxControllerBatteryFull => iconMap['microsoftXboxControllerBatteryFull']!;
-  static IconData get microsoftXboxControllerBatteryLow => iconMap['microsoftXboxControllerBatteryLow']!;
-  static IconData get microsoftXboxControllerBatteryMedium => iconMap['microsoftXboxControllerBatteryMedium']!;
-  static IconData get microsoftXboxControllerBatteryUnknown => iconMap['microsoftXboxControllerBatteryUnknown']!;
-  static IconData get microsoftXboxControllerMenu => iconMap['microsoftXboxControllerMenu']!;
-  static IconData get microsoftXboxControllerOff => iconMap['microsoftXboxControllerOff']!;
-  static IconData get microsoftXboxControllerView => iconMap['microsoftXboxControllerView']!;
+  static IconData get microsoftXboxController =>
+      iconMap['microsoftXboxController']!;
+  static IconData get microsoftXboxControllerBatteryAlert =>
+      iconMap['microsoftXboxControllerBatteryAlert']!;
+  static IconData get microsoftXboxControllerBatteryCharging =>
+      iconMap['microsoftXboxControllerBatteryCharging']!;
+  static IconData get microsoftXboxControllerBatteryEmpty =>
+      iconMap['microsoftXboxControllerBatteryEmpty']!;
+  static IconData get microsoftXboxControllerBatteryFull =>
+      iconMap['microsoftXboxControllerBatteryFull']!;
+  static IconData get microsoftXboxControllerBatteryLow =>
+      iconMap['microsoftXboxControllerBatteryLow']!;
+  static IconData get microsoftXboxControllerBatteryMedium =>
+      iconMap['microsoftXboxControllerBatteryMedium']!;
+  static IconData get microsoftXboxControllerBatteryUnknown =>
+      iconMap['microsoftXboxControllerBatteryUnknown']!;
+  static IconData get microsoftXboxControllerMenu =>
+      iconMap['microsoftXboxControllerMenu']!;
+  static IconData get microsoftXboxControllerOff =>
+      iconMap['microsoftXboxControllerOff']!;
+  static IconData get microsoftXboxControllerView =>
+      iconMap['microsoftXboxControllerView']!;
   static IconData get microwave => iconMap['microwave']!;
   static IconData get microwaveOff => iconMap['microwaveOff']!;
   static IconData get middleware => iconMap['middleware']!;
@@ -4509,13 +5061,16 @@ class MdiIcons {
   static IconData get minus => iconMap['minus']!;
   static IconData get minusBox => iconMap['minusBox']!;
   static IconData get minusBoxMultiple => iconMap['minusBoxMultiple']!;
-  static IconData get minusBoxMultipleOutline => iconMap['minusBoxMultipleOutline']!;
+  static IconData get minusBoxMultipleOutline =>
+      iconMap['minusBoxMultipleOutline']!;
   static IconData get minusBoxOutline => iconMap['minusBoxOutline']!;
   static IconData get minusCircle => iconMap['minusCircle']!;
   static IconData get minusCircleMultiple => iconMap['minusCircleMultiple']!;
-  static IconData get minusCircleMultipleOutline => iconMap['minusCircleMultipleOutline']!;
+  static IconData get minusCircleMultipleOutline =>
+      iconMap['minusCircleMultipleOutline']!;
   static IconData get minusCircleOff => iconMap['minusCircleOff']!;
-  static IconData get minusCircleOffOutline => iconMap['minusCircleOffOutline']!;
+  static IconData get minusCircleOffOutline =>
+      iconMap['minusCircleOffOutline']!;
   static IconData get minusCircleOutline => iconMap['minusCircleOutline']!;
   static IconData get minusNetwork => iconMap['minusNetwork']!;
   static IconData get minusNetworkOutline => iconMap['minusNetworkOutline']!;
@@ -4531,7 +5086,8 @@ class MdiIcons {
   static IconData get monitor => iconMap['monitor']!;
   static IconData get monitorAccount => iconMap['monitorAccount']!;
   static IconData get monitorArrowDown => iconMap['monitorArrowDown']!;
-  static IconData get monitorArrowDownVariant => iconMap['monitorArrowDownVariant']!;
+  static IconData get monitorArrowDownVariant =>
+      iconMap['monitorArrowDownVariant']!;
   static IconData get monitorCellphone => iconMap['monitorCellphone']!;
   static IconData get monitorCellphoneStar => iconMap['monitorCellphoneStar']!;
   static IconData get monitorDashboard => iconMap['monitorDashboard']!;
@@ -4603,13 +5159,15 @@ class MdiIcons {
   static IconData get movieOffOutline => iconMap['movieOffOutline']!;
   static IconData get movieOpen => iconMap['movieOpen']!;
   static IconData get movieOpenCheck => iconMap['movieOpenCheck']!;
-  static IconData get movieOpenCheckOutline => iconMap['movieOpenCheckOutline']!;
+  static IconData get movieOpenCheckOutline =>
+      iconMap['movieOpenCheckOutline']!;
   static IconData get movieOpenCog => iconMap['movieOpenCog']!;
   static IconData get movieOpenCogOutline => iconMap['movieOpenCogOutline']!;
   static IconData get movieOpenEdit => iconMap['movieOpenEdit']!;
   static IconData get movieOpenEditOutline => iconMap['movieOpenEditOutline']!;
   static IconData get movieOpenMinus => iconMap['movieOpenMinus']!;
-  static IconData get movieOpenMinusOutline => iconMap['movieOpenMinusOutline']!;
+  static IconData get movieOpenMinusOutline =>
+      iconMap['movieOpenMinusOutline']!;
   static IconData get movieOpenOff => iconMap['movieOpenOff']!;
   static IconData get movieOpenOffOutline => iconMap['movieOpenOffOutline']!;
   static IconData get movieOpenOutline => iconMap['movieOpenOutline']!;
@@ -4618,9 +5176,11 @@ class MdiIcons {
   static IconData get movieOpenPlus => iconMap['movieOpenPlus']!;
   static IconData get movieOpenPlusOutline => iconMap['movieOpenPlusOutline']!;
   static IconData get movieOpenRemove => iconMap['movieOpenRemove']!;
-  static IconData get movieOpenRemoveOutline => iconMap['movieOpenRemoveOutline']!;
+  static IconData get movieOpenRemoveOutline =>
+      iconMap['movieOpenRemoveOutline']!;
   static IconData get movieOpenSettings => iconMap['movieOpenSettings']!;
-  static IconData get movieOpenSettingsOutline => iconMap['movieOpenSettingsOutline']!;
+  static IconData get movieOpenSettingsOutline =>
+      iconMap['movieOpenSettingsOutline']!;
   static IconData get movieOpenStar => iconMap['movieOpenStar']!;
   static IconData get movieOpenStarOutline => iconMap['movieOpenStarOutline']!;
   static IconData get movieOutline => iconMap['movieOutline']!;
@@ -4651,14 +5211,18 @@ class MdiIcons {
   static IconData get mushroomOffOutline => iconMap['mushroomOffOutline']!;
   static IconData get mushroomOutline => iconMap['mushroomOutline']!;
   static IconData get music => iconMap['music']!;
-  static IconData get musicAccidentalDoubleFlat => iconMap['musicAccidentalDoubleFlat']!;
-  static IconData get musicAccidentalDoubleSharp => iconMap['musicAccidentalDoubleSharp']!;
+  static IconData get musicAccidentalDoubleFlat =>
+      iconMap['musicAccidentalDoubleFlat']!;
+  static IconData get musicAccidentalDoubleSharp =>
+      iconMap['musicAccidentalDoubleSharp']!;
   static IconData get musicAccidentalFlat => iconMap['musicAccidentalFlat']!;
-  static IconData get musicAccidentalNatural => iconMap['musicAccidentalNatural']!;
+  static IconData get musicAccidentalNatural =>
+      iconMap['musicAccidentalNatural']!;
   static IconData get musicAccidentalSharp => iconMap['musicAccidentalSharp']!;
   static IconData get musicBox => iconMap['musicBox']!;
   static IconData get musicBoxMultiple => iconMap['musicBoxMultiple']!;
-  static IconData get musicBoxMultipleOutline => iconMap['musicBoxMultipleOutline']!;
+  static IconData get musicBoxMultipleOutline =>
+      iconMap['musicBoxMultipleOutline']!;
   static IconData get musicBoxOutline => iconMap['musicBoxOutline']!;
   static IconData get musicCircle => iconMap['musicCircle']!;
   static IconData get musicCircleOutline => iconMap['musicCircleOutline']!;
@@ -4667,9 +5231,11 @@ class MdiIcons {
   static IconData get musicClefTreble => iconMap['musicClefTreble']!;
   static IconData get musicNote => iconMap['musicNote']!;
   static IconData get musicNoteBluetooth => iconMap['musicNoteBluetooth']!;
-  static IconData get musicNoteBluetoothOff => iconMap['musicNoteBluetoothOff']!;
+  static IconData get musicNoteBluetoothOff =>
+      iconMap['musicNoteBluetoothOff']!;
   static IconData get musicNoteEighth => iconMap['musicNoteEighth']!;
-  static IconData get musicNoteEighthDotted => iconMap['musicNoteEighthDotted']!;
+  static IconData get musicNoteEighthDotted =>
+      iconMap['musicNoteEighthDotted']!;
   static IconData get musicNoteHalf => iconMap['musicNoteHalf']!;
   static IconData get musicNoteHalfDotted => iconMap['musicNoteHalfDotted']!;
   static IconData get musicNoteMinus => iconMap['musicNoteMinus']!;
@@ -4678,9 +5244,11 @@ class MdiIcons {
   static IconData get musicNoteOutline => iconMap['musicNoteOutline']!;
   static IconData get musicNotePlus => iconMap['musicNotePlus']!;
   static IconData get musicNoteQuarter => iconMap['musicNoteQuarter']!;
-  static IconData get musicNoteQuarterDotted => iconMap['musicNoteQuarterDotted']!;
+  static IconData get musicNoteQuarterDotted =>
+      iconMap['musicNoteQuarterDotted']!;
   static IconData get musicNoteSixteenth => iconMap['musicNoteSixteenth']!;
-  static IconData get musicNoteSixteenthDotted => iconMap['musicNoteSixteenthDotted']!;
+  static IconData get musicNoteSixteenthDotted =>
+      iconMap['musicNoteSixteenthDotted']!;
   static IconData get musicNoteWhole => iconMap['musicNoteWhole']!;
   static IconData get musicNoteWholeDotted => iconMap['musicNoteWholeDotted']!;
   static IconData get musicOff => iconMap['musicOff']!;
@@ -4700,7 +5268,8 @@ class MdiIcons {
   static IconData get navigation => iconMap['navigation']!;
   static IconData get navigationOutline => iconMap['navigationOutline']!;
   static IconData get navigationVariant => iconMap['navigationVariant']!;
-  static IconData get navigationVariantOutline => iconMap['navigationVariantOutline']!;
+  static IconData get navigationVariantOutline =>
+      iconMap['navigationVariantOutline']!;
   static IconData get nearMe => iconMap['nearMe']!;
   static IconData get necklace => iconMap['necklace']!;
   static IconData get needle => iconMap['needle']!;
@@ -4712,17 +5281,23 @@ class MdiIcons {
   static IconData get networkOutline => iconMap['networkOutline']!;
   static IconData get networkPos => iconMap['networkPos']!;
   static IconData get networkStrength1 => iconMap['networkStrength1']!;
-  static IconData get networkStrength1Alert => iconMap['networkStrength1Alert']!;
+  static IconData get networkStrength1Alert =>
+      iconMap['networkStrength1Alert']!;
   static IconData get networkStrength2 => iconMap['networkStrength2']!;
-  static IconData get networkStrength2Alert => iconMap['networkStrength2Alert']!;
+  static IconData get networkStrength2Alert =>
+      iconMap['networkStrength2Alert']!;
   static IconData get networkStrength3 => iconMap['networkStrength3']!;
-  static IconData get networkStrength3Alert => iconMap['networkStrength3Alert']!;
+  static IconData get networkStrength3Alert =>
+      iconMap['networkStrength3Alert']!;
   static IconData get networkStrength4 => iconMap['networkStrength4']!;
-  static IconData get networkStrength4Alert => iconMap['networkStrength4Alert']!;
+  static IconData get networkStrength4Alert =>
+      iconMap['networkStrength4Alert']!;
   static IconData get networkStrength4Cog => iconMap['networkStrength4Cog']!;
   static IconData get networkStrengthOff => iconMap['networkStrengthOff']!;
-  static IconData get networkStrengthOffOutline => iconMap['networkStrengthOffOutline']!;
-  static IconData get networkStrengthOutline => iconMap['networkStrengthOutline']!;
+  static IconData get networkStrengthOffOutline =>
+      iconMap['networkStrengthOffOutline']!;
+  static IconData get networkStrengthOutline =>
+      iconMap['networkStrengthOutline']!;
   static IconData get newBox => iconMap['newBox']!;
   static IconData get newspaper => iconMap['newspaper']!;
   static IconData get newspaperCheck => iconMap['newspaperCheck']!;
@@ -4730,9 +5305,12 @@ class MdiIcons {
   static IconData get newspaperPlus => iconMap['newspaperPlus']!;
   static IconData get newspaperRemove => iconMap['newspaperRemove']!;
   static IconData get newspaperVariant => iconMap['newspaperVariant']!;
-  static IconData get newspaperVariantMultiple => iconMap['newspaperVariantMultiple']!;
-  static IconData get newspaperVariantMultipleOutline => iconMap['newspaperVariantMultipleOutline']!;
-  static IconData get newspaperVariantOutline => iconMap['newspaperVariantOutline']!;
+  static IconData get newspaperVariantMultiple =>
+      iconMap['newspaperVariantMultiple']!;
+  static IconData get newspaperVariantMultipleOutline =>
+      iconMap['newspaperVariantMultipleOutline']!;
+  static IconData get newspaperVariantOutline =>
+      iconMap['newspaperVariantOutline']!;
   static IconData get nfc => iconMap['nfc']!;
   static IconData get nfcSearchVariant => iconMap['nfcSearchVariant']!;
   static IconData get nfcTap => iconMap['nfcTap']!;
@@ -4784,7 +5362,8 @@ class MdiIcons {
   static IconData get notebookPlus => iconMap['notebookPlus']!;
   static IconData get notebookPlusOutline => iconMap['notebookPlusOutline']!;
   static IconData get notebookRemove => iconMap['notebookRemove']!;
-  static IconData get notebookRemoveOutline => iconMap['notebookRemoveOutline']!;
+  static IconData get notebookRemoveOutline =>
+      iconMap['notebookRemoveOutline']!;
   static IconData get notificationClearAll => iconMap['notificationClearAll']!;
   static IconData get npm => iconMap['npm']!;
   static IconData get nuke => iconMap['nuke']!;
@@ -4793,87 +5372,113 @@ class MdiIcons {
   static IconData get numeric0 => iconMap['numeric0']!;
   static IconData get numeric0Box => iconMap['numeric0Box']!;
   static IconData get numeric0BoxMultiple => iconMap['numeric0BoxMultiple']!;
-  static IconData get numeric0BoxMultipleOutline => iconMap['numeric0BoxMultipleOutline']!;
+  static IconData get numeric0BoxMultipleOutline =>
+      iconMap['numeric0BoxMultipleOutline']!;
   static IconData get numeric0BoxOutline => iconMap['numeric0BoxOutline']!;
   static IconData get numeric0Circle => iconMap['numeric0Circle']!;
-  static IconData get numeric0CircleOutline => iconMap['numeric0CircleOutline']!;
+  static IconData get numeric0CircleOutline =>
+      iconMap['numeric0CircleOutline']!;
   static IconData get numeric1 => iconMap['numeric1']!;
   static IconData get numeric1Box => iconMap['numeric1Box']!;
   static IconData get numeric1BoxMultiple => iconMap['numeric1BoxMultiple']!;
-  static IconData get numeric1BoxMultipleOutline => iconMap['numeric1BoxMultipleOutline']!;
+  static IconData get numeric1BoxMultipleOutline =>
+      iconMap['numeric1BoxMultipleOutline']!;
   static IconData get numeric1BoxOutline => iconMap['numeric1BoxOutline']!;
   static IconData get numeric1Circle => iconMap['numeric1Circle']!;
-  static IconData get numeric1CircleOutline => iconMap['numeric1CircleOutline']!;
+  static IconData get numeric1CircleOutline =>
+      iconMap['numeric1CircleOutline']!;
   static IconData get numeric10 => iconMap['numeric10']!;
   static IconData get numeric10Box => iconMap['numeric10Box']!;
   static IconData get numeric10BoxMultiple => iconMap['numeric10BoxMultiple']!;
-  static IconData get numeric10BoxMultipleOutline => iconMap['numeric10BoxMultipleOutline']!;
+  static IconData get numeric10BoxMultipleOutline =>
+      iconMap['numeric10BoxMultipleOutline']!;
   static IconData get numeric10BoxOutline => iconMap['numeric10BoxOutline']!;
   static IconData get numeric10Circle => iconMap['numeric10Circle']!;
-  static IconData get numeric10CircleOutline => iconMap['numeric10CircleOutline']!;
+  static IconData get numeric10CircleOutline =>
+      iconMap['numeric10CircleOutline']!;
   static IconData get numeric2 => iconMap['numeric2']!;
   static IconData get numeric2Box => iconMap['numeric2Box']!;
   static IconData get numeric2BoxMultiple => iconMap['numeric2BoxMultiple']!;
-  static IconData get numeric2BoxMultipleOutline => iconMap['numeric2BoxMultipleOutline']!;
+  static IconData get numeric2BoxMultipleOutline =>
+      iconMap['numeric2BoxMultipleOutline']!;
   static IconData get numeric2BoxOutline => iconMap['numeric2BoxOutline']!;
   static IconData get numeric2Circle => iconMap['numeric2Circle']!;
-  static IconData get numeric2CircleOutline => iconMap['numeric2CircleOutline']!;
+  static IconData get numeric2CircleOutline =>
+      iconMap['numeric2CircleOutline']!;
   static IconData get numeric3 => iconMap['numeric3']!;
   static IconData get numeric3Box => iconMap['numeric3Box']!;
   static IconData get numeric3BoxMultiple => iconMap['numeric3BoxMultiple']!;
-  static IconData get numeric3BoxMultipleOutline => iconMap['numeric3BoxMultipleOutline']!;
+  static IconData get numeric3BoxMultipleOutline =>
+      iconMap['numeric3BoxMultipleOutline']!;
   static IconData get numeric3BoxOutline => iconMap['numeric3BoxOutline']!;
   static IconData get numeric3Circle => iconMap['numeric3Circle']!;
-  static IconData get numeric3CircleOutline => iconMap['numeric3CircleOutline']!;
+  static IconData get numeric3CircleOutline =>
+      iconMap['numeric3CircleOutline']!;
   static IconData get numeric4 => iconMap['numeric4']!;
   static IconData get numeric4Box => iconMap['numeric4Box']!;
   static IconData get numeric4BoxMultiple => iconMap['numeric4BoxMultiple']!;
-  static IconData get numeric4BoxMultipleOutline => iconMap['numeric4BoxMultipleOutline']!;
+  static IconData get numeric4BoxMultipleOutline =>
+      iconMap['numeric4BoxMultipleOutline']!;
   static IconData get numeric4BoxOutline => iconMap['numeric4BoxOutline']!;
   static IconData get numeric4Circle => iconMap['numeric4Circle']!;
-  static IconData get numeric4CircleOutline => iconMap['numeric4CircleOutline']!;
+  static IconData get numeric4CircleOutline =>
+      iconMap['numeric4CircleOutline']!;
   static IconData get numeric5 => iconMap['numeric5']!;
   static IconData get numeric5Box => iconMap['numeric5Box']!;
   static IconData get numeric5BoxMultiple => iconMap['numeric5BoxMultiple']!;
-  static IconData get numeric5BoxMultipleOutline => iconMap['numeric5BoxMultipleOutline']!;
+  static IconData get numeric5BoxMultipleOutline =>
+      iconMap['numeric5BoxMultipleOutline']!;
   static IconData get numeric5BoxOutline => iconMap['numeric5BoxOutline']!;
   static IconData get numeric5Circle => iconMap['numeric5Circle']!;
-  static IconData get numeric5CircleOutline => iconMap['numeric5CircleOutline']!;
+  static IconData get numeric5CircleOutline =>
+      iconMap['numeric5CircleOutline']!;
   static IconData get numeric6 => iconMap['numeric6']!;
   static IconData get numeric6Box => iconMap['numeric6Box']!;
   static IconData get numeric6BoxMultiple => iconMap['numeric6BoxMultiple']!;
-  static IconData get numeric6BoxMultipleOutline => iconMap['numeric6BoxMultipleOutline']!;
+  static IconData get numeric6BoxMultipleOutline =>
+      iconMap['numeric6BoxMultipleOutline']!;
   static IconData get numeric6BoxOutline => iconMap['numeric6BoxOutline']!;
   static IconData get numeric6Circle => iconMap['numeric6Circle']!;
-  static IconData get numeric6CircleOutline => iconMap['numeric6CircleOutline']!;
+  static IconData get numeric6CircleOutline =>
+      iconMap['numeric6CircleOutline']!;
   static IconData get numeric7 => iconMap['numeric7']!;
   static IconData get numeric7Box => iconMap['numeric7Box']!;
   static IconData get numeric7BoxMultiple => iconMap['numeric7BoxMultiple']!;
-  static IconData get numeric7BoxMultipleOutline => iconMap['numeric7BoxMultipleOutline']!;
+  static IconData get numeric7BoxMultipleOutline =>
+      iconMap['numeric7BoxMultipleOutline']!;
   static IconData get numeric7BoxOutline => iconMap['numeric7BoxOutline']!;
   static IconData get numeric7Circle => iconMap['numeric7Circle']!;
-  static IconData get numeric7CircleOutline => iconMap['numeric7CircleOutline']!;
+  static IconData get numeric7CircleOutline =>
+      iconMap['numeric7CircleOutline']!;
   static IconData get numeric8 => iconMap['numeric8']!;
   static IconData get numeric8Box => iconMap['numeric8Box']!;
   static IconData get numeric8BoxMultiple => iconMap['numeric8BoxMultiple']!;
-  static IconData get numeric8BoxMultipleOutline => iconMap['numeric8BoxMultipleOutline']!;
+  static IconData get numeric8BoxMultipleOutline =>
+      iconMap['numeric8BoxMultipleOutline']!;
   static IconData get numeric8BoxOutline => iconMap['numeric8BoxOutline']!;
   static IconData get numeric8Circle => iconMap['numeric8Circle']!;
-  static IconData get numeric8CircleOutline => iconMap['numeric8CircleOutline']!;
+  static IconData get numeric8CircleOutline =>
+      iconMap['numeric8CircleOutline']!;
   static IconData get numeric9 => iconMap['numeric9']!;
   static IconData get numeric9Box => iconMap['numeric9Box']!;
   static IconData get numeric9BoxMultiple => iconMap['numeric9BoxMultiple']!;
-  static IconData get numeric9BoxMultipleOutline => iconMap['numeric9BoxMultipleOutline']!;
+  static IconData get numeric9BoxMultipleOutline =>
+      iconMap['numeric9BoxMultipleOutline']!;
   static IconData get numeric9BoxOutline => iconMap['numeric9BoxOutline']!;
   static IconData get numeric9Circle => iconMap['numeric9Circle']!;
-  static IconData get numeric9CircleOutline => iconMap['numeric9CircleOutline']!;
+  static IconData get numeric9CircleOutline =>
+      iconMap['numeric9CircleOutline']!;
   static IconData get numeric9Plus => iconMap['numeric9Plus']!;
   static IconData get numeric9PlusBox => iconMap['numeric9PlusBox']!;
-  static IconData get numeric9PlusBoxMultiple => iconMap['numeric9PlusBoxMultiple']!;
-  static IconData get numeric9PlusBoxMultipleOutline => iconMap['numeric9PlusBoxMultipleOutline']!;
-  static IconData get numeric9PlusBoxOutline => iconMap['numeric9PlusBoxOutline']!;
+  static IconData get numeric9PlusBoxMultiple =>
+      iconMap['numeric9PlusBoxMultiple']!;
+  static IconData get numeric9PlusBoxMultipleOutline =>
+      iconMap['numeric9PlusBoxMultipleOutline']!;
+  static IconData get numeric9PlusBoxOutline =>
+      iconMap['numeric9PlusBoxOutline']!;
   static IconData get numeric9PlusCircle => iconMap['numeric9PlusCircle']!;
-  static IconData get numeric9PlusCircleOutline => iconMap['numeric9PlusCircleOutline']!;
+  static IconData get numeric9PlusCircleOutline =>
+      iconMap['numeric9PlusCircleOutline']!;
   static IconData get numericNegative1 => iconMap['numericNegative1']!;
   static IconData get numericOff => iconMap['numericOff']!;
   static IconData get numericPositive1 => iconMap['numericPositive1']!;
@@ -4900,16 +5505,22 @@ class MdiIcons {
   static IconData get offer => iconMap['offer']!;
   static IconData get officeBuilding => iconMap['officeBuilding']!;
   static IconData get officeBuildingCog => iconMap['officeBuildingCog']!;
-  static IconData get officeBuildingCogOutline => iconMap['officeBuildingCogOutline']!;
+  static IconData get officeBuildingCogOutline =>
+      iconMap['officeBuildingCogOutline']!;
   static IconData get officeBuildingMarker => iconMap['officeBuildingMarker']!;
-  static IconData get officeBuildingMarkerOutline => iconMap['officeBuildingMarkerOutline']!;
+  static IconData get officeBuildingMarkerOutline =>
+      iconMap['officeBuildingMarkerOutline']!;
   static IconData get officeBuildingMinus => iconMap['officeBuildingMinus']!;
-  static IconData get officeBuildingMinusOutline => iconMap['officeBuildingMinusOutline']!;
-  static IconData get officeBuildingOutline => iconMap['officeBuildingOutline']!;
+  static IconData get officeBuildingMinusOutline =>
+      iconMap['officeBuildingMinusOutline']!;
+  static IconData get officeBuildingOutline =>
+      iconMap['officeBuildingOutline']!;
   static IconData get officeBuildingPlus => iconMap['officeBuildingPlus']!;
-  static IconData get officeBuildingPlusOutline => iconMap['officeBuildingPlusOutline']!;
+  static IconData get officeBuildingPlusOutline =>
+      iconMap['officeBuildingPlusOutline']!;
   static IconData get officeBuildingRemove => iconMap['officeBuildingRemove']!;
-  static IconData get officeBuildingRemoveOutline => iconMap['officeBuildingRemoveOutline']!;
+  static IconData get officeBuildingRemoveOutline =>
+      iconMap['officeBuildingRemoveOutline']!;
   static IconData get oil => iconMap['oil']!;
   static IconData get oilLamp => iconMap['oilLamp']!;
   static IconData get oilLevel => iconMap['oilLevel']!;
@@ -4926,14 +5537,20 @@ class MdiIcons {
   static IconData get opera => iconMap['opera']!;
   static IconData get orbit => iconMap['orbit']!;
   static IconData get orbitVariant => iconMap['orbitVariant']!;
-  static IconData get orderAlphabeticalAscending => iconMap['orderAlphabeticalAscending']!;
-  static IconData get orderAlphabeticalDescending => iconMap['orderAlphabeticalDescending']!;
+  static IconData get orderAlphabeticalAscending =>
+      iconMap['orderAlphabeticalAscending']!;
+  static IconData get orderAlphabeticalDescending =>
+      iconMap['orderAlphabeticalDescending']!;
   static IconData get orderBoolAscending => iconMap['orderBoolAscending']!;
-  static IconData get orderBoolAscendingVariant => iconMap['orderBoolAscendingVariant']!;
+  static IconData get orderBoolAscendingVariant =>
+      iconMap['orderBoolAscendingVariant']!;
   static IconData get orderBoolDescending => iconMap['orderBoolDescending']!;
-  static IconData get orderBoolDescendingVariant => iconMap['orderBoolDescendingVariant']!;
-  static IconData get orderNumericAscending => iconMap['orderNumericAscending']!;
-  static IconData get orderNumericDescending => iconMap['orderNumericDescending']!;
+  static IconData get orderBoolDescendingVariant =>
+      iconMap['orderBoolDescendingVariant']!;
+  static IconData get orderNumericAscending =>
+      iconMap['orderNumericAscending']!;
+  static IconData get orderNumericDescending =>
+      iconMap['orderNumericDescending']!;
   static IconData get origin => iconMap['origin']!;
   static IconData get ornament => iconMap['ornament']!;
   static IconData get ornamentVariant => iconMap['ornamentVariant']!;
@@ -4947,10 +5564,14 @@ class MdiIcons {
   static IconData get packageUp => iconMap['packageUp']!;
   static IconData get packageVariant => iconMap['packageVariant']!;
   static IconData get packageVariantClosed => iconMap['packageVariantClosed']!;
-  static IconData get packageVariantClosedCheck => iconMap['packageVariantClosedCheck']!;
-  static IconData get packageVariantClosedMinus => iconMap['packageVariantClosedMinus']!;
-  static IconData get packageVariantClosedPlus => iconMap['packageVariantClosedPlus']!;
-  static IconData get packageVariantClosedRemove => iconMap['packageVariantClosedRemove']!;
+  static IconData get packageVariantClosedCheck =>
+      iconMap['packageVariantClosedCheck']!;
+  static IconData get packageVariantClosedMinus =>
+      iconMap['packageVariantClosedMinus']!;
+  static IconData get packageVariantClosedPlus =>
+      iconMap['packageVariantClosedPlus']!;
+  static IconData get packageVariantClosedRemove =>
+      iconMap['packageVariantClosedRemove']!;
   static IconData get packageVariantMinus => iconMap['packageVariantMinus']!;
   static IconData get packageVariantPlus => iconMap['packageVariantPlus']!;
   static IconData get packageVariantRemove => iconMap['packageVariantRemove']!;
@@ -4959,9 +5580,12 @@ class MdiIcons {
   static IconData get pageLayoutBody => iconMap['pageLayoutBody']!;
   static IconData get pageLayoutFooter => iconMap['pageLayoutFooter']!;
   static IconData get pageLayoutHeader => iconMap['pageLayoutHeader']!;
-  static IconData get pageLayoutHeaderFooter => iconMap['pageLayoutHeaderFooter']!;
-  static IconData get pageLayoutSidebarLeft => iconMap['pageLayoutSidebarLeft']!;
-  static IconData get pageLayoutSidebarRight => iconMap['pageLayoutSidebarRight']!;
+  static IconData get pageLayoutHeaderFooter =>
+      iconMap['pageLayoutHeaderFooter']!;
+  static IconData get pageLayoutSidebarLeft =>
+      iconMap['pageLayoutSidebarLeft']!;
+  static IconData get pageLayoutSidebarRight =>
+      iconMap['pageLayoutSidebarRight']!;
   static IconData get pageNext => iconMap['pageNext']!;
   static IconData get pageNextOutline => iconMap['pageNextOutline']!;
   static IconData get pagePrevious => iconMap['pagePrevious']!;
@@ -4999,16 +5623,21 @@ class MdiIcons {
   static IconData get panorama => iconMap['panorama']!;
   static IconData get panoramaFisheye => iconMap['panoramaFisheye']!;
   static IconData get panoramaHorizontal => iconMap['panoramaHorizontal']!;
-  static IconData get panoramaHorizontalOutline => iconMap['panoramaHorizontalOutline']!;
+  static IconData get panoramaHorizontalOutline =>
+      iconMap['panoramaHorizontalOutline']!;
   static IconData get panoramaOutline => iconMap['panoramaOutline']!;
   static IconData get panoramaSphere => iconMap['panoramaSphere']!;
-  static IconData get panoramaSphereOutline => iconMap['panoramaSphereOutline']!;
+  static IconData get panoramaSphereOutline =>
+      iconMap['panoramaSphereOutline']!;
   static IconData get panoramaVariant => iconMap['panoramaVariant']!;
-  static IconData get panoramaVariantOutline => iconMap['panoramaVariantOutline']!;
+  static IconData get panoramaVariantOutline =>
+      iconMap['panoramaVariantOutline']!;
   static IconData get panoramaVertical => iconMap['panoramaVertical']!;
-  static IconData get panoramaVerticalOutline => iconMap['panoramaVerticalOutline']!;
+  static IconData get panoramaVerticalOutline =>
+      iconMap['panoramaVerticalOutline']!;
   static IconData get panoramaWideAngle => iconMap['panoramaWideAngle']!;
-  static IconData get panoramaWideAngleOutline => iconMap['panoramaWideAngleOutline']!;
+  static IconData get panoramaWideAngleOutline =>
+      iconMap['panoramaWideAngleOutline']!;
   static IconData get paperCutVertical => iconMap['paperCutVertical']!;
   static IconData get paperRoll => iconMap['paperRoll']!;
   static IconData get paperRollOutline => iconMap['paperRollOutline']!;
@@ -5054,7 +5683,8 @@ class MdiIcons {
   static IconData get pencil => iconMap['pencil']!;
   static IconData get pencilBox => iconMap['pencilBox']!;
   static IconData get pencilBoxMultiple => iconMap['pencilBoxMultiple']!;
-  static IconData get pencilBoxMultipleOutline => iconMap['pencilBoxMultipleOutline']!;
+  static IconData get pencilBoxMultipleOutline =>
+      iconMap['pencilBoxMultipleOutline']!;
   static IconData get pencilBoxOutline => iconMap['pencilBoxOutline']!;
   static IconData get pencilCircle => iconMap['pencilCircle']!;
   static IconData get pencilCircleOutline => iconMap['pencilCircleOutline']!;
@@ -5089,7 +5719,8 @@ class MdiIcons {
   static IconData get phoneAlert => iconMap['phoneAlert']!;
   static IconData get phoneAlertOutline => iconMap['phoneAlertOutline']!;
   static IconData get phoneBluetooth => iconMap['phoneBluetooth']!;
-  static IconData get phoneBluetoothOutline => iconMap['phoneBluetoothOutline']!;
+  static IconData get phoneBluetoothOutline =>
+      iconMap['phoneBluetoothOutline']!;
   static IconData get phoneCancel => iconMap['phoneCancel']!;
   static IconData get phoneCancelOutline => iconMap['phoneCancelOutline']!;
   static IconData get phoneCheck => iconMap['phoneCheck']!;
@@ -5106,8 +5737,10 @@ class MdiIcons {
   static IconData get phoneInTalk => iconMap['phoneInTalk']!;
   static IconData get phoneInTalkOutline => iconMap['phoneInTalkOutline']!;
   static IconData get phoneIncoming => iconMap['phoneIncoming']!;
-  static IconData get phoneIncomingOutgoing => iconMap['phoneIncomingOutgoing']!;
-  static IconData get phoneIncomingOutgoingOutline => iconMap['phoneIncomingOutgoingOutline']!;
+  static IconData get phoneIncomingOutgoing =>
+      iconMap['phoneIncomingOutgoing']!;
+  static IconData get phoneIncomingOutgoingOutline =>
+      iconMap['phoneIncomingOutgoingOutline']!;
   static IconData get phoneIncomingOutline => iconMap['phoneIncomingOutline']!;
   static IconData get phoneLock => iconMap['phoneLock']!;
   static IconData get phoneLockOutline => iconMap['phoneLockOutline']!;
@@ -5149,10 +5782,14 @@ class MdiIcons {
   static IconData get piano => iconMap['piano']!;
   static IconData get pianoOff => iconMap['pianoOff']!;
   static IconData get pickaxe => iconMap['pickaxe']!;
-  static IconData get pictureInPictureBottomRight => iconMap['pictureInPictureBottomRight']!;
-  static IconData get pictureInPictureBottomRightOutline => iconMap['pictureInPictureBottomRightOutline']!;
-  static IconData get pictureInPictureTopRight => iconMap['pictureInPictureTopRight']!;
-  static IconData get pictureInPictureTopRightOutline => iconMap['pictureInPictureTopRightOutline']!;
+  static IconData get pictureInPictureBottomRight =>
+      iconMap['pictureInPictureBottomRight']!;
+  static IconData get pictureInPictureBottomRightOutline =>
+      iconMap['pictureInPictureBottomRightOutline']!;
+  static IconData get pictureInPictureTopRight =>
+      iconMap['pictureInPictureTopRight']!;
+  static IconData get pictureInPictureTopRightOutline =>
+      iconMap['pictureInPictureTopRightOutline']!;
   static IconData get pier => iconMap['pier']!;
   static IconData get pierCrane => iconMap['pierCrane']!;
   static IconData get pig => iconMap['pig']!;
@@ -5172,7 +5809,8 @@ class MdiIcons {
   static IconData get pineTreeBox => iconMap['pineTreeBox']!;
   static IconData get pineTreeFire => iconMap['pineTreeFire']!;
   static IconData get pineTreeVariant => iconMap['pineTreeVariant']!;
-  static IconData get pineTreeVariantOutline => iconMap['pineTreeVariantOutline']!;
+  static IconData get pineTreeVariantOutline =>
+      iconMap['pineTreeVariantOutline']!;
   static IconData get pinterest => iconMap['pinterest']!;
   static IconData get pinwheel => iconMap['pinwheel']!;
   static IconData get pinwheelOutline => iconMap['pinwheelOutline']!;
@@ -5193,10 +5831,12 @@ class MdiIcons {
   static IconData get playBoxEditOutline => iconMap['playBoxEditOutline']!;
   static IconData get playBoxLock => iconMap['playBoxLock']!;
   static IconData get playBoxLockOpen => iconMap['playBoxLockOpen']!;
-  static IconData get playBoxLockOpenOutline => iconMap['playBoxLockOpenOutline']!;
+  static IconData get playBoxLockOpenOutline =>
+      iconMap['playBoxLockOpenOutline']!;
   static IconData get playBoxLockOutline => iconMap['playBoxLockOutline']!;
   static IconData get playBoxMultiple => iconMap['playBoxMultiple']!;
-  static IconData get playBoxMultipleOutline => iconMap['playBoxMultipleOutline']!;
+  static IconData get playBoxMultipleOutline =>
+      iconMap['playBoxMultipleOutline']!;
   static IconData get playBoxOutline => iconMap['playBoxOutline']!;
   static IconData get playCircle => iconMap['playCircle']!;
   static IconData get playCircleOutline => iconMap['playCircleOutline']!;
@@ -5220,11 +5860,13 @@ class MdiIcons {
   static IconData get plus => iconMap['plus']!;
   static IconData get plusBox => iconMap['plusBox']!;
   static IconData get plusBoxMultiple => iconMap['plusBoxMultiple']!;
-  static IconData get plusBoxMultipleOutline => iconMap['plusBoxMultipleOutline']!;
+  static IconData get plusBoxMultipleOutline =>
+      iconMap['plusBoxMultipleOutline']!;
   static IconData get plusBoxOutline => iconMap['plusBoxOutline']!;
   static IconData get plusCircle => iconMap['plusCircle']!;
   static IconData get plusCircleMultiple => iconMap['plusCircleMultiple']!;
-  static IconData get plusCircleMultipleOutline => iconMap['plusCircleMultipleOutline']!;
+  static IconData get plusCircleMultipleOutline =>
+      iconMap['plusCircleMultipleOutline']!;
   static IconData get plusCircleOutline => iconMap['plusCircleOutline']!;
   static IconData get plusLock => iconMap['plusLock']!;
   static IconData get plusLockOpen => iconMap['plusLockOpen']!;
@@ -5273,7 +5915,8 @@ class MdiIcons {
   static IconData get powerOn => iconMap['powerOn']!;
   static IconData get powerPlug => iconMap['powerPlug']!;
   static IconData get powerPlugBattery => iconMap['powerPlugBattery']!;
-  static IconData get powerPlugBatteryOutline => iconMap['powerPlugBatteryOutline']!;
+  static IconData get powerPlugBatteryOutline =>
+      iconMap['powerPlugBatteryOutline']!;
   static IconData get powerPlugOff => iconMap['powerPlugOff']!;
   static IconData get powerPlugOffOutline => iconMap['powerPlugOffOutline']!;
   static IconData get powerPlugOutline => iconMap['powerPlugOutline']!;
@@ -5299,12 +5942,16 @@ class MdiIcons {
   static IconData get printer3D => iconMap['printer3D']!;
   static IconData get printer3DNozzle => iconMap['printer3DNozzle']!;
   static IconData get printer3DNozzleAlert => iconMap['printer3DNozzleAlert']!;
-  static IconData get printer3DNozzleAlertOutline => iconMap['printer3DNozzleAlertOutline']!;
+  static IconData get printer3DNozzleAlertOutline =>
+      iconMap['printer3DNozzleAlertOutline']!;
   static IconData get printer3DNozzleHeat => iconMap['printer3DNozzleHeat']!;
-  static IconData get printer3DNozzleHeatOutline => iconMap['printer3DNozzleHeatOutline']!;
+  static IconData get printer3DNozzleHeatOutline =>
+      iconMap['printer3DNozzleHeatOutline']!;
   static IconData get printer3DNozzleOff => iconMap['printer3DNozzleOff']!;
-  static IconData get printer3DNozzleOffOutline => iconMap['printer3DNozzleOffOutline']!;
-  static IconData get printer3DNozzleOutline => iconMap['printer3DNozzleOutline']!;
+  static IconData get printer3DNozzleOffOutline =>
+      iconMap['printer3DNozzleOffOutline']!;
+  static IconData get printer3DNozzleOutline =>
+      iconMap['printer3DNozzleOutline']!;
   static IconData get printer3DOff => iconMap['printer3DOff']!;
   static IconData get printerAlert => iconMap['printerAlert']!;
   static IconData get printerCheck => iconMap['printerCheck']!;
@@ -5314,40 +5961,55 @@ class MdiIcons {
   static IconData get printerOutline => iconMap['printerOutline']!;
   static IconData get printerPos => iconMap['printerPos']!;
   static IconData get printerPosAlert => iconMap['printerPosAlert']!;
-  static IconData get printerPosAlertOutline => iconMap['printerPosAlertOutline']!;
+  static IconData get printerPosAlertOutline =>
+      iconMap['printerPosAlertOutline']!;
   static IconData get printerPosCancel => iconMap['printerPosCancel']!;
-  static IconData get printerPosCancelOutline => iconMap['printerPosCancelOutline']!;
+  static IconData get printerPosCancelOutline =>
+      iconMap['printerPosCancelOutline']!;
   static IconData get printerPosCheck => iconMap['printerPosCheck']!;
-  static IconData get printerPosCheckOutline => iconMap['printerPosCheckOutline']!;
+  static IconData get printerPosCheckOutline =>
+      iconMap['printerPosCheckOutline']!;
   static IconData get printerPosCog => iconMap['printerPosCog']!;
   static IconData get printerPosCogOutline => iconMap['printerPosCogOutline']!;
   static IconData get printerPosEdit => iconMap['printerPosEdit']!;
-  static IconData get printerPosEditOutline => iconMap['printerPosEditOutline']!;
+  static IconData get printerPosEditOutline =>
+      iconMap['printerPosEditOutline']!;
   static IconData get printerPosMinus => iconMap['printerPosMinus']!;
-  static IconData get printerPosMinusOutline => iconMap['printerPosMinusOutline']!;
+  static IconData get printerPosMinusOutline =>
+      iconMap['printerPosMinusOutline']!;
   static IconData get printerPosNetwork => iconMap['printerPosNetwork']!;
-  static IconData get printerPosNetworkOutline => iconMap['printerPosNetworkOutline']!;
+  static IconData get printerPosNetworkOutline =>
+      iconMap['printerPosNetworkOutline']!;
   static IconData get printerPosOff => iconMap['printerPosOff']!;
   static IconData get printerPosOffOutline => iconMap['printerPosOffOutline']!;
   static IconData get printerPosOutline => iconMap['printerPosOutline']!;
   static IconData get printerPosPause => iconMap['printerPosPause']!;
-  static IconData get printerPosPauseOutline => iconMap['printerPosPauseOutline']!;
+  static IconData get printerPosPauseOutline =>
+      iconMap['printerPosPauseOutline']!;
   static IconData get printerPosPlay => iconMap['printerPosPlay']!;
-  static IconData get printerPosPlayOutline => iconMap['printerPosPlayOutline']!;
+  static IconData get printerPosPlayOutline =>
+      iconMap['printerPosPlayOutline']!;
   static IconData get printerPosPlus => iconMap['printerPosPlus']!;
-  static IconData get printerPosPlusOutline => iconMap['printerPosPlusOutline']!;
+  static IconData get printerPosPlusOutline =>
+      iconMap['printerPosPlusOutline']!;
   static IconData get printerPosRefresh => iconMap['printerPosRefresh']!;
-  static IconData get printerPosRefreshOutline => iconMap['printerPosRefreshOutline']!;
+  static IconData get printerPosRefreshOutline =>
+      iconMap['printerPosRefreshOutline']!;
   static IconData get printerPosRemove => iconMap['printerPosRemove']!;
-  static IconData get printerPosRemoveOutline => iconMap['printerPosRemoveOutline']!;
+  static IconData get printerPosRemoveOutline =>
+      iconMap['printerPosRemoveOutline']!;
   static IconData get printerPosStar => iconMap['printerPosStar']!;
-  static IconData get printerPosStarOutline => iconMap['printerPosStarOutline']!;
+  static IconData get printerPosStarOutline =>
+      iconMap['printerPosStarOutline']!;
   static IconData get printerPosStop => iconMap['printerPosStop']!;
-  static IconData get printerPosStopOutline => iconMap['printerPosStopOutline']!;
+  static IconData get printerPosStopOutline =>
+      iconMap['printerPosStopOutline']!;
   static IconData get printerPosSync => iconMap['printerPosSync']!;
-  static IconData get printerPosSyncOutline => iconMap['printerPosSyncOutline']!;
+  static IconData get printerPosSyncOutline =>
+      iconMap['printerPosSyncOutline']!;
   static IconData get printerPosWrench => iconMap['printerPosWrench']!;
-  static IconData get printerPosWrenchOutline => iconMap['printerPosWrenchOutline']!;
+  static IconData get printerPosWrenchOutline =>
+      iconMap['printerPosWrenchOutline']!;
   static IconData get printerSearch => iconMap['printerSearch']!;
   static IconData get printerSettings => iconMap['printerSettings']!;
   static IconData get printerWireless => iconMap['printerWireless']!;
@@ -5363,19 +6025,26 @@ class MdiIcons {
   static IconData get progressPencil => iconMap['progressPencil']!;
   static IconData get progressQuestion => iconMap['progressQuestion']!;
   static IconData get progressStar => iconMap['progressStar']!;
-  static IconData get progressStarFourPoints => iconMap['progressStarFourPoints']!;
+  static IconData get progressStarFourPoints =>
+      iconMap['progressStarFourPoints']!;
   static IconData get progressUpload => iconMap['progressUpload']!;
   static IconData get progressWrench => iconMap['progressWrench']!;
   static IconData get projector => iconMap['projector']!;
   static IconData get projectorOff => iconMap['projectorOff']!;
   static IconData get projectorScreen => iconMap['projectorScreen']!;
   static IconData get projectorScreenOff => iconMap['projectorScreenOff']!;
-  static IconData get projectorScreenOffOutline => iconMap['projectorScreenOffOutline']!;
-  static IconData get projectorScreenOutline => iconMap['projectorScreenOutline']!;
-  static IconData get projectorScreenVariant => iconMap['projectorScreenVariant']!;
-  static IconData get projectorScreenVariantOff => iconMap['projectorScreenVariantOff']!;
-  static IconData get projectorScreenVariantOffOutline => iconMap['projectorScreenVariantOffOutline']!;
-  static IconData get projectorScreenVariantOutline => iconMap['projectorScreenVariantOutline']!;
+  static IconData get projectorScreenOffOutline =>
+      iconMap['projectorScreenOffOutline']!;
+  static IconData get projectorScreenOutline =>
+      iconMap['projectorScreenOutline']!;
+  static IconData get projectorScreenVariant =>
+      iconMap['projectorScreenVariant']!;
+  static IconData get projectorScreenVariantOff =>
+      iconMap['projectorScreenVariantOff']!;
+  static IconData get projectorScreenVariantOffOutline =>
+      iconMap['projectorScreenVariantOffOutline']!;
+  static IconData get projectorScreenVariantOutline =>
+      iconMap['projectorScreenVariantOutline']!;
   static IconData get propaneTank => iconMap['propaneTank']!;
   static IconData get propaneTankOutline => iconMap['propaneTankOutline']!;
   static IconData get protocol => iconMap['protocol']!;
@@ -5435,10 +6104,12 @@ class MdiIcons {
   static IconData get radioTower => iconMap['radioTower']!;
   static IconData get radioactive => iconMap['radioactive']!;
   static IconData get radioactiveCircle => iconMap['radioactiveCircle']!;
-  static IconData get radioactiveCircleOutline => iconMap['radioactiveCircleOutline']!;
+  static IconData get radioactiveCircleOutline =>
+      iconMap['radioactiveCircleOutline']!;
   static IconData get radioactiveOff => iconMap['radioactiveOff']!;
   static IconData get radioboxBlank => iconMap['radioboxBlank']!;
-  static IconData get radioboxIndeterminateVariant => iconMap['radioboxIndeterminateVariant']!;
+  static IconData get radioboxIndeterminateVariant =>
+      iconMap['radioboxIndeterminateVariant']!;
   static IconData get radioboxMarked => iconMap['radioboxMarked']!;
   static IconData get radiologyBox => iconMap['radiologyBox']!;
   static IconData get radiologyBoxOutline => iconMap['radiologyBoxOutline']!;
@@ -5468,24 +6139,34 @@ class MdiIcons {
   static IconData get receiptSendOutline => iconMap['receiptSendOutline']!;
   static IconData get receiptText => iconMap['receiptText']!;
   static IconData get receiptTextArrowLeft => iconMap['receiptTextArrowLeft']!;
-  static IconData get receiptTextArrowLeftOutline => iconMap['receiptTextArrowLeftOutline']!;
-  static IconData get receiptTextArrowRight => iconMap['receiptTextArrowRight']!;
-  static IconData get receiptTextArrowRightOutline => iconMap['receiptTextArrowRightOutline']!;
+  static IconData get receiptTextArrowLeftOutline =>
+      iconMap['receiptTextArrowLeftOutline']!;
+  static IconData get receiptTextArrowRight =>
+      iconMap['receiptTextArrowRight']!;
+  static IconData get receiptTextArrowRightOutline =>
+      iconMap['receiptTextArrowRightOutline']!;
   static IconData get receiptTextCheck => iconMap['receiptTextCheck']!;
-  static IconData get receiptTextCheckOutline => iconMap['receiptTextCheckOutline']!;
+  static IconData get receiptTextCheckOutline =>
+      iconMap['receiptTextCheckOutline']!;
   static IconData get receiptTextClock => iconMap['receiptTextClock']!;
-  static IconData get receiptTextClockOutline => iconMap['receiptTextClockOutline']!;
+  static IconData get receiptTextClockOutline =>
+      iconMap['receiptTextClockOutline']!;
   static IconData get receiptTextEdit => iconMap['receiptTextEdit']!;
-  static IconData get receiptTextEditOutline => iconMap['receiptTextEditOutline']!;
+  static IconData get receiptTextEditOutline =>
+      iconMap['receiptTextEditOutline']!;
   static IconData get receiptTextMinus => iconMap['receiptTextMinus']!;
-  static IconData get receiptTextMinusOutline => iconMap['receiptTextMinusOutline']!;
+  static IconData get receiptTextMinusOutline =>
+      iconMap['receiptTextMinusOutline']!;
   static IconData get receiptTextOutline => iconMap['receiptTextOutline']!;
   static IconData get receiptTextPlus => iconMap['receiptTextPlus']!;
-  static IconData get receiptTextPlusOutline => iconMap['receiptTextPlusOutline']!;
+  static IconData get receiptTextPlusOutline =>
+      iconMap['receiptTextPlusOutline']!;
   static IconData get receiptTextRemove => iconMap['receiptTextRemove']!;
-  static IconData get receiptTextRemoveOutline => iconMap['receiptTextRemoveOutline']!;
+  static IconData get receiptTextRemoveOutline =>
+      iconMap['receiptTextRemoveOutline']!;
   static IconData get receiptTextSend => iconMap['receiptTextSend']!;
-  static IconData get receiptTextSendOutline => iconMap['receiptTextSendOutline']!;
+  static IconData get receiptTextSendOutline =>
+      iconMap['receiptTextSendOutline']!;
   static IconData get record => iconMap['record']!;
   static IconData get recordCircle => iconMap['recordCircle']!;
   static IconData get recordCircleOutline => iconMap['recordCircleOutline']!;
@@ -5509,40 +6190,70 @@ class MdiIcons {
   static IconData get reiterate => iconMap['reiterate']!;
   static IconData get relationManyToMany => iconMap['relationManyToMany']!;
   static IconData get relationManyToOne => iconMap['relationManyToOne']!;
-  static IconData get relationManyToOneOrMany => iconMap['relationManyToOneOrMany']!;
-  static IconData get relationManyToOnlyOne => iconMap['relationManyToOnlyOne']!;
-  static IconData get relationManyToZeroOrMany => iconMap['relationManyToZeroOrMany']!;
-  static IconData get relationManyToZeroOrOne => iconMap['relationManyToZeroOrOne']!;
-  static IconData get relationOneOrManyToMany => iconMap['relationOneOrManyToMany']!;
-  static IconData get relationOneOrManyToOne => iconMap['relationOneOrManyToOne']!;
-  static IconData get relationOneOrManyToOneOrMany => iconMap['relationOneOrManyToOneOrMany']!;
-  static IconData get relationOneOrManyToOnlyOne => iconMap['relationOneOrManyToOnlyOne']!;
-  static IconData get relationOneOrManyToZeroOrMany => iconMap['relationOneOrManyToZeroOrMany']!;
-  static IconData get relationOneOrManyToZeroOrOne => iconMap['relationOneOrManyToZeroOrOne']!;
+  static IconData get relationManyToOneOrMany =>
+      iconMap['relationManyToOneOrMany']!;
+  static IconData get relationManyToOnlyOne =>
+      iconMap['relationManyToOnlyOne']!;
+  static IconData get relationManyToZeroOrMany =>
+      iconMap['relationManyToZeroOrMany']!;
+  static IconData get relationManyToZeroOrOne =>
+      iconMap['relationManyToZeroOrOne']!;
+  static IconData get relationOneOrManyToMany =>
+      iconMap['relationOneOrManyToMany']!;
+  static IconData get relationOneOrManyToOne =>
+      iconMap['relationOneOrManyToOne']!;
+  static IconData get relationOneOrManyToOneOrMany =>
+      iconMap['relationOneOrManyToOneOrMany']!;
+  static IconData get relationOneOrManyToOnlyOne =>
+      iconMap['relationOneOrManyToOnlyOne']!;
+  static IconData get relationOneOrManyToZeroOrMany =>
+      iconMap['relationOneOrManyToZeroOrMany']!;
+  static IconData get relationOneOrManyToZeroOrOne =>
+      iconMap['relationOneOrManyToZeroOrOne']!;
   static IconData get relationOneToMany => iconMap['relationOneToMany']!;
   static IconData get relationOneToOne => iconMap['relationOneToOne']!;
-  static IconData get relationOneToOneOrMany => iconMap['relationOneToOneOrMany']!;
+  static IconData get relationOneToOneOrMany =>
+      iconMap['relationOneToOneOrMany']!;
   static IconData get relationOneToOnlyOne => iconMap['relationOneToOnlyOne']!;
-  static IconData get relationOneToZeroOrMany => iconMap['relationOneToZeroOrMany']!;
-  static IconData get relationOneToZeroOrOne => iconMap['relationOneToZeroOrOne']!;
-  static IconData get relationOnlyOneToMany => iconMap['relationOnlyOneToMany']!;
+  static IconData get relationOneToZeroOrMany =>
+      iconMap['relationOneToZeroOrMany']!;
+  static IconData get relationOneToZeroOrOne =>
+      iconMap['relationOneToZeroOrOne']!;
+  static IconData get relationOnlyOneToMany =>
+      iconMap['relationOnlyOneToMany']!;
   static IconData get relationOnlyOneToOne => iconMap['relationOnlyOneToOne']!;
-  static IconData get relationOnlyOneToOneOrMany => iconMap['relationOnlyOneToOneOrMany']!;
-  static IconData get relationOnlyOneToOnlyOne => iconMap['relationOnlyOneToOnlyOne']!;
-  static IconData get relationOnlyOneToZeroOrMany => iconMap['relationOnlyOneToZeroOrMany']!;
-  static IconData get relationOnlyOneToZeroOrOne => iconMap['relationOnlyOneToZeroOrOne']!;
-  static IconData get relationZeroOrManyToMany => iconMap['relationZeroOrManyToMany']!;
-  static IconData get relationZeroOrManyToOne => iconMap['relationZeroOrManyToOne']!;
-  static IconData get relationZeroOrManyToOneOrMany => iconMap['relationZeroOrManyToOneOrMany']!;
-  static IconData get relationZeroOrManyToOnlyOne => iconMap['relationZeroOrManyToOnlyOne']!;
-  static IconData get relationZeroOrManyToZeroOrMany => iconMap['relationZeroOrManyToZeroOrMany']!;
-  static IconData get relationZeroOrManyToZeroOrOne => iconMap['relationZeroOrManyToZeroOrOne']!;
-  static IconData get relationZeroOrOneToMany => iconMap['relationZeroOrOneToMany']!;
-  static IconData get relationZeroOrOneToOne => iconMap['relationZeroOrOneToOne']!;
-  static IconData get relationZeroOrOneToOneOrMany => iconMap['relationZeroOrOneToOneOrMany']!;
-  static IconData get relationZeroOrOneToOnlyOne => iconMap['relationZeroOrOneToOnlyOne']!;
-  static IconData get relationZeroOrOneToZeroOrMany => iconMap['relationZeroOrOneToZeroOrMany']!;
-  static IconData get relationZeroOrOneToZeroOrOne => iconMap['relationZeroOrOneToZeroOrOne']!;
+  static IconData get relationOnlyOneToOneOrMany =>
+      iconMap['relationOnlyOneToOneOrMany']!;
+  static IconData get relationOnlyOneToOnlyOne =>
+      iconMap['relationOnlyOneToOnlyOne']!;
+  static IconData get relationOnlyOneToZeroOrMany =>
+      iconMap['relationOnlyOneToZeroOrMany']!;
+  static IconData get relationOnlyOneToZeroOrOne =>
+      iconMap['relationOnlyOneToZeroOrOne']!;
+  static IconData get relationZeroOrManyToMany =>
+      iconMap['relationZeroOrManyToMany']!;
+  static IconData get relationZeroOrManyToOne =>
+      iconMap['relationZeroOrManyToOne']!;
+  static IconData get relationZeroOrManyToOneOrMany =>
+      iconMap['relationZeroOrManyToOneOrMany']!;
+  static IconData get relationZeroOrManyToOnlyOne =>
+      iconMap['relationZeroOrManyToOnlyOne']!;
+  static IconData get relationZeroOrManyToZeroOrMany =>
+      iconMap['relationZeroOrManyToZeroOrMany']!;
+  static IconData get relationZeroOrManyToZeroOrOne =>
+      iconMap['relationZeroOrManyToZeroOrOne']!;
+  static IconData get relationZeroOrOneToMany =>
+      iconMap['relationZeroOrOneToMany']!;
+  static IconData get relationZeroOrOneToOne =>
+      iconMap['relationZeroOrOneToOne']!;
+  static IconData get relationZeroOrOneToOneOrMany =>
+      iconMap['relationZeroOrOneToOneOrMany']!;
+  static IconData get relationZeroOrOneToOnlyOne =>
+      iconMap['relationZeroOrOneToOnlyOne']!;
+  static IconData get relationZeroOrOneToZeroOrMany =>
+      iconMap['relationZeroOrOneToZeroOrMany']!;
+  static IconData get relationZeroOrOneToZeroOrOne =>
+      iconMap['relationZeroOrOneToZeroOrOne']!;
   static IconData get relativeScale => iconMap['relativeScale']!;
   static IconData get reload => iconMap['reload']!;
   static IconData get reloadAlert => iconMap['reloadAlert']!;
@@ -5614,7 +6325,8 @@ class MdiIcons {
   static IconData get robotHappy => iconMap['robotHappy']!;
   static IconData get robotHappyOutline => iconMap['robotHappyOutline']!;
   static IconData get robotIndustrial => iconMap['robotIndustrial']!;
-  static IconData get robotIndustrialOutline => iconMap['robotIndustrialOutline']!;
+  static IconData get robotIndustrialOutline =>
+      iconMap['robotIndustrialOutline']!;
   static IconData get robotLove => iconMap['robotLove']!;
   static IconData get robotLoveOutline => iconMap['robotLoveOutline']!;
   static IconData get robotMower => iconMap['robotMower']!;
@@ -5626,8 +6338,10 @@ class MdiIcons {
   static IconData get robotVacuumAlert => iconMap['robotVacuumAlert']!;
   static IconData get robotVacuumOff => iconMap['robotVacuumOff']!;
   static IconData get robotVacuumVariant => iconMap['robotVacuumVariant']!;
-  static IconData get robotVacuumVariantAlert => iconMap['robotVacuumVariantAlert']!;
-  static IconData get robotVacuumVariantOff => iconMap['robotVacuumVariantOff']!;
+  static IconData get robotVacuumVariantAlert =>
+      iconMap['robotVacuumVariantAlert']!;
+  static IconData get robotVacuumVariantOff =>
+      iconMap['robotVacuumVariantOff']!;
   static IconData get rocket => iconMap['rocket']!;
   static IconData get rocketLaunch => iconMap['rocketLaunch']!;
   static IconData get rocketLaunchOutline => iconMap['rocketLaunchOutline']!;
@@ -5667,7 +6381,8 @@ class MdiIcons {
   static IconData get routerNetwork => iconMap['routerNetwork']!;
   static IconData get routerWireless => iconMap['routerWireless']!;
   static IconData get routerWirelessOff => iconMap['routerWirelessOff']!;
-  static IconData get routerWirelessSettings => iconMap['routerWirelessSettings']!;
+  static IconData get routerWirelessSettings =>
+      iconMap['routerWirelessSettings']!;
   static IconData get routes => iconMap['routes']!;
   static IconData get routesClock => iconMap['routesClock']!;
   static IconData get rowing => iconMap['rowing']!;
@@ -5737,7 +6452,8 @@ class MdiIcons {
   static IconData get scriptTextKeyOutline => iconMap['scriptTextKeyOutline']!;
   static IconData get scriptTextOutline => iconMap['scriptTextOutline']!;
   static IconData get scriptTextPlay => iconMap['scriptTextPlay']!;
-  static IconData get scriptTextPlayOutline => iconMap['scriptTextPlayOutline']!;
+  static IconData get scriptTextPlayOutline =>
+      iconMap['scriptTextPlayOutline']!;
   static IconData get sd => iconMap['sd']!;
   static IconData get seal => iconMap['seal']!;
   static IconData get sealVariant => iconMap['sealVariant']!;
@@ -5783,11 +6499,14 @@ class MdiIcons {
   static IconData get selection => iconMap['selection']!;
   static IconData get selectionDrag => iconMap['selectionDrag']!;
   static IconData get selectionEllipse => iconMap['selectionEllipse']!;
-  static IconData get selectionEllipseArrowInside => iconMap['selectionEllipseArrowInside']!;
-  static IconData get selectionEllipseRemove => iconMap['selectionEllipseRemove']!;
+  static IconData get selectionEllipseArrowInside =>
+      iconMap['selectionEllipseArrowInside']!;
+  static IconData get selectionEllipseRemove =>
+      iconMap['selectionEllipseRemove']!;
   static IconData get selectionMarker => iconMap['selectionMarker']!;
   static IconData get selectionMultiple => iconMap['selectionMultiple']!;
-  static IconData get selectionMultipleMarker => iconMap['selectionMultipleMarker']!;
+  static IconData get selectionMultipleMarker =>
+      iconMap['selectionMultipleMarker']!;
   static IconData get selectionOff => iconMap['selectionOff']!;
   static IconData get selectionRemove => iconMap['selectionRemove']!;
   static IconData get selectionSearch => iconMap['selectionSearch']!;
@@ -5804,7 +6523,8 @@ class MdiIcons {
   static IconData get sendOutline => iconMap['sendOutline']!;
   static IconData get sendVariant => iconMap['sendVariant']!;
   static IconData get sendVariantClock => iconMap['sendVariantClock']!;
-  static IconData get sendVariantClockOutline => iconMap['sendVariantClockOutline']!;
+  static IconData get sendVariantClockOutline =>
+      iconMap['sendVariantClockOutline']!;
   static IconData get sendVariantOutline => iconMap['sendVariantOutline']!;
   static IconData get serialPort => iconMap['serialPort']!;
   static IconData get server => iconMap['server']!;
@@ -5839,7 +6559,8 @@ class MdiIcons {
   static IconData get shapePolygonPlus => iconMap['shapePolygonPlus']!;
   static IconData get shapeRectanglePlus => iconMap['shapeRectanglePlus']!;
   static IconData get shapeSquarePlus => iconMap['shapeSquarePlus']!;
-  static IconData get shapeSquareRoundedPlus => iconMap['shapeSquareRoundedPlus']!;
+  static IconData get shapeSquareRoundedPlus =>
+      iconMap['shapeSquareRoundedPlus']!;
   static IconData get share => iconMap['share']!;
   static IconData get shareAll => iconMap['shareAll']!;
   static IconData get shareAllOutline => iconMap['shareAllOutline']!;
@@ -5858,9 +6579,11 @@ class MdiIcons {
   static IconData get shieldAccount => iconMap['shieldAccount']!;
   static IconData get shieldAccountOutline => iconMap['shieldAccountOutline']!;
   static IconData get shieldAccountVariant => iconMap['shieldAccountVariant']!;
-  static IconData get shieldAccountVariantOutline => iconMap['shieldAccountVariantOutline']!;
+  static IconData get shieldAccountVariantOutline =>
+      iconMap['shieldAccountVariantOutline']!;
   static IconData get shieldAirplane => iconMap['shieldAirplane']!;
-  static IconData get shieldAirplaneOutline => iconMap['shieldAirplaneOutline']!;
+  static IconData get shieldAirplaneOutline =>
+      iconMap['shieldAirplaneOutline']!;
   static IconData get shieldAlert => iconMap['shieldAlert']!;
   static IconData get shieldAlertOutline => iconMap['shieldAlertOutline']!;
   static IconData get shieldBug => iconMap['shieldBug']!;
@@ -5881,10 +6604,12 @@ class MdiIcons {
   static IconData get shieldKey => iconMap['shieldKey']!;
   static IconData get shieldKeyOutline => iconMap['shieldKeyOutline']!;
   static IconData get shieldLinkVariant => iconMap['shieldLinkVariant']!;
-  static IconData get shieldLinkVariantOutline => iconMap['shieldLinkVariantOutline']!;
+  static IconData get shieldLinkVariantOutline =>
+      iconMap['shieldLinkVariantOutline']!;
   static IconData get shieldLock => iconMap['shieldLock']!;
   static IconData get shieldLockOpen => iconMap['shieldLockOpen']!;
-  static IconData get shieldLockOpenOutline => iconMap['shieldLockOpenOutline']!;
+  static IconData get shieldLockOpenOutline =>
+      iconMap['shieldLockOpenOutline']!;
   static IconData get shieldLockOutline => iconMap['shieldLockOutline']!;
   static IconData get shieldMoon => iconMap['shieldMoon']!;
   static IconData get shieldMoonOutline => iconMap['shieldMoonOutline']!;
@@ -5919,7 +6644,8 @@ class MdiIcons {
   static IconData get shoppingMusic => iconMap['shoppingMusic']!;
   static IconData get shoppingOutline => iconMap['shoppingOutline']!;
   static IconData get shoppingSearch => iconMap['shoppingSearch']!;
-  static IconData get shoppingSearchOutline => iconMap['shoppingSearchOutline']!;
+  static IconData get shoppingSearchOutline =>
+      iconMap['shoppingSearchOutline']!;
   static IconData get shore => iconMap['shore']!;
   static IconData get shovel => iconMap['shovel']!;
   static IconData get shovelOff => iconMap['shovelOff']!;
@@ -5952,8 +6678,10 @@ class MdiIcons {
   static IconData get signalCellular1 => iconMap['signalCellular1']!;
   static IconData get signalCellular2 => iconMap['signalCellular2']!;
   static IconData get signalCellular3 => iconMap['signalCellular3']!;
-  static IconData get signalCellularOutline => iconMap['signalCellularOutline']!;
-  static IconData get signalDistanceVariant => iconMap['signalDistanceVariant']!;
+  static IconData get signalCellularOutline =>
+      iconMap['signalCellularOutline']!;
+  static IconData get signalDistanceVariant =>
+      iconMap['signalDistanceVariant']!;
   static IconData get signalHspa => iconMap['signalHspa']!;
   static IconData get signalHspaPlus => iconMap['signalHspaPlus']!;
   static IconData get signalOff => iconMap['signalOff']!;
@@ -6004,15 +6732,18 @@ class MdiIcons {
   static IconData get skipForwardOutline => iconMap['skipForwardOutline']!;
   static IconData get skipNext => iconMap['skipNext']!;
   static IconData get skipNextCircle => iconMap['skipNextCircle']!;
-  static IconData get skipNextCircleOutline => iconMap['skipNextCircleOutline']!;
+  static IconData get skipNextCircleOutline =>
+      iconMap['skipNextCircleOutline']!;
   static IconData get skipNextOutline => iconMap['skipNextOutline']!;
   static IconData get skipPrevious => iconMap['skipPrevious']!;
   static IconData get skipPreviousCircle => iconMap['skipPreviousCircle']!;
-  static IconData get skipPreviousCircleOutline => iconMap['skipPreviousCircleOutline']!;
+  static IconData get skipPreviousCircleOutline =>
+      iconMap['skipPreviousCircleOutline']!;
   static IconData get skipPreviousOutline => iconMap['skipPreviousOutline']!;
   static IconData get skull => iconMap['skull']!;
   static IconData get skullCrossbones => iconMap['skullCrossbones']!;
-  static IconData get skullCrossbonesOutline => iconMap['skullCrossbonesOutline']!;
+  static IconData get skullCrossbonesOutline =>
+      iconMap['skullCrossbonesOutline']!;
   static IconData get skullOutline => iconMap['skullOutline']!;
   static IconData get skullScan => iconMap['skullScan']!;
   static IconData get skullScanOutline => iconMap['skullScanOutline']!;
@@ -6034,18 +6765,23 @@ class MdiIcons {
   static IconData get smartCardOffOutline => iconMap['smartCardOffOutline']!;
   static IconData get smartCardOutline => iconMap['smartCardOutline']!;
   static IconData get smartCardReader => iconMap['smartCardReader']!;
-  static IconData get smartCardReaderOutline => iconMap['smartCardReaderOutline']!;
+  static IconData get smartCardReaderOutline =>
+      iconMap['smartCardReaderOutline']!;
   static IconData get smog => iconMap['smog']!;
   static IconData get smoke => iconMap['smoke']!;
   static IconData get smokeDetector => iconMap['smokeDetector']!;
   static IconData get smokeDetectorAlert => iconMap['smokeDetectorAlert']!;
-  static IconData get smokeDetectorAlertOutline => iconMap['smokeDetectorAlertOutline']!;
+  static IconData get smokeDetectorAlertOutline =>
+      iconMap['smokeDetectorAlertOutline']!;
   static IconData get smokeDetectorOff => iconMap['smokeDetectorOff']!;
-  static IconData get smokeDetectorOffOutline => iconMap['smokeDetectorOffOutline']!;
+  static IconData get smokeDetectorOffOutline =>
+      iconMap['smokeDetectorOffOutline']!;
   static IconData get smokeDetectorOutline => iconMap['smokeDetectorOutline']!;
   static IconData get smokeDetectorVariant => iconMap['smokeDetectorVariant']!;
-  static IconData get smokeDetectorVariantAlert => iconMap['smokeDetectorVariantAlert']!;
-  static IconData get smokeDetectorVariantOff => iconMap['smokeDetectorVariantOff']!;
+  static IconData get smokeDetectorVariantAlert =>
+      iconMap['smokeDetectorVariantAlert']!;
+  static IconData get smokeDetectorVariantOff =>
+      iconMap['smokeDetectorVariantOff']!;
   static IconData get smoking => iconMap['smoking']!;
   static IconData get smokingOff => iconMap['smokingOff']!;
   static IconData get smokingPipe => iconMap['smokingPipe']!;
@@ -6066,7 +6802,8 @@ class MdiIcons {
   static IconData get snowshoeing => iconMap['snowshoeing']!;
   static IconData get soccer => iconMap['soccer']!;
   static IconData get soccerField => iconMap['soccerField']!;
-  static IconData get socialDistance2Meters => iconMap['socialDistance2Meters']!;
+  static IconData get socialDistance2Meters =>
+      iconMap['socialDistance2Meters']!;
   static IconData get socialDistance6Feet => iconMap['socialDistance6Feet']!;
   static IconData get sofa => iconMap['sofa']!;
   static IconData get sofaOutline => iconMap['sofaOutline']!;
@@ -6076,32 +6813,47 @@ class MdiIcons {
   static IconData get solarPanelLarge => iconMap['solarPanelLarge']!;
   static IconData get solarPower => iconMap['solarPower']!;
   static IconData get solarPowerVariant => iconMap['solarPowerVariant']!;
-  static IconData get solarPowerVariantOutline => iconMap['solarPowerVariantOutline']!;
+  static IconData get solarPowerVariantOutline =>
+      iconMap['solarPowerVariantOutline']!;
   static IconData get solderingIron => iconMap['solderingIron']!;
   static IconData get solid => iconMap['solid']!;
   static IconData get sonyPlaystation => iconMap['sonyPlaystation']!;
   static IconData get sort => iconMap['sort']!;
-  static IconData get sortAlphabeticalAscending => iconMap['sortAlphabeticalAscending']!;
-  static IconData get sortAlphabeticalAscendingVariant => iconMap['sortAlphabeticalAscendingVariant']!;
-  static IconData get sortAlphabeticalDescending => iconMap['sortAlphabeticalDescending']!;
-  static IconData get sortAlphabeticalDescendingVariant => iconMap['sortAlphabeticalDescendingVariant']!;
-  static IconData get sortAlphabeticalVariant => iconMap['sortAlphabeticalVariant']!;
+  static IconData get sortAlphabeticalAscending =>
+      iconMap['sortAlphabeticalAscending']!;
+  static IconData get sortAlphabeticalAscendingVariant =>
+      iconMap['sortAlphabeticalAscendingVariant']!;
+  static IconData get sortAlphabeticalDescending =>
+      iconMap['sortAlphabeticalDescending']!;
+  static IconData get sortAlphabeticalDescendingVariant =>
+      iconMap['sortAlphabeticalDescendingVariant']!;
+  static IconData get sortAlphabeticalVariant =>
+      iconMap['sortAlphabeticalVariant']!;
   static IconData get sortAscending => iconMap['sortAscending']!;
   static IconData get sortBoolAscending => iconMap['sortBoolAscending']!;
-  static IconData get sortBoolAscendingVariant => iconMap['sortBoolAscendingVariant']!;
+  static IconData get sortBoolAscendingVariant =>
+      iconMap['sortBoolAscendingVariant']!;
   static IconData get sortBoolDescending => iconMap['sortBoolDescending']!;
-  static IconData get sortBoolDescendingVariant => iconMap['sortBoolDescendingVariant']!;
-  static IconData get sortCalendarAscending => iconMap['sortCalendarAscending']!;
-  static IconData get sortCalendarDescending => iconMap['sortCalendarDescending']!;
+  static IconData get sortBoolDescendingVariant =>
+      iconMap['sortBoolDescendingVariant']!;
+  static IconData get sortCalendarAscending =>
+      iconMap['sortCalendarAscending']!;
+  static IconData get sortCalendarDescending =>
+      iconMap['sortCalendarDescending']!;
   static IconData get sortClockAscending => iconMap['sortClockAscending']!;
-  static IconData get sortClockAscendingOutline => iconMap['sortClockAscendingOutline']!;
+  static IconData get sortClockAscendingOutline =>
+      iconMap['sortClockAscendingOutline']!;
   static IconData get sortClockDescending => iconMap['sortClockDescending']!;
-  static IconData get sortClockDescendingOutline => iconMap['sortClockDescendingOutline']!;
+  static IconData get sortClockDescendingOutline =>
+      iconMap['sortClockDescendingOutline']!;
   static IconData get sortDescending => iconMap['sortDescending']!;
   static IconData get sortNumericAscending => iconMap['sortNumericAscending']!;
-  static IconData get sortNumericAscendingVariant => iconMap['sortNumericAscendingVariant']!;
-  static IconData get sortNumericDescending => iconMap['sortNumericDescending']!;
-  static IconData get sortNumericDescendingVariant => iconMap['sortNumericDescendingVariant']!;
+  static IconData get sortNumericAscendingVariant =>
+      iconMap['sortNumericAscendingVariant']!;
+  static IconData get sortNumericDescending =>
+      iconMap['sortNumericDescending']!;
+  static IconData get sortNumericDescendingVariant =>
+      iconMap['sortNumericDescendingVariant']!;
   static IconData get sortNumericVariant => iconMap['sortNumericVariant']!;
   static IconData get sortReverseVariant => iconMap['sortReverseVariant']!;
   static IconData get sortVariant => iconMap['sortVariant']!;
@@ -6122,14 +6874,17 @@ class MdiIcons {
   static IconData get sourceCommitEnd => iconMap['sourceCommitEnd']!;
   static IconData get sourceCommitEndLocal => iconMap['sourceCommitEndLocal']!;
   static IconData get sourceCommitLocal => iconMap['sourceCommitLocal']!;
-  static IconData get sourceCommitNextLocal => iconMap['sourceCommitNextLocal']!;
+  static IconData get sourceCommitNextLocal =>
+      iconMap['sourceCommitNextLocal']!;
   static IconData get sourceCommitStart => iconMap['sourceCommitStart']!;
-  static IconData get sourceCommitStartNextLocal => iconMap['sourceCommitStartNextLocal']!;
+  static IconData get sourceCommitStartNextLocal =>
+      iconMap['sourceCommitStartNextLocal']!;
   static IconData get sourceFork => iconMap['sourceFork']!;
   static IconData get sourceMerge => iconMap['sourceMerge']!;
   static IconData get sourcePull => iconMap['sourcePull']!;
   static IconData get sourceRepository => iconMap['sourceRepository']!;
-  static IconData get sourceRepositoryMultiple => iconMap['sourceRepositoryMultiple']!;
+  static IconData get sourceRepositoryMultiple =>
+      iconMap['sourceRepositoryMultiple']!;
   static IconData get soySauce => iconMap['soySauce']!;
   static IconData get soySauceOff => iconMap['soySauceOff']!;
   static IconData get spa => iconMap['spa']!;
@@ -6183,7 +6938,8 @@ class MdiIcons {
   static IconData get squareRootBox => iconMap['squareRootBox']!;
   static IconData get squareRounded => iconMap['squareRounded']!;
   static IconData get squareRoundedBadge => iconMap['squareRoundedBadge']!;
-  static IconData get squareRoundedBadgeOutline => iconMap['squareRoundedBadgeOutline']!;
+  static IconData get squareRoundedBadgeOutline =>
+      iconMap['squareRoundedBadgeOutline']!;
   static IconData get squareRoundedOutline => iconMap['squareRoundedOutline']!;
   static IconData get squareSmall => iconMap['squareSmall']!;
   static IconData get squareWave => iconMap['squareWave']!;
@@ -6204,7 +6960,8 @@ class MdiIcons {
   static IconData get star => iconMap['star']!;
   static IconData get starBox => iconMap['starBox']!;
   static IconData get starBoxMultiple => iconMap['starBoxMultiple']!;
-  static IconData get starBoxMultipleOutline => iconMap['starBoxMultipleOutline']!;
+  static IconData get starBoxMultipleOutline =>
+      iconMap['starBoxMultipleOutline']!;
   static IconData get starBoxOutline => iconMap['starBoxOutline']!;
   static IconData get starCheck => iconMap['starCheck']!;
   static IconData get starCheckOutline => iconMap['starCheckOutline']!;
@@ -6217,10 +6974,13 @@ class MdiIcons {
   static IconData get starFace => iconMap['starFace']!;
   static IconData get starFourPoints => iconMap['starFourPoints']!;
   static IconData get starFourPointsBox => iconMap['starFourPointsBox']!;
-  static IconData get starFourPointsBoxOutline => iconMap['starFourPointsBoxOutline']!;
+  static IconData get starFourPointsBoxOutline =>
+      iconMap['starFourPointsBoxOutline']!;
   static IconData get starFourPointsCircle => iconMap['starFourPointsCircle']!;
-  static IconData get starFourPointsCircleOutline => iconMap['starFourPointsCircleOutline']!;
-  static IconData get starFourPointsOutline => iconMap['starFourPointsOutline']!;
+  static IconData get starFourPointsCircleOutline =>
+      iconMap['starFourPointsCircleOutline']!;
+  static IconData get starFourPointsOutline =>
+      iconMap['starFourPointsOutline']!;
   static IconData get starFourPointsSmall => iconMap['starFourPointsSmall']!;
   static IconData get starHalf => iconMap['starHalf']!;
   static IconData get starHalfFull => iconMap['starHalfFull']!;
@@ -6238,7 +6998,8 @@ class MdiIcons {
   static IconData get starShooting => iconMap['starShooting']!;
   static IconData get starShootingOutline => iconMap['starShootingOutline']!;
   static IconData get starThreePoints => iconMap['starThreePoints']!;
-  static IconData get starThreePointsOutline => iconMap['starThreePointsOutline']!;
+  static IconData get starThreePointsOutline =>
+      iconMap['starThreePointsOutline']!;
   static IconData get stateMachine => iconMap['stateMachine']!;
   static IconData get steam => iconMap['steam']!;
   static IconData get steering => iconMap['steering']!;
@@ -6302,24 +7063,31 @@ class MdiIcons {
   static IconData get storeSettingsOutline => iconMap['storeSettingsOutline']!;
   static IconData get storefront => iconMap['storefront']!;
   static IconData get storefrontCheck => iconMap['storefrontCheck']!;
-  static IconData get storefrontCheckOutline => iconMap['storefrontCheckOutline']!;
+  static IconData get storefrontCheckOutline =>
+      iconMap['storefrontCheckOutline']!;
   static IconData get storefrontEdit => iconMap['storefrontEdit']!;
-  static IconData get storefrontEditOutline => iconMap['storefrontEditOutline']!;
+  static IconData get storefrontEditOutline =>
+      iconMap['storefrontEditOutline']!;
   static IconData get storefrontMinus => iconMap['storefrontMinus']!;
-  static IconData get storefrontMinusOutline => iconMap['storefrontMinusOutline']!;
+  static IconData get storefrontMinusOutline =>
+      iconMap['storefrontMinusOutline']!;
   static IconData get storefrontOutline => iconMap['storefrontOutline']!;
   static IconData get storefrontPlus => iconMap['storefrontPlus']!;
-  static IconData get storefrontPlusOutline => iconMap['storefrontPlusOutline']!;
+  static IconData get storefrontPlusOutline =>
+      iconMap['storefrontPlusOutline']!;
   static IconData get storefrontRemove => iconMap['storefrontRemove']!;
-  static IconData get storefrontRemoveOutline => iconMap['storefrontRemoveOutline']!;
+  static IconData get storefrontRemoveOutline =>
+      iconMap['storefrontRemoveOutline']!;
   static IconData get stove => iconMap['stove']!;
   static IconData get strategy => iconMap['strategy']!;
   static IconData get stretchToPage => iconMap['stretchToPage']!;
   static IconData get stretchToPageOutline => iconMap['stretchToPageOutline']!;
   static IconData get stringLights => iconMap['stringLights']!;
   static IconData get stringLightsOff => iconMap['stringLightsOff']!;
-  static IconData get subdirectoryArrowLeft => iconMap['subdirectoryArrowLeft']!;
-  static IconData get subdirectoryArrowRight => iconMap['subdirectoryArrowRight']!;
+  static IconData get subdirectoryArrowLeft =>
+      iconMap['subdirectoryArrowLeft']!;
+  static IconData get subdirectoryArrowRight =>
+      iconMap['subdirectoryArrowRight']!;
   static IconData get submarine => iconMap['submarine']!;
   static IconData get subtitles => iconMap['subtitles']!;
   static IconData get subtitlesOutline => iconMap['subtitlesOutline']!;
@@ -6335,7 +7103,8 @@ class MdiIcons {
   static IconData get sunSnowflake => iconMap['sunSnowflake']!;
   static IconData get sunSnowflakeVariant => iconMap['sunSnowflakeVariant']!;
   static IconData get sunThermometer => iconMap['sunThermometer']!;
-  static IconData get sunThermometerOutline => iconMap['sunThermometerOutline']!;
+  static IconData get sunThermometerOutline =>
+      iconMap['sunThermometerOutline']!;
   static IconData get sunWireless => iconMap['sunWireless']!;
   static IconData get sunWirelessOutline => iconMap['sunWirelessOutline']!;
   static IconData get sunglasses => iconMap['sunglasses']!;
@@ -6351,12 +7120,15 @@ class MdiIcons {
   static IconData get swapHorizontal => iconMap['swapHorizontal']!;
   static IconData get swapHorizontalBold => iconMap['swapHorizontalBold']!;
   static IconData get swapHorizontalCircle => iconMap['swapHorizontalCircle']!;
-  static IconData get swapHorizontalCircleOutline => iconMap['swapHorizontalCircleOutline']!;
-  static IconData get swapHorizontalVariant => iconMap['swapHorizontalVariant']!;
+  static IconData get swapHorizontalCircleOutline =>
+      iconMap['swapHorizontalCircleOutline']!;
+  static IconData get swapHorizontalVariant =>
+      iconMap['swapHorizontalVariant']!;
   static IconData get swapVertical => iconMap['swapVertical']!;
   static IconData get swapVerticalBold => iconMap['swapVerticalBold']!;
   static IconData get swapVerticalCircle => iconMap['swapVerticalCircle']!;
-  static IconData get swapVerticalCircleOutline => iconMap['swapVerticalCircleOutline']!;
+  static IconData get swapVerticalCircleOutline =>
+      iconMap['swapVerticalCircleOutline']!;
   static IconData get swapVerticalVariant => iconMap['swapVerticalVariant']!;
   static IconData get swim => iconMap['swim']!;
   static IconData get switchIcon => iconMap['switchIcon']!;
@@ -6365,7 +7137,8 @@ class MdiIcons {
   static IconData get syllabaryHangul => iconMap['syllabaryHangul']!;
   static IconData get syllabaryHiragana => iconMap['syllabaryHiragana']!;
   static IconData get syllabaryKatakana => iconMap['syllabaryKatakana']!;
-  static IconData get syllabaryKatakanaHalfwidth => iconMap['syllabaryKatakanaHalfwidth']!;
+  static IconData get syllabaryKatakanaHalfwidth =>
+      iconMap['syllabaryKatakanaHalfwidth']!;
   static IconData get symbol => iconMap['symbol']!;
   static IconData get symfony => iconMap['symfony']!;
   static IconData get synagogue => iconMap['synagogue']!;
@@ -6395,7 +7168,8 @@ class MdiIcons {
   static IconData get tableCog => iconMap['tableCog']!;
   static IconData get tableColumn => iconMap['tableColumn']!;
   static IconData get tableColumnPlusAfter => iconMap['tableColumnPlusAfter']!;
-  static IconData get tableColumnPlusBefore => iconMap['tableColumnPlusBefore']!;
+  static IconData get tableColumnPlusBefore =>
+      iconMap['tableColumnPlusBefore']!;
   static IconData get tableColumnRemove => iconMap['tableColumnRemove']!;
   static IconData get tableColumnWidth => iconMap['tableColumnWidth']!;
   static IconData get tableEdit => iconMap['tableEdit']!;
@@ -6489,7 +7263,8 @@ class MdiIcons {
   static IconData get teddyBear => iconMap['teddyBear']!;
   static IconData get telescope => iconMap['telescope']!;
   static IconData get television => iconMap['television']!;
-  static IconData get televisionAmbientLight => iconMap['televisionAmbientLight']!;
+  static IconData get televisionAmbientLight =>
+      iconMap['televisionAmbientLight']!;
   static IconData get televisionBox => iconMap['televisionBox']!;
   static IconData get televisionClassic => iconMap['televisionClassic']!;
   static IconData get televisionClassicOff => iconMap['televisionClassicOff']!;
@@ -6502,10 +7277,12 @@ class MdiIcons {
   static IconData get televisionSpeakerOff => iconMap['televisionSpeakerOff']!;
   static IconData get televisionStop => iconMap['televisionStop']!;
   static IconData get temperatureCelsius => iconMap['temperatureCelsius']!;
-  static IconData get temperatureFahrenheit => iconMap['temperatureFahrenheit']!;
+  static IconData get temperatureFahrenheit =>
+      iconMap['temperatureFahrenheit']!;
   static IconData get temperatureKelvin => iconMap['temperatureKelvin']!;
   static IconData get templeBuddhist => iconMap['templeBuddhist']!;
-  static IconData get templeBuddhistOutline => iconMap['templeBuddhistOutline']!;
+  static IconData get templeBuddhistOutline =>
+      iconMap['templeBuddhistOutline']!;
   static IconData get templeHindu => iconMap['templeHindu']!;
   static IconData get templeHinduOutline => iconMap['templeHinduOutline']!;
   static IconData get tennis => iconMap['tennis']!;
@@ -6527,7 +7304,8 @@ class MdiIcons {
   static IconData get textBoxMinus => iconMap['textBoxMinus']!;
   static IconData get textBoxMinusOutline => iconMap['textBoxMinusOutline']!;
   static IconData get textBoxMultiple => iconMap['textBoxMultiple']!;
-  static IconData get textBoxMultipleOutline => iconMap['textBoxMultipleOutline']!;
+  static IconData get textBoxMultipleOutline =>
+      iconMap['textBoxMultipleOutline']!;
   static IconData get textBoxOutline => iconMap['textBoxOutline']!;
   static IconData get textBoxPlus => iconMap['textBoxPlus']!;
   static IconData get textBoxPlusOutline => iconMap['textBoxPlusOutline']!;
@@ -6550,7 +7328,8 @@ class MdiIcons {
   static IconData get thermometerAuto => iconMap['thermometerAuto']!;
   static IconData get thermometerBluetooth => iconMap['thermometerBluetooth']!;
   static IconData get thermometerCheck => iconMap['thermometerCheck']!;
-  static IconData get thermometerChevronDown => iconMap['thermometerChevronDown']!;
+  static IconData get thermometerChevronDown =>
+      iconMap['thermometerChevronDown']!;
   static IconData get thermometerChevronUp => iconMap['thermometerChevronUp']!;
   static IconData get thermometerHigh => iconMap['thermometerHigh']!;
   static IconData get thermometerLines => iconMap['thermometerLines']!;
@@ -6577,7 +7356,8 @@ class MdiIcons {
   static IconData get ticket => iconMap['ticket']!;
   static IconData get ticketAccount => iconMap['ticketAccount']!;
   static IconData get ticketConfirmation => iconMap['ticketConfirmation']!;
-  static IconData get ticketConfirmationOutline => iconMap['ticketConfirmationOutline']!;
+  static IconData get ticketConfirmationOutline =>
+      iconMap['ticketConfirmationOutline']!;
   static IconData get ticketOutline => iconMap['ticketOutline']!;
   static IconData get ticketPercent => iconMap['ticketPercent']!;
   static IconData get ticketPercentOutline => iconMap['ticketPercentOutline']!;
@@ -6598,9 +7378,11 @@ class MdiIcons {
   static IconData get timelinePlus => iconMap['timelinePlus']!;
   static IconData get timelinePlusOutline => iconMap['timelinePlusOutline']!;
   static IconData get timelineQuestion => iconMap['timelineQuestion']!;
-  static IconData get timelineQuestionOutline => iconMap['timelineQuestionOutline']!;
+  static IconData get timelineQuestionOutline =>
+      iconMap['timelineQuestionOutline']!;
   static IconData get timelineRemove => iconMap['timelineRemove']!;
-  static IconData get timelineRemoveOutline => iconMap['timelineRemoveOutline']!;
+  static IconData get timelineRemoveOutline =>
+      iconMap['timelineRemoveOutline']!;
   static IconData get timelineText => iconMap['timelineText']!;
   static IconData get timelineTextOutline => iconMap['timelineTextOutline']!;
   static IconData get timer => iconMap['timer']!;
@@ -6659,10 +7441,12 @@ class MdiIcons {
   static IconData get toasterOven => iconMap['toasterOven']!;
   static IconData get toggleSwitch => iconMap['toggleSwitch']!;
   static IconData get toggleSwitchOff => iconMap['toggleSwitchOff']!;
-  static IconData get toggleSwitchOffOutline => iconMap['toggleSwitchOffOutline']!;
+  static IconData get toggleSwitchOffOutline =>
+      iconMap['toggleSwitchOffOutline']!;
   static IconData get toggleSwitchOutline => iconMap['toggleSwitchOutline']!;
   static IconData get toggleSwitchVariant => iconMap['toggleSwitchVariant']!;
-  static IconData get toggleSwitchVariantOff => iconMap['toggleSwitchVariantOff']!;
+  static IconData get toggleSwitchVariantOff =>
+      iconMap['toggleSwitchVariantOff']!;
   static IconData get toilet => iconMap['toilet']!;
   static IconData get toolbox => iconMap['toolbox']!;
   static IconData get toolboxOutline => iconMap['toolboxOutline']!;
@@ -6682,7 +7466,8 @@ class MdiIcons {
   static IconData get tooltipPlus => iconMap['tooltipPlus']!;
   static IconData get tooltipPlusOutline => iconMap['tooltipPlusOutline']!;
   static IconData get tooltipQuestion => iconMap['tooltipQuestion']!;
-  static IconData get tooltipQuestionOutline => iconMap['tooltipQuestionOutline']!;
+  static IconData get tooltipQuestionOutline =>
+      iconMap['tooltipQuestionOutline']!;
   static IconData get tooltipRemove => iconMap['tooltipRemove']!;
   static IconData get tooltipRemoveOutline => iconMap['tooltipRemoveOutline']!;
   static IconData get tooltipText => iconMap['tooltipText']!;
@@ -6703,16 +7488,19 @@ class MdiIcons {
   static IconData get townHall => iconMap['townHall']!;
   static IconData get toyBrick => iconMap['toyBrick']!;
   static IconData get toyBrickMarker => iconMap['toyBrickMarker']!;
-  static IconData get toyBrickMarkerOutline => iconMap['toyBrickMarkerOutline']!;
+  static IconData get toyBrickMarkerOutline =>
+      iconMap['toyBrickMarkerOutline']!;
   static IconData get toyBrickMinus => iconMap['toyBrickMinus']!;
   static IconData get toyBrickMinusOutline => iconMap['toyBrickMinusOutline']!;
   static IconData get toyBrickOutline => iconMap['toyBrickOutline']!;
   static IconData get toyBrickPlus => iconMap['toyBrickPlus']!;
   static IconData get toyBrickPlusOutline => iconMap['toyBrickPlusOutline']!;
   static IconData get toyBrickRemove => iconMap['toyBrickRemove']!;
-  static IconData get toyBrickRemoveOutline => iconMap['toyBrickRemoveOutline']!;
+  static IconData get toyBrickRemoveOutline =>
+      iconMap['toyBrickRemoveOutline']!;
   static IconData get toyBrickSearch => iconMap['toyBrickSearch']!;
-  static IconData get toyBrickSearchOutline => iconMap['toyBrickSearchOutline']!;
+  static IconData get toyBrickSearchOutline =>
+      iconMap['toyBrickSearchOutline']!;
   static IconData get trackLight => iconMap['trackLight']!;
   static IconData get trackLightOff => iconMap['trackLightOff']!;
   static IconData get trackpad => iconMap['trackpad']!;
@@ -6731,7 +7519,8 @@ class MdiIcons {
   static IconData get trainCarBoxOpen => iconMap['trainCarBoxOpen']!;
   static IconData get trainCarCaboose => iconMap['trainCarCaboose']!;
   static IconData get trainCarCenterbeam => iconMap['trainCarCenterbeam']!;
-  static IconData get trainCarCenterbeamFull => iconMap['trainCarCenterbeamFull']!;
+  static IconData get trainCarCenterbeamFull =>
+      iconMap['trainCarCenterbeamFull']!;
   static IconData get trainCarContainer => iconMap['trainCarContainer']!;
   static IconData get trainCarFlatbed => iconMap['trainCarFlatbed']!;
   static IconData get trainCarFlatbedCar => iconMap['trainCarFlatbedCar']!;
@@ -6739,13 +7528,17 @@ class MdiIcons {
   static IconData get trainCarGondola => iconMap['trainCarGondola']!;
   static IconData get trainCarGondolaFull => iconMap['trainCarGondolaFull']!;
   static IconData get trainCarHopper => iconMap['trainCarHopper']!;
-  static IconData get trainCarHopperCovered => iconMap['trainCarHopperCovered']!;
+  static IconData get trainCarHopperCovered =>
+      iconMap['trainCarHopperCovered']!;
   static IconData get trainCarHopperFull => iconMap['trainCarHopperFull']!;
   static IconData get trainCarIntermodal => iconMap['trainCarIntermodal']!;
   static IconData get trainCarPassenger => iconMap['trainCarPassenger']!;
-  static IconData get trainCarPassengerDoor => iconMap['trainCarPassengerDoor']!;
-  static IconData get trainCarPassengerDoorOpen => iconMap['trainCarPassengerDoorOpen']!;
-  static IconData get trainCarPassengerVariant => iconMap['trainCarPassengerVariant']!;
+  static IconData get trainCarPassengerDoor =>
+      iconMap['trainCarPassengerDoor']!;
+  static IconData get trainCarPassengerDoorOpen =>
+      iconMap['trainCarPassengerDoorOpen']!;
+  static IconData get trainCarPassengerVariant =>
+      iconMap['trainCarPassengerVariant']!;
   static IconData get trainCarTank => iconMap['trainCarTank']!;
   static IconData get trainVariant => iconMap['trainVariant']!;
   static IconData get tram => iconMap['tram']!;
@@ -6758,8 +7551,10 @@ class MdiIcons {
   static IconData get transferRight => iconMap['transferRight']!;
   static IconData get transferUp => iconMap['transferUp']!;
   static IconData get transitConnection => iconMap['transitConnection']!;
-  static IconData get transitConnectionHorizontal => iconMap['transitConnectionHorizontal']!;
-  static IconData get transitConnectionVariant => iconMap['transitConnectionVariant']!;
+  static IconData get transitConnectionHorizontal =>
+      iconMap['transitConnectionHorizontal']!;
+  static IconData get transitConnectionVariant =>
+      iconMap['transitConnectionVariant']!;
   static IconData get transitDetour => iconMap['transitDetour']!;
   static IconData get transitSkip => iconMap['transitSkip']!;
   static IconData get transitTransfer => iconMap['transitTransfer']!;
@@ -6769,8 +7564,10 @@ class MdiIcons {
   static IconData get translateOff => iconMap['translateOff']!;
   static IconData get translateVariant => iconMap['translateVariant']!;
   static IconData get transmissionTower => iconMap['transmissionTower']!;
-  static IconData get transmissionTowerExport => iconMap['transmissionTowerExport']!;
-  static IconData get transmissionTowerImport => iconMap['transmissionTowerImport']!;
+  static IconData get transmissionTowerExport =>
+      iconMap['transmissionTowerExport']!;
+  static IconData get transmissionTowerImport =>
+      iconMap['transmissionTowerImport']!;
   static IconData get transmissionTowerOff => iconMap['transmissionTowerOff']!;
   static IconData get trashCan => iconMap['trashCan']!;
   static IconData get trashCanOutline => iconMap['trashCanOutline']!;
@@ -6846,7 +7643,8 @@ class MdiIcons {
   static IconData get turtle => iconMap['turtle']!;
   static IconData get twitch => iconMap['twitch']!;
   static IconData get twitter => iconMap['twitter']!;
-  static IconData get twoFactorAuthentication => iconMap['twoFactorAuthentication']!;
+  static IconData get twoFactorAuthentication =>
+      iconMap['twoFactorAuthentication']!;
   static IconData get typewriter => iconMap['typewriter']!;
   static IconData get ubisoft => iconMap['ubisoft']!;
   static IconData get ubuntu => iconMap['ubuntu']!;
@@ -6858,8 +7656,10 @@ class MdiIcons {
   static IconData get umbrellaBeach => iconMap['umbrellaBeach']!;
   static IconData get umbrellaBeachOutline => iconMap['umbrellaBeachOutline']!;
   static IconData get umbrellaClosed => iconMap['umbrellaClosed']!;
-  static IconData get umbrellaClosedOutline => iconMap['umbrellaClosedOutline']!;
-  static IconData get umbrellaClosedVariant => iconMap['umbrellaClosedVariant']!;
+  static IconData get umbrellaClosedOutline =>
+      iconMap['umbrellaClosedOutline']!;
+  static IconData get umbrellaClosedVariant =>
+      iconMap['umbrellaClosedVariant']!;
   static IconData get umbrellaOutline => iconMap['umbrellaOutline']!;
   static IconData get undo => iconMap['undo']!;
   static IconData get undoVariant => iconMap['undoVariant']!;
@@ -6988,10 +7788,12 @@ class MdiIcons {
   static IconData get viewCompactOutline => iconMap['viewCompactOutline']!;
   static IconData get viewDashboard => iconMap['viewDashboard']!;
   static IconData get viewDashboardEdit => iconMap['viewDashboardEdit']!;
-  static IconData get viewDashboardEditOutline => iconMap['viewDashboardEditOutline']!;
+  static IconData get viewDashboardEditOutline =>
+      iconMap['viewDashboardEditOutline']!;
   static IconData get viewDashboardOutline => iconMap['viewDashboardOutline']!;
   static IconData get viewDashboardVariant => iconMap['viewDashboardVariant']!;
-  static IconData get viewDashboardVariantOutline => iconMap['viewDashboardVariantOutline']!;
+  static IconData get viewDashboardVariantOutline =>
+      iconMap['viewDashboardVariantOutline']!;
   static IconData get viewDay => iconMap['viewDay']!;
   static IconData get viewDayOutline => iconMap['viewDayOutline']!;
   static IconData get viewGallery => iconMap['viewGallery']!;
@@ -7011,7 +7813,8 @@ class MdiIcons {
   static IconData get viewQuilt => iconMap['viewQuilt']!;
   static IconData get viewQuiltOutline => iconMap['viewQuiltOutline']!;
   static IconData get viewSequential => iconMap['viewSequential']!;
-  static IconData get viewSequentialOutline => iconMap['viewSequentialOutline']!;
+  static IconData get viewSequentialOutline =>
+      iconMap['viewSequentialOutline']!;
   static IconData get viewSplitHorizontal => iconMap['viewSplitHorizontal']!;
   static IconData get viewSplitVertical => iconMap['viewSplitVertical']!;
   static IconData get viewStream => iconMap['viewStream']!;
@@ -7051,14 +7854,20 @@ class MdiIcons {
   static IconData get wallFire => iconMap['wallFire']!;
   static IconData get wallSconce => iconMap['wallSconce']!;
   static IconData get wallSconceFlat => iconMap['wallSconceFlat']!;
-  static IconData get wallSconceFlatOutline => iconMap['wallSconceFlatOutline']!;
-  static IconData get wallSconceFlatVariant => iconMap['wallSconceFlatVariant']!;
-  static IconData get wallSconceFlatVariantOutline => iconMap['wallSconceFlatVariantOutline']!;
+  static IconData get wallSconceFlatOutline =>
+      iconMap['wallSconceFlatOutline']!;
+  static IconData get wallSconceFlatVariant =>
+      iconMap['wallSconceFlatVariant']!;
+  static IconData get wallSconceFlatVariantOutline =>
+      iconMap['wallSconceFlatVariantOutline']!;
   static IconData get wallSconceOutline => iconMap['wallSconceOutline']!;
   static IconData get wallSconceRound => iconMap['wallSconceRound']!;
-  static IconData get wallSconceRoundOutline => iconMap['wallSconceRoundOutline']!;
-  static IconData get wallSconceRoundVariant => iconMap['wallSconceRoundVariant']!;
-  static IconData get wallSconceRoundVariantOutline => iconMap['wallSconceRoundVariantOutline']!;
+  static IconData get wallSconceRoundOutline =>
+      iconMap['wallSconceRoundOutline']!;
+  static IconData get wallSconceRoundVariant =>
+      iconMap['wallSconceRoundVariant']!;
+  static IconData get wallSconceRoundVariantOutline =>
+      iconMap['wallSconceRoundVariantOutline']!;
   static IconData get wallet => iconMap['wallet']!;
   static IconData get walletBifold => iconMap['walletBifold']!;
   static IconData get walletBifoldOutline => iconMap['walletBifoldOutline']!;
@@ -7111,7 +7920,8 @@ class MdiIcons {
   static IconData get waterRemoveOutline => iconMap['waterRemoveOutline']!;
   static IconData get waterSync => iconMap['waterSync']!;
   static IconData get waterThermometer => iconMap['waterThermometer']!;
-  static IconData get waterThermometerOutline => iconMap['waterThermometerOutline']!;
+  static IconData get waterThermometerOutline =>
+      iconMap['waterThermometerOutline']!;
   static IconData get waterWell => iconMap['waterWell']!;
   static IconData get waterWellOutline => iconMap['waterWellOutline']!;
   static IconData get waterfall => iconMap['waterfall']!;
@@ -7127,23 +7937,29 @@ class MdiIcons {
   static IconData get waze => iconMap['waze']!;
   static IconData get weatherCloudy => iconMap['weatherCloudy']!;
   static IconData get weatherCloudyAlert => iconMap['weatherCloudyAlert']!;
-  static IconData get weatherCloudyArrowRight => iconMap['weatherCloudyArrowRight']!;
+  static IconData get weatherCloudyArrowRight =>
+      iconMap['weatherCloudyArrowRight']!;
   static IconData get weatherCloudyClock => iconMap['weatherCloudyClock']!;
   static IconData get weatherDust => iconMap['weatherDust']!;
   static IconData get weatherFog => iconMap['weatherFog']!;
   static IconData get weatherHail => iconMap['weatherHail']!;
   static IconData get weatherHazy => iconMap['weatherHazy']!;
   static IconData get weatherHurricane => iconMap['weatherHurricane']!;
-  static IconData get weatherHurricaneOutline => iconMap['weatherHurricaneOutline']!;
+  static IconData get weatherHurricaneOutline =>
+      iconMap['weatherHurricaneOutline']!;
   static IconData get weatherLightning => iconMap['weatherLightning']!;
-  static IconData get weatherLightningRainy => iconMap['weatherLightningRainy']!;
+  static IconData get weatherLightningRainy =>
+      iconMap['weatherLightningRainy']!;
   static IconData get weatherNight => iconMap['weatherNight']!;
-  static IconData get weatherNightPartlyCloudy => iconMap['weatherNightPartlyCloudy']!;
+  static IconData get weatherNightPartlyCloudy =>
+      iconMap['weatherNightPartlyCloudy']!;
   static IconData get weatherPartlyCloudy => iconMap['weatherPartlyCloudy']!;
-  static IconData get weatherPartlyLightning => iconMap['weatherPartlyLightning']!;
+  static IconData get weatherPartlyLightning =>
+      iconMap['weatherPartlyLightning']!;
   static IconData get weatherPartlyRainy => iconMap['weatherPartlyRainy']!;
   static IconData get weatherPartlySnowy => iconMap['weatherPartlySnowy']!;
-  static IconData get weatherPartlySnowyRainy => iconMap['weatherPartlySnowyRainy']!;
+  static IconData get weatherPartlySnowyRainy =>
+      iconMap['weatherPartlySnowyRainy']!;
   static IconData get weatherPouring => iconMap['weatherPouring']!;
   static IconData get weatherRainy => iconMap['weatherRainy']!;
   static IconData get weatherSnowy => iconMap['weatherSnowy']!;
@@ -7183,12 +7999,15 @@ class MdiIcons {
   static IconData get whatsapp => iconMap['whatsapp']!;
   static IconData get wheelBarrow => iconMap['wheelBarrow']!;
   static IconData get wheelchair => iconMap['wheelchair']!;
-  static IconData get wheelchairAccessibility => iconMap['wheelchairAccessibility']!;
+  static IconData get wheelchairAccessibility =>
+      iconMap['wheelchairAccessibility']!;
   static IconData get whistle => iconMap['whistle']!;
   static IconData get whistleOutline => iconMap['whistleOutline']!;
   static IconData get whiteBalanceAuto => iconMap['whiteBalanceAuto']!;
-  static IconData get whiteBalanceIncandescent => iconMap['whiteBalanceIncandescent']!;
-  static IconData get whiteBalanceIridescent => iconMap['whiteBalanceIridescent']!;
+  static IconData get whiteBalanceIncandescent =>
+      iconMap['whiteBalanceIncandescent']!;
+  static IconData get whiteBalanceIridescent =>
+      iconMap['whiteBalanceIridescent']!;
   static IconData get whiteBalanceSunny => iconMap['whiteBalanceSunny']!;
   static IconData get widgets => iconMap['widgets']!;
   static IconData get widgetsOutline => iconMap['widgetsOutline']!;
@@ -7216,24 +8035,32 @@ class MdiIcons {
   static IconData get wifiStrength1 => iconMap['wifiStrength1']!;
   static IconData get wifiStrength1Alert => iconMap['wifiStrength1Alert']!;
   static IconData get wifiStrength1Lock => iconMap['wifiStrength1Lock']!;
-  static IconData get wifiStrength1LockOpen => iconMap['wifiStrength1LockOpen']!;
+  static IconData get wifiStrength1LockOpen =>
+      iconMap['wifiStrength1LockOpen']!;
   static IconData get wifiStrength2 => iconMap['wifiStrength2']!;
   static IconData get wifiStrength2Alert => iconMap['wifiStrength2Alert']!;
   static IconData get wifiStrength2Lock => iconMap['wifiStrength2Lock']!;
-  static IconData get wifiStrength2LockOpen => iconMap['wifiStrength2LockOpen']!;
+  static IconData get wifiStrength2LockOpen =>
+      iconMap['wifiStrength2LockOpen']!;
   static IconData get wifiStrength3 => iconMap['wifiStrength3']!;
   static IconData get wifiStrength3Alert => iconMap['wifiStrength3Alert']!;
   static IconData get wifiStrength3Lock => iconMap['wifiStrength3Lock']!;
-  static IconData get wifiStrength3LockOpen => iconMap['wifiStrength3LockOpen']!;
+  static IconData get wifiStrength3LockOpen =>
+      iconMap['wifiStrength3LockOpen']!;
   static IconData get wifiStrength4 => iconMap['wifiStrength4']!;
   static IconData get wifiStrength4Alert => iconMap['wifiStrength4Alert']!;
   static IconData get wifiStrength4Lock => iconMap['wifiStrength4Lock']!;
-  static IconData get wifiStrength4LockOpen => iconMap['wifiStrength4LockOpen']!;
-  static IconData get wifiStrengthAlertOutline => iconMap['wifiStrengthAlertOutline']!;
-  static IconData get wifiStrengthLockOpenOutline => iconMap['wifiStrengthLockOpenOutline']!;
-  static IconData get wifiStrengthLockOutline => iconMap['wifiStrengthLockOutline']!;
+  static IconData get wifiStrength4LockOpen =>
+      iconMap['wifiStrength4LockOpen']!;
+  static IconData get wifiStrengthAlertOutline =>
+      iconMap['wifiStrengthAlertOutline']!;
+  static IconData get wifiStrengthLockOpenOutline =>
+      iconMap['wifiStrengthLockOpenOutline']!;
+  static IconData get wifiStrengthLockOutline =>
+      iconMap['wifiStrengthLockOutline']!;
   static IconData get wifiStrengthOff => iconMap['wifiStrengthOff']!;
-  static IconData get wifiStrengthOffOutline => iconMap['wifiStrengthOffOutline']!;
+  static IconData get wifiStrengthOffOutline =>
+      iconMap['wifiStrengthOffOutline']!;
   static IconData get wifiStrengthOutline => iconMap['wifiStrengthOutline']!;
   static IconData get wifiSync => iconMap['wifiSync']!;
   static IconData get wikipedia => iconMap['wikipedia']!;
@@ -7255,7 +8082,8 @@ class MdiIcons {
   static IconData get windowShutterAuto => iconMap['windowShutterAuto']!;
   static IconData get windowShutterCog => iconMap['windowShutterCog']!;
   static IconData get windowShutterOpen => iconMap['windowShutterOpen']!;
-  static IconData get windowShutterSettings => iconMap['windowShutterSettings']!;
+  static IconData get windowShutterSettings =>
+      iconMap['windowShutterSettings']!;
   static IconData get windsock => iconMap['windsock']!;
   static IconData get wiper => iconMap['wiper']!;
   static IconData get wiperWash => iconMap['wiperWash']!;
@@ -7316,7 +8144,7 @@ class MdiIcons {
         throw 'unexpected match-miss';
       }
       res += match.substring(0, 1).toUpperCase() +
-        match.substring(1).toLowerCase();
+          match.substring(1).toLowerCase();
     }
     return res.substring(0, 1).toLowerCase() + res.substring(1);
   }
