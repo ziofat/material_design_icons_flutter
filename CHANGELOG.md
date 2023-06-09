@@ -1,3 +1,7 @@
+## 6.0.7296
+
+Update icons to 7.2.96 of mdi. Icons that have been added can be found at https://pictogrammers.com/library/mdi/version/7.2.96.
+
 ## 6.0.7196
 
 Update icons to 7.1.96 of mdi. Icons that have been added can be found at https://pictogrammers.com/library/mdi/version/7.1.96.
