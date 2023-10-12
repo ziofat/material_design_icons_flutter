@@ -8156,7 +8156,7 @@ class MdiIcons {
   
   static IconData? fromStringToCloseIcon(String key) {
     final closeIcon = iconMap.keys.firstWhere((icon)=>icon.contains(key),orElse: () => 'crop-square');
-    return iconMap[closeIcon]
+    return iconMap[closeIcon];
   }
 
   IconData? operator [](String key) {
