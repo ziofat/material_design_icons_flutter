@@ -8153,6 +8153,11 @@ class MdiIcons {
     final iconName = MdiIcons.toCamelCase(key);
     return iconMap[iconName];
   }
+  
+  static IconData? fromStringToCloseIcon(String key) {
+    final closeIcon = iconMap.keys.firstWhere((icon)=>icon.contains(key),orElse: () => 'crop-square');
+    return iconMap[closeIcon];
+  }
 
   IconData? operator [](String key) {
     final iconName = MdiIcons.toCamelCase(key);
