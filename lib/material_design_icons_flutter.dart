@@ -4729,6 +4729,7 @@ class MdiIcons {
   static IconData get listStatus => iconMap['listStatus']!;
   static IconData get litecoin => iconMap['litecoin']!;
   static IconData get loading => iconMap['loading']!;
+  static IconData get localFireDepartment => iconMap['localFireDepartment']!;
   static IconData get locationEnter => iconMap['locationEnter']!;
   static IconData get locationExit => iconMap['locationExit']!;
   static IconData get lock => iconMap['lock']!;
@@ -5083,6 +5084,7 @@ class MdiIcons {
   static IconData get molecule => iconMap['molecule']!;
   static IconData get moleculeCo => iconMap['moleculeCo']!;
   static IconData get moleculeCo2 => iconMap['moleculeCo2']!;
+  static IconData get monetizationOn => iconMap['monetizationOn']!;
   static IconData get monitor => iconMap['monitor']!;
   static IconData get monitorAccount => iconMap['monitorAccount']!;
   static IconData get monitorArrowDown => iconMap['monitorArrowDown']!;
@@ -6641,6 +6643,7 @@ class MdiIcons {
   static IconData get shoePrint => iconMap['shoePrint']!;
   static IconData get shoeSneaker => iconMap['shoeSneaker']!;
   static IconData get shopping => iconMap['shopping']!;
+  static IconData get shoppingBasket => iconMap['shoppingBasket']!;
   static IconData get shoppingMusic => iconMap['shoppingMusic']!;
   static IconData get shoppingOutline => iconMap['shoppingOutline']!;
   static IconData get shoppingSearch => iconMap['shoppingSearch']!;
