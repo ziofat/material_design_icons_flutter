@@ -106,26 +106,30 @@ Future generateCode(
     required String dest,
     required MdiInfo info}) async {
   String templateFile = await File(template).readAsString();
-  RegExpMatch? match = RegExp(r'<%(.*)%>').firstMatch(templateFile);
-  if (match != null) {
+  RegExp regex = RegExp(r'<%(.*)%>');
+  Iterable<Match> matches = regex.allMatches(templateFile);
+  if (matches.isNotEmpty) {
+    for (Match match in matches) {
     String? placeholder = match.group(0);
     if (placeholder == null) {
       throw 'missing placeholder';
     }
-    String? templateStatment = match.group(1);
-    if (templateStatment == null) {
-      throw 'missing templateStatment';
+      String? templateStatement = match.group(1);
+      if (templateStatement == null) {
+        throw 'missing templateStatement';
     }
     String generated = templateFile.replaceAll(
         placeholder,
         info.icons.map((icon) {
-          return templateStatment
+            return templateStatement
               .replaceAll('__ICON_NAME__', icon.identifier)
               .replaceAll('__ORIGINAL_ICON_NAME__', icon.name)
               .replaceAll('__CODE_POINT__', '0x${icon.codePoint}');
         }).join('\n'));
-    await File(dest).writeAsString(generated);
+      templateFile = generated; // update templateFile for next iteration
   }
+    await File(dest).writeAsString(templateFile);
+}
 }
 
 main() async {
@@ -138,11 +142,6 @@ main() async {
   await generateCode(
     template: './tool/material_design_icons_flutter.dart.template',
     dest: './lib/material_design_icons_flutter.dart',
-    info: info,
-  );
-  await generateCode(
-    template: './tool/icon_map.dart.template',
-    dest: './lib/icon_map.dart',
     info: info,
   );
   File('./tool/materialdesignicons-webfont.ttf')
