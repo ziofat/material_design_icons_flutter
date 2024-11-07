@@ -7,7 +7,7 @@ import 'icon_map.dart';
 class MdiIcons {
   const MdiIcons();
 
-<%  static IconData get __ICON_NAME__ => iconMap['__ICON_NAME__']!;%>
+<%  static const IconData __ICON_NAME__ = iconMap['__ICON_NAME__']!;%>
 
   static toCamelCase(String str) {
     RegExp exp = new RegExp(
