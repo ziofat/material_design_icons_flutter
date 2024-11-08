@@ -26,17 +26,28 @@ class MdiIcons {
 
   static IconData? fromString(String key) {
     final iconName = MdiIcons.toCamelCase(key);
-    return switch (iconName) {
-      <%  '__ICON_NAME__' => MdiIcons.__ICON_NAME__,%>
-       _ => null
-    };
+        return iconMap[iconName];
   }
 
   IconData? operator [](String key) {
     final iconName = MdiIcons.toCamelCase(key);
-    return fromString(iconName);
+    return iconMap[iconName];
+  }
+
+    /// Returns list of all icons names.
+  static List<String> getNames() {
+    return iconMap.keys.toList();
+  }
+
+  /// Returns list of all icons.
+  static List<IconData> getIcons() {
+    return iconMap.values.toList();
   }
 }
+
+const iconMap = <String, IconData>{
+<%  '__ICON_NAME__': MdiIcons.__ICON_NAME__,%>
+};
 
 class _MdiIconData extends IconData {
   const _MdiIconData(int codePoint)
