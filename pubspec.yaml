@@ -14,5 +14,5 @@ flutter:
         - asset: lib/fonts/materialdesignicons-webfont.ttf
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: ">=2.12.0 <4.0.0"
   flutter: ">=0.1.2"
