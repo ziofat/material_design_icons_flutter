@@ -77,6 +77,10 @@ class MdiIcons {
   static IconData get accountEditOutline => iconMap['accountEditOutline']!;
   static IconData get accountEye => iconMap['accountEye']!;
   static IconData get accountEyeOutline => iconMap['accountEyeOutline']!;
+  static IconData get accountFile => iconMap['accountFile']!;
+  static IconData get accountFileOutline => iconMap['accountFileOutline']!;
+  static IconData get accountFileText => iconMap['accountFileText']!;
+  static IconData get accountFileTextOutline => iconMap['accountFileTextOutline']!;
   static IconData get accountFilter => iconMap['accountFilter']!;
   static IconData get accountFilterOutline => iconMap['accountFilterOutline']!;
   static IconData get accountGroup => iconMap['accountGroup']!;
@@ -630,6 +634,8 @@ class MdiIcons {
       iconMap['arrowLeftThinCircleOutline']!;
   static IconData get arrowLeftTop => iconMap['arrowLeftTop']!;
   static IconData get arrowLeftTopBold => iconMap['arrowLeftTopBold']!;
+  static IconData get arrowOscillating => iconMap['arrowOscillating']!;
+  static IconData get arrowOscillatingOff => iconMap['arrowOscillatingOff']!;
   static IconData get arrowProjectile => iconMap['arrowProjectile']!;
   static IconData get arrowProjectileMultiple =>
       iconMap['arrowProjectileMultiple']!;
@@ -836,6 +842,8 @@ class MdiIcons {
   static IconData get bagPersonalOffOutline =>
       iconMap['bagPersonalOffOutline']!;
   static IconData get bagPersonalOutline => iconMap['bagPersonalOutline']!;
+  static IconData get bagPersonalPlus => iconMap['bagPersonalPlus']!;
+  static IconData get bagPersonalPlusOutline => iconMap['bagPersonalPlusOutline']!;
   static IconData get bagPersonalTag => iconMap['bagPersonalTag']!;
   static IconData get bagPersonalTagOutline =>
       iconMap['bagPersonalTagOutline']!;
@@ -1389,9 +1397,11 @@ class MdiIcons {
   static IconData get busMultiple => iconMap['busMultiple']!;
   static IconData get busSchool => iconMap['busSchool']!;
   static IconData get busSide => iconMap['busSide']!;
+  static IconData get busSign => iconMap['busSign']!;
   static IconData get busStop => iconMap['busStop']!;
   static IconData get busStopCovered => iconMap['busStopCovered']!;
   static IconData get busStopUncovered => iconMap['busStopUncovered']!;
+  static IconData get busWrench => iconMap['busWrench']!;
   static IconData get butterfly => iconMap['butterfly']!;
   static IconData get butterflyOutline => iconMap['butterflyOutline']!;
   static IconData get buttonCursor => iconMap['buttonCursor']!;
@@ -1595,6 +1605,7 @@ class MdiIcons {
   static IconData get carDefrostRear => iconMap['carDefrostRear']!;
   static IconData get carDoor => iconMap['carDoor']!;
   static IconData get carDoorLock => iconMap['carDoorLock']!;
+  static IconData get carDoorLockOpen => iconMap['carDoorLockOpen']!;
   static IconData get carElectric => iconMap['carElectric']!;
   static IconData get carElectricOutline => iconMap['carElectricOutline']!;
   static IconData get carEmergency => iconMap['carEmergency']!;
@@ -1732,6 +1743,7 @@ class MdiIcons {
   static IconData get cash100 => iconMap['cash100']!;
   static IconData get cashCheck => iconMap['cashCheck']!;
   static IconData get cashClock => iconMap['cashClock']!;
+  static IconData get cashEdit => iconMap['cashEdit']!;
   static IconData get cashFast => iconMap['cashFast']!;
   static IconData get cashLock => iconMap['cashLock']!;
   static IconData get cashLockOpen => iconMap['cashLockOpen']!;
@@ -1797,6 +1809,7 @@ class MdiIcons {
   static IconData get chairSchool => iconMap['chairSchool']!;
   static IconData get chandelier => iconMap['chandelier']!;
   static IconData get charity => iconMap['charity']!;
+  static IconData get charitySearch => iconMap['charitySearch']!;
   static IconData get chartArc => iconMap['chartArc']!;
   static IconData get chartAreaspline => iconMap['chartAreaspline']!;
   static IconData get chartAreasplineVariant =>
@@ -2188,6 +2201,8 @@ class MdiIcons {
   static IconData get cloudCogOutline => iconMap['cloudCogOutline']!;
   static IconData get cloudDownload => iconMap['cloudDownload']!;
   static IconData get cloudDownloadOutline => iconMap['cloudDownloadOutline']!;
+  static IconData get cloudKey => iconMap['cloudKey']!;
+  static IconData get cloudKeyOutline => iconMap['cloudKeyOutline']!;
   static IconData get cloudLock => iconMap['cloudLock']!;
   static IconData get cloudLockOpen => iconMap['cloudLockOpen']!;
   static IconData get cloudLockOpenOutline => iconMap['cloudLockOpenOutline']!;
@@ -2226,6 +2241,10 @@ class MdiIcons {
   static IconData get coachLampVariant => iconMap['coachLampVariant']!;
   static IconData get coatRack => iconMap['coatRack']!;
   static IconData get codeArray => iconMap['codeArray']!;
+  static IconData get codeBlockBraces => iconMap['codeBlockBraces']!;
+  static IconData get codeBlockBrackets => iconMap['codeBlockBrackets']!;
+  static IconData get codeBlockParentheses => iconMap['codeBlockParentheses']!;
+  static IconData get codeBlockTags => iconMap['codeBlockTags']!;
   static IconData get codeBraces => iconMap['codeBraces']!;
   static IconData get codeBracesBox => iconMap['codeBracesBox']!;
   static IconData get codeBrackets => iconMap['codeBrackets']!;
@@ -2813,6 +2832,7 @@ class MdiIcons {
   static IconData get donkey => iconMap['donkey']!;
   static IconData get door => iconMap['door']!;
   static IconData get doorClosed => iconMap['doorClosed']!;
+  static IconData get doorClosedCancel => iconMap['doorClosedCancel']!;
   static IconData get doorClosedLock => iconMap['doorClosedLock']!;
   static IconData get doorOpen => iconMap['doorOpen']!;
   static IconData get doorSliding => iconMap['doorSliding']!;
@@ -2877,7 +2897,10 @@ class MdiIcons {
   static IconData get earbudsOffOutline => iconMap['earbudsOffOutline']!;
   static IconData get earbudsOutline => iconMap['earbudsOutline']!;
   static IconData get earth => iconMap['earth']!;
+  static IconData get earthArrowDown => iconMap['earthArrowDown']!;
+  static IconData get earthArrowLeft => iconMap['earthArrowLeft']!;
   static IconData get earthArrowRight => iconMap['earthArrowRight']!;
+  static IconData get earthArrowUp => iconMap['earthArrowUp']!;
   static IconData get earthBox => iconMap['earthBox']!;
   static IconData get earthBoxMinus => iconMap['earthBoxMinus']!;
   static IconData get earthBoxOff => iconMap['earthBoxOff']!;
@@ -2989,12 +3012,18 @@ class MdiIcons {
   static IconData get emoticonKissOutline => iconMap['emoticonKissOutline']!;
   static IconData get emoticonLol => iconMap['emoticonLol']!;
   static IconData get emoticonLolOutline => iconMap['emoticonLolOutline']!;
+  static IconData get emoticonMinus => iconMap['emoticonMinus']!;
+  static IconData get emoticonMinusOutline => iconMap['emoticonMinusOutline']!;
   static IconData get emoticonNeutral => iconMap['emoticonNeutral']!;
   static IconData get emoticonNeutralOutline =>
       iconMap['emoticonNeutralOutline']!;
   static IconData get emoticonOutline => iconMap['emoticonOutline']!;
+  static IconData get emoticonPlus => iconMap['emoticonPlus']!;
+  static IconData get emoticonPlusOutline => iconMap['emoticonPlusOutline']!;
   static IconData get emoticonPoop => iconMap['emoticonPoop']!;
   static IconData get emoticonPoopOutline => iconMap['emoticonPoopOutline']!;
+  static IconData get emoticonRemove => iconMap['emoticonRemove']!;
+  static IconData get emoticonRemoveOutline => iconMap['emoticonRemoveOutline']!;
   static IconData get emoticonSad => iconMap['emoticonSad']!;
   static IconData get emoticonSadOutline => iconMap['emoticonSadOutline']!;
   static IconData get emoticonSick => iconMap['emoticonSick']!;
@@ -3055,6 +3084,7 @@ class MdiIcons {
   static IconData get eyeCheckOutline => iconMap['eyeCheckOutline']!;
   static IconData get eyeCircle => iconMap['eyeCircle']!;
   static IconData get eyeCircleOutline => iconMap['eyeCircleOutline']!;
+  static IconData get eyeClosed => iconMap['eyeClosed']!;
   static IconData get eyeLock => iconMap['eyeLock']!;
   static IconData get eyeLockOpen => iconMap['eyeLockOpen']!;
   static IconData get eyeLockOpenOutline => iconMap['eyeLockOpenOutline']!;
@@ -3361,6 +3391,7 @@ class MdiIcons {
   static IconData get fireHydrantAlert => iconMap['fireHydrantAlert']!;
   static IconData get fireHydrantOff => iconMap['fireHydrantOff']!;
   static IconData get fireOff => iconMap['fireOff']!;
+  static IconData get fireStation => iconMap['fireStation']!;
   static IconData get fireTruck => iconMap['fireTruck']!;
   static IconData get firebase => iconMap['firebase']!;
   static IconData get firefox => iconMap['firefox']!;
@@ -3873,6 +3904,8 @@ class MdiIcons {
   static IconData get gasBurner => iconMap['gasBurner']!;
   static IconData get gasCylinder => iconMap['gasCylinder']!;
   static IconData get gasStation => iconMap['gasStation']!;
+  static IconData get gasStationInUse => iconMap['gasStationInUse']!;
+  static IconData get gasStationInUseOutline => iconMap['gasStationInUseOutline']!;
   static IconData get gasStationOff => iconMap['gasStationOff']!;
   static IconData get gasStationOffOutline => iconMap['gasStationOffOutline']!;
   static IconData get gasStationOutline => iconMap['gasStationOutline']!;
@@ -3902,6 +3935,9 @@ class MdiIcons {
       iconMap['genderMaleFemaleVariant']!;
   static IconData get genderNonBinary => iconMap['genderNonBinary']!;
   static IconData get genderTransgender => iconMap['genderTransgender']!;
+  static IconData get generatorMobile => iconMap['generatorMobile']!;
+  static IconData get generatorPortable => iconMap['generatorPortable']!;
+  static IconData get generatorStationary => iconMap['generatorStationary']!;
   static IconData get gentoo => iconMap['gentoo']!;
   static IconData get gesture => iconMap['gesture']!;
   static IconData get gestureDoubleTap => iconMap['gestureDoubleTap']!;
@@ -4144,6 +4180,7 @@ class MdiIcons {
   static IconData get heartPulse => iconMap['heartPulse']!;
   static IconData get heartRemove => iconMap['heartRemove']!;
   static IconData get heartRemoveOutline => iconMap['heartRemoveOutline']!;
+  static IconData get heartSearch => iconMap['heartSearch']!;
   static IconData get heartSettings => iconMap['heartSettings']!;
   static IconData get heartSettingsOutline => iconMap['heartSettingsOutline']!;
   static IconData get heatPump => iconMap['heatPump']!;
@@ -4274,7 +4311,10 @@ class MdiIcons {
   static IconData get hospitalBuilding => iconMap['hospitalBuilding']!;
   static IconData get hospitalMarker => iconMap['hospitalMarker']!;
   static IconData get hotTub => iconMap['hotTub']!;
+  static IconData get hours12 => iconMap['hours12']!;
   static IconData get hours24 => iconMap['hours24']!;
+  static IconData get hub => iconMap['hub']!;
+  static IconData get hubOutline => iconMap['hubOutline']!;
   static IconData get hubspot => iconMap['hubspot']!;
   static IconData get hulu => iconMap['hulu']!;
   static IconData get human => iconMap['human']!;
@@ -4292,6 +4332,7 @@ class MdiIcons {
   static IconData get humanFemaleBoy => iconMap['humanFemaleBoy']!;
   static IconData get humanFemaleDance => iconMap['humanFemaleDance']!;
   static IconData get humanFemaleFemale => iconMap['humanFemaleFemale']!;
+  static IconData get humanFemaleFemaleChild => iconMap['humanFemaleFemaleChild']!;
   static IconData get humanFemaleGirl => iconMap['humanFemaleGirl']!;
   static IconData get humanGreeting => iconMap['humanGreeting']!;
   static IconData get humanGreetingProximity =>
@@ -4311,6 +4352,7 @@ class MdiIcons {
   static IconData get humanMaleHeightVariant =>
       iconMap['humanMaleHeightVariant']!;
   static IconData get humanMaleMale => iconMap['humanMaleMale']!;
+  static IconData get humanMaleMaleChild => iconMap['humanMaleMaleChild']!;
   static IconData get humanNonBinary => iconMap['humanNonBinary']!;
   static IconData get humanPregnant => iconMap['humanPregnant']!;
   static IconData get humanQueue => iconMap['humanQueue']!;
@@ -4455,6 +4497,7 @@ class MdiIcons {
   static IconData get ironBoard => iconMap['ironBoard']!;
   static IconData get ironOutline => iconMap['ironOutline']!;
   static IconData get island => iconMap['island']!;
+  static IconData get islandVariant => iconMap['islandVariant']!;
   static IconData get ivBag => iconMap['ivBag']!;
   static IconData get jabber => iconMap['jabber']!;
   static IconData get jeepney => iconMap['jeepney']!;
@@ -4710,6 +4753,9 @@ class MdiIcons {
   static IconData get linkBoxVariant => iconMap['linkBoxVariant']!;
   static IconData get linkBoxVariantOutline =>
       iconMap['linkBoxVariantOutline']!;
+  static IconData get linkCircle => iconMap['linkCircle']!;
+  static IconData get linklinkCircleOutlineLock => iconMap['linkCircleOutline']!;
+  static IconData get linkEdit => iconMap['linkEdit']!;
   static IconData get linkLock => iconMap['linkLock']!;
   static IconData get linkOff => iconMap['linkOff']!;
   static IconData get linkPlus => iconMap['linkPlus']!;
@@ -4899,9 +4945,11 @@ class MdiIcons {
   static IconData get medicationOutline => iconMap['medicationOutline']!;
   static IconData get meditation => iconMap['meditation']!;
   static IconData get memory => iconMap['memory']!;
+  static IconData get memoryArrowDown => iconMap['memoryArrowDown']!;
   static IconData get menorah => iconMap['menorah']!;
   static IconData get menorahFire => iconMap['menorahFire']!;
   static IconData get menu => iconMap['menu']!;
+  static IconData get menuClose => iconMap['menuClose']!;
   static IconData get menuDown => iconMap['menuDown']!;
   static IconData get menuDownOutline => iconMap['menuDownOutline']!;
   static IconData get menuLeft => iconMap['menuLeft']!;
@@ -5654,7 +5702,13 @@ class MdiIcons {
   static IconData get parking => iconMap['parking']!;
   static IconData get partyPopper => iconMap['partyPopper']!;
   static IconData get passport => iconMap['passport']!;
+  static IconData get passportAlert => iconMap['passportAlert']!;
   static IconData get passportBiometric => iconMap['passportBiometric']!;
+  static IconData get passportCancel => iconMap['passportCancel']!;
+  static IconData get passportCheck => iconMap['passportCheck']!;
+  static IconData get passportMinus => iconMap['passportMinus']!;
+  static IconData get passportPlus => iconMap['passportPlus']!;
+  static IconData get passportRemove => iconMap['passportRemove']!;
   static IconData get pasta => iconMap['pasta']!;
   static IconData get patioHeater => iconMap['patioHeater']!;
   static IconData get patreon => iconMap['patreon']!;
@@ -5877,6 +5931,7 @@ class MdiIcons {
   static IconData get plusNetworkOutline => iconMap['plusNetworkOutline']!;
   static IconData get plusOutline => iconMap['plusOutline']!;
   static IconData get plusThick => iconMap['plusThick']!;
+  static IconData get pocket => iconMap['pocket']!;
   static IconData get podcast => iconMap['podcast']!;
   static IconData get podium => iconMap['podium']!;
   static IconData get podiumBronze => iconMap['podiumBronze']!;
@@ -6086,6 +6141,7 @@ class MdiIcons {
   static IconData get qualityHigh => iconMap['qualityHigh']!;
   static IconData get qualityLow => iconMap['qualityLow']!;
   static IconData get qualityMedium => iconMap['qualityMedium']!;
+  static IconData get queueFirstInLastOut => iconMap['queueFirstInLastOut']!;
   static IconData get quora => iconMap['quora']!;
   static IconData get rabbit => iconMap['rabbit']!;
   static IconData get rabbitVariant => iconMap['rabbitVariant']!;
@@ -6379,6 +6435,7 @@ class MdiIcons {
   static IconData get roundedCorner => iconMap['roundedCorner']!;
   static IconData get router => iconMap['router']!;
   static IconData get routerNetwork => iconMap['routerNetwork']!;
+  static IconData get routerNetworkWireless => iconMap['routerNetworkWireless']!;
   static IconData get routerWireless => iconMap['routerWireless']!;
   static IconData get routerWirelessOff => iconMap['routerWirelessOff']!;
   static IconData get routerWirelessSettings =>
@@ -6529,10 +6586,14 @@ class MdiIcons {
   static IconData get serialPort => iconMap['serialPort']!;
   static IconData get server => iconMap['server']!;
   static IconData get serverMinus => iconMap['serverMinus']!;
+  static IconData get serverMinusOutline => iconMap['serverMinusOutline']!;
   static IconData get serverNetwork => iconMap['serverNetwork']!;
+  static IconData get serverNetworkOutline => iconMap['serverNetworkOutline']!;
   static IconData get serverNetworkOff => iconMap['serverNetworkOff']!;
   static IconData get serverOff => iconMap['serverOff']!;
+  static IconData get serverOutline => iconMap['serverOutline']!;
   static IconData get serverPlus => iconMap['serverPlus']!;
+  static IconData get serverPlusOutline => iconMap['serverPlusOutline']!;
   static IconData get serverRemove => iconMap['serverRemove']!;
   static IconData get serverSecurity => iconMap['serverSecurity']!;
   static IconData get setAll => iconMap['setAll']!;
@@ -7223,6 +7284,8 @@ class MdiIcons {
   static IconData get tagArrowUpOutline => iconMap['tagArrowUpOutline']!;
   static IconData get tagCheck => iconMap['tagCheck']!;
   static IconData get tagCheckOutline => iconMap['tagCheckOutline']!;
+  static IconData get tagEdit => iconMap['tagEdit']!;
+  static IconData get tagEditOutline => iconMap['tagEditOutline']!;
   static IconData get tagFaces => iconMap['tagFaces']!;
   static IconData get tagHeart => iconMap['tagHeart']!;
   static IconData get tagHeartOutline => iconMap['tagHeartOutline']!;
@@ -7512,6 +7575,7 @@ class MdiIcons {
   static IconData get trafficLight => iconMap['trafficLight']!;
   static IconData get trafficLightOutline => iconMap['trafficLightOutline']!;
   static IconData get train => iconMap['train']!;
+  static IconData get trainBus => iconMap['trainBus']!;
   static IconData get trainCar => iconMap['trainCar']!;
   static IconData get trainCarAutorack => iconMap['trainCarAutorack']!;
   static IconData get trainCarBox => iconMap['trainCarBox']!;
@@ -7614,6 +7678,8 @@ class MdiIcons {
   static IconData get truckFlatbed => iconMap['truckFlatbed']!;
   static IconData get truckMinus => iconMap['truckMinus']!;
   static IconData get truckMinusOutline => iconMap['truckMinusOutline']!;
+  static IconData get truckOffRoad => iconMap['truckOffRoad']!;
+  static IconData get truckOffRoadOff => iconMap['truckOffRoadOff']!;
   static IconData get truckOutline => iconMap['truckOutline']!;
   static IconData get truckPlus => iconMap['truckPlus']!;
   static IconData get truckPlusOutline => iconMap['truckPlusOutline']!;
@@ -7685,6 +7751,7 @@ class MdiIcons {
   static IconData get uploadOffOutline => iconMap['uploadOffOutline']!;
   static IconData get uploadOutline => iconMap['uploadOutline']!;
   static IconData get usb => iconMap['usb']!;
+  static IconData get usbCPort => iconMap['usbCPort']!;
   static IconData get usbFlashDrive => iconMap['usbFlashDrive']!;
   static IconData get usbFlashDriveOutline => iconMap['usbFlashDriveOutline']!;
   static IconData get usbPort => iconMap['usbPort']!;
@@ -7769,6 +7836,7 @@ class MdiIcons {
   static IconData get videoPlus => iconMap['videoPlus']!;
   static IconData get videoPlusOutline => iconMap['videoPlusOutline']!;
   static IconData get videoStabilization => iconMap['videoStabilization']!;
+  static IconData get videoStandardDefinition => iconMap['videoStandardDefinition']!;
   static IconData get videoSwitch => iconMap['videoSwitch']!;
   static IconData get videoSwitchOutline => iconMap['videoSwitchOutline']!;
   static IconData get videoVintage => iconMap['videoVintage']!;
@@ -7929,6 +7997,9 @@ class MdiIcons {
   static IconData get wateringCanOutline => iconMap['wateringCanOutline']!;
   static IconData get watermark => iconMap['watermark']!;
   static IconData get wave => iconMap['wave']!;
+  static IconData get waveArrowDown => iconMap['waveArrowDown']!;
+  static IconData get waveArrowUp => iconMap['waveArrowUp']!;
+  static IconData get waveUndercut => iconMap['waveUndercut']!;
   static IconData get waveform => iconMap['waveform']!;
   static IconData get waves => iconMap['waves']!;
   static IconData get wavesArrowLeft => iconMap['wavesArrowLeft']!;
