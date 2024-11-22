@@ -3,8 +3,9 @@
 Update icons to 7.4.47 of mdi.
 
 Icons that have been added can be found at:
-**7.3.67**: https://pictogrammers.com/library/mdi/version/7.3.67
-**7.4.47**: https://pictogrammers.com/library/mdi/version/7.4.47
+
+* **7.3.67**: https://pictogrammers.com/library/mdi/version/7.3.67
+* **7.4.47**: https://pictogrammers.com/library/mdi/version/7.4.47
 
 ## 7.0.7296
 
